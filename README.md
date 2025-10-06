@@ -1,12 +1,127 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=texxasrulez&label=Profile%20views&color=0e75b6&style=flat" alt="texxasrulez" /> </p><h1>Howdy 👋, I'm Gene</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=texxasrulez&label=Profile%20views&color=0e75b6&style=plastic" alt="texxasrulez" /> </p>
 
-<h3>I am just a simple man from rural Texas.</h3>
+<h1 align="center">🤠 Howdy! I'm <a href="https://github.com/texxasrulez">Gene</a></h1>
+<p align="center">
+  <em>Full-stack experimenter • Roundcube plugin dev • Automation wrangler</em>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=texxasrulez&show_icons=true&locale=en&layout=compact" alt="texxasrulez" /></p>
+### 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=texxasrulez&show_icons=true&locale=en" alt="texxasrulez" /></p>
+- 💻 Building advanced **Roundcube plugins**: `Scheduled Sending`, `Signature Randomizer`, `Info Portal`, `Plugin Manager`
+- ⚙️ Fluent in `PHP`, `JavaScript`, `CSS`, `HTML`, `MySQL`, `Python`, `Bash`
+- 🧩 Maintainable architecture, modular design, and debugging done right
+- 🔭 I test, break, rebuild, and document until it sings
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=texxasrulez&" alt="texxasrulez" /></p>
+---
+
+### 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown" />
+</p>
+
+---
+
+### 📈 GitHub Stats (Auto-updating)
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=texxasrulez&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=texxasrulez&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Profile Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=onedark&no-frame=true&margin-w=10&column=6" />
+</p>
+
+---
+
+### 🕰️ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=texxasrulez&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 📦 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/texxasrulez/scheduled_sending">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/texxasrulez/signature_randomizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### ⚡ Quick Facts
+
+- 🎨 Built **8+ custom Roundcube skins**
+- 🔍 Debugging wizardry with `rcmail`, `console`, and custom logger hooks
+- 📦 Composer installable everything
+- 🧭 Multi-language setup with DeepL automation
+- 🪄 Clean code, clean themes, clean conscience
+
+---
+
+### 💬 Quote of the Day
+<!--QUOTE:START-->
+Fetching today’s quote…
+<!--QUOTE:END-->
+
+---
+
+### 🔥 Commit Streaks
+<!--STREAKS:START-->
+Current Streak: — days  
+Longest Streak: — days
+<!--STREAKS:END-->
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/texxasrulez"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:texxasrulez@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/texxasrulez">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+---
+
+### 🧩 Repo Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=texxasrulez&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/texxasrulez?style=social)
+![Stars](https://img.shields.io/github/stars/texxasrulez?style=social)
+
+---
+
+#### 🕰️ Last Updated
+<!--DATE:START-->
+1970-01-01 00:00:00 UTC
+<!--DATE:END-->
+
+> _This README auto-updates daily via GitHub Actions._
+
+---
+
+**🚀 Stay curious, stay building.**
