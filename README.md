@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1>Hi 👋, I'm Gene Hawkins</h1>
 <h3>Just a simple man from Texas</h3>
 
