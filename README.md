@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 💻 Building advanced **Roundcube plugins**: `Scheduled Sending`, `Signature Randomizer`, `Info Portal`, `Plugin Manager`
-- ⚙️ Fluent in `PHP`, `JavaScript`, `CSS`, `HTML`, `MySQL`, `Python`, `Bash`
+- ⚙️ Quasi Fluent in `PHP`, `JavaScript`, `CSS`, `HTML`, `MySQL`, `Python`, `Bash`
 - 🧩 Maintainable architecture, modular design, and debugging done right
 - 🔭 I test, break, rebuild, and document until it sings
 
@@ -49,16 +49,10 @@
 
 ---
 
-### 📦 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/texxasrulez/scheduled_sending">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/texxasrulez/signature_randomizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=tokyonight" />
-  </a>
-</p>
+### 📦 Featured Projects (Rotating)
+<!--FEATURED:START-->
+Loading featured repositories…
+<!--FEATURED:END-->
 
 ---
 
@@ -84,6 +78,27 @@ Fetching today’s quote…
 Current Streak: — days  
 Longest Streak: — days
 <!--STREAKS:END-->
+
+---
+
+### 🛠️ Dev Tip of the Day
+<!--TIP:START-->
+Tip loading…
+<!--TIP:END-->
+
+---
+
+### 📥 Release Download Counts (Top)
+<!--RELEASES:START-->
+Gathering release stats…
+<!--RELEASES:END-->
+
+---
+
+### 📰 Latest Posts
+<!--BLOG:START-->
+Add `BLOG_RSS_URL` to enable blog posts.
+<!--BLOG:END-->
 
 ---
 
