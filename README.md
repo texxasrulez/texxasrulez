@@ -147,17 +147,15 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 ### ☕ Support My Work
 
-
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white&style=plastic)](https://www.paypal.com/paypalme/texxasrulez)
-
 
 ---
 
 ### 🧩 Repo Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=texxasrulez&color=blueviolet&style=plastic)
-![Followers](https://img.shields.io/github/followers/texxasrulez?style=plastic)
-![Stars](https://img.shields.io/github/stars/texxasrulez?style=plastic)
+[![Followers](https://img.shields.io/github/followers/texxasrulez?style=plastic)](https://github.com/texxasrulez?tab=followers)
+[![Stars](https://img.shields.io/github/stars/texxasrulez?style=plastic)](https://github.com/texxasrulez)
 
 ---
 
