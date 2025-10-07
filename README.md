@@ -24,9 +24,12 @@
 
 <p align="center">
   <picture>
-	<img src="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown&theme=light">
+    <img alt="Tech stack" src="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown&theme=light" />
   </picture>
 </p>
+
 
 ---
 
