@@ -106,8 +106,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Make your stand today. On this spot. On this day.”
-— <em>Ming-Dao Deng</em>
+> “Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.”
+— <em>Carl Jung</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 14:45:28 UTC
+2025-10-07 14:46:36 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
