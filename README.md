@@ -15,6 +15,7 @@
 - ⚙️ Quasi Fluent in `PHP`, `JavaScript`, `CSS`, `HTML`, `MySQL`, `Python`, `Bash`
 - 🧩 Maintainable architecture, modular design, and debugging done right
 - 🔭 I test, break, rebuild, and document until it sings
+- ⚓ US Navy Veteran
 
 ---
 
@@ -112,7 +113,7 @@ Longest Streak: 11 days
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=texxasrulez&" alt="texxasrulez" /></p>
 ---
 
-### 🛠️ Dev Tip of the Day
+### 🛠️ Tip of the Day
 <!--TIP:START-->
 Plant your taters deep.
 <!--TIP:END-->
