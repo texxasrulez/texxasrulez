@@ -54,9 +54,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=onedark&no-frame=false&margin-w=15&column=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=flat&no-frame=false&margin-w=15&column=6">
-    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=flat&no-frame=false&margin-w=15&column=6" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=onedark&no-frame=false&margin-w=15&margin-h=15&column=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=flat&no-frame=false&margin-w=15&margin-h=15&column=6">
+    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=flat&no-frame=false&margin-w=15&margin-h=15&column=6" />
   </picture>
 </p>
 
@@ -106,8 +106,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Those who are easily shocked should be shocked more often.”
-— <em>Mae West</em>
+> “Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.”
+— <em>Martin Luther</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 08:55:14 UTC
+2025-10-07 08:51:44 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
