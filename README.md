@@ -67,8 +67,8 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=texxasrulez&theme=react-dark&area=true&grid=false&line=8aa8c2&area_color=000080">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=texxasrulez&theme=minimal&area=true&grid=false&line=000080&area_color=8aa8c2">
-    <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=texxasrulez&theme=minimal&area=true&grid=false&line=000080&area_color=8aa8c2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=texxasrulez&theme=minimal&area=true&grid=false&line=8aa8c2&area_color=000080">
+    <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=texxasrulez&theme=minimal&area=true&grid=false&line=8aa8c2&area_color=000080" />
   </picture>
 </p>
 
