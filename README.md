@@ -130,7 +130,7 @@ _No release downloads found across recent repositories._
 
 ### 📰 Latest Posts
 <!--BLOG:START-->
-Add `BLOG_RSS_URL` to enable blog posts.
+https://github.com/texxasrulez.atom
 <!--BLOG:END-->
 
 ---
