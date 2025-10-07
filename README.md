@@ -120,7 +120,7 @@ Longest Streak: 11 days
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=texxasrulez&theme=tokyonight&hide_border=false">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=texxasrulez&theme=tokyonight">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=texxasrulez&theme=default&hide_border=true" alt="Streak stats" />
   </picture>
 </p>
