@@ -22,6 +22,11 @@ FEATURED_FILE = os.getenv("FEATURED_FILE", "data/featured_repos.txt")
 MAX_RELEASE_REPOS = int(os.getenv("MAX_RELEASE_REPOS", "6"))
 MAX_BLOG_ITEMS = int(os.getenv("MAX_BLOG_ITEMS", "5"))
 
+# FEATURED rendering controls
+FEATURED_COUNT = max(1, int(os.getenv("FEATURED_COUNT", "2")))  # how many cards to show
+FEATURED_LIGHT_THEME = os.getenv("FEATURED_LIGHT_THEME", "default")
+FEATURED_DARK_THEME = os.getenv("FEATURED_DARK_THEME", "tokyonight")
+
 # Markers
 QUOTE_S, QUOTE_E = "<!--QUOTE:START-->", "<!--QUOTE:END-->"
 STREAK_S, STREAK_E = "<!--STREAKS:START-->", "<!--STREAKS:END-->"
@@ -45,7 +50,8 @@ def write_text(path: str, content: str) -> None:
 def replace_block(content: str, start_marker: str, end_marker: str, new_inner: str) -> str:
     pattern = re.compile(rf"({re.escape(start_marker)})(.*?){re.escape(end_marker)}", re.DOTALL)
     if not pattern.search(content):
-        return content + f"\n{start_marker}\n{new_inner}\n{end_marker}\n"
+        # If markers missing, do nothing (safer than appending at end for profile READMEs)
+        return content
     return pattern.sub(rf"\1\n{new_inner}\n{end_marker}", content)
 
 
@@ -151,7 +157,7 @@ def fetch_streaks_md(username: str) -> str:
 
 
 def deterministic_index(items_len: int, salt: str = "") -> int:
-    """Rotate predictably by ISO week, salted by string (e.g., repo list)."""
+    """Rotate predictably by ISO week, salted by string name."""
     if items_len <= 0:
         return 0
     y, w, _ = date.today().isocalendar()
@@ -161,19 +167,34 @@ def deterministic_index(items_len: int, salt: str = "") -> int:
 
 def load_lines(path: str) -> List[str]:
     try:
-        lines = [ln.strip() for ln in read_text(path).splitlines() if ln.strip() and not ln.strip().startswith("#")]
-        return lines
+        return [ln.strip() for ln in read_text(path).splitlines() if ln.strip() and not ln.strip().startswith("#")]
     except FileNotFoundError:
         return []
+
+
+def _pin_card(owner: str, repo: str) -> str:
+    """Theme-aware pin card HTML using <picture>, matching your style."""
+    light = f"https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo}&theme={FEATURED_LIGHT_THEME}"
+    dark = f"https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo}&theme={FEATURED_DARK_THEME}"
+    return (
+        f'<a href="https://github.com/{owner}/{repo}">\n'
+        f'  <picture>\n'
+        f'    <source media="(prefers-color-scheme: dark)" srcset="{dark}">\n'
+        f'    <img src="{light}" alt="{repo}" />\n'
+        f'  </picture>\n'
+        f'</a>'
+    )
 
 
 def fetch_featured_md() -> str:
     repos = load_lines(FEATURED_FILE)
     if not repos:
         return "_Add repositories to `data/featured_repos.txt` to enable rotation._"
-    idx = deterministic_index(len(repos), salt="featured")
-    # choose up to 2 consecutive repos to showcase
-    chosen = [repos[idx], repos[(idx + 1) % len(repos)]] if len(repos) > 1 else [repos[idx]]
+
+    start = deterministic_index(len(repos), salt="featured")
+    chosen = []
+    for i in range(FEATURED_COUNT):
+        chosen.append(repos[(start + i) % len(repos)])
 
     cards = []
     for full in chosen:
@@ -181,14 +202,12 @@ def fetch_featured_md() -> str:
             owner, repo = full.split("/", 1)
         except ValueError:
             continue
-        card = f'<a href="https://github.com/{owner}/{repo}">\n' \
-               f'  <img src="https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo}&theme=tokyonight" />\n' \
-               f'</a>'
-        cards.append(card)
+        cards.append(_pin_card(owner, repo))
 
     if not cards:
         return "_No valid repositories listed in `data/featured_repos.txt`._"
 
+    # Centered row of cards
     return '<p align="center">\n' + "\n".join(cards) + "\n</p>"
 
 
@@ -201,9 +220,7 @@ def fetch_tip_md() -> str:
 
 
 def fetch_release_stats_md(owner: str) -> str:
-    """Aggregate latest release asset downloads for a handful of repos.
-    Strategy: list public repos (sorted by updated), scan releases for each until cap.
-    """
+    """Aggregate release asset downloads for recent repos."""
     try:
         repos = gh_rest(f"/users/{owner}/repos?per_page=100&type=owner&sort=updated")
     except Exception:
@@ -217,9 +234,8 @@ def fetch_release_stats_md(owner: str) -> str:
         if r.get("archived") or r.get("disabled"):
             continue
         name = r.get("name")
-        full = r.get("full_name")
-        # Skip the profile repo itself
-        if full.lower() == f"{owner}/{owner}".lower():
+        full = r.get("full_name", "").lower()
+        if full == f"{owner}/{owner}".lower():  # skip profile repo
             continue
         try:
             rels = gh_rest(f"/repos/{owner}/{name}/releases?per_page=10")
@@ -271,8 +287,7 @@ def fetch_blog_md() -> str:
         if not items:
             return "_No posts found in RSS feed._"
         items = items[:MAX_BLOG_ITEMS]
-        lines = [f"- [{t}]({u})" for t, u in items]
-        return "\n".join(lines)
+        return "\n".join(f"- [{t}]({u})" for t, u in items)
     except Exception:
         return "_Blog feed fetch failed. Check `BLOG_RSS_URL`._"
 
@@ -288,15 +303,14 @@ def main():
         # Quote
         content = replace_block(content, QUOTE_S, QUOTE_E, fetch_quote_md())
 
-        # Streaks
-        # Using OWNER for contributions; if the profile is org-managed, fall back to USER
+        # Streaks (use OWNER; fallback to USER)
         streak_user = OWNER or USER
         content = replace_block(content, STREAK_S, STREAK_E, fetch_streaks_md(streak_user))
 
         # Tip of the Day
         content = replace_block(content, TIP_S, TIP_E, fetch_tip_md())
 
-        # Featured rotating
+        # Featured rotating (auto, theme-aware)
         content = replace_block(content, FEAT_S, FEAT_E, fetch_featured_md())
 
         # Release stats
