@@ -168,3 +168,5 @@ Add `BLOG_RSS_URL` to enable blog posts.
 ---
 
 **🚀 Stay curious, stay building.**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=texxasrulez&" alt="texxasrulez" /></p>
