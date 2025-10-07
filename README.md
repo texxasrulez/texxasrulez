@@ -106,8 +106,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Many roads lead to the path, but basically there are only two: reason and practice.”
-— <em>Bodhidharma</em>
+> “The price of inaction is far greater than the cost of making a mistake.”
+— <em>Meister Eckhart</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 14:38:20 UTC
+2025-10-07 14:39:10 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
