@@ -1,4 +1,4 @@
-Prefer pure functions; side effects are where bugs hide.
+Prefer pure functions; side effects are where bugs hide. 🪲
 Name things precisely. Future-you is your angriest code reviewer.
 Fail fast, log clearly, recover gracefully.
 Small commits, great diffs. Atomic changes win.
