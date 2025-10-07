@@ -109,7 +109,7 @@
 Current Streak: 0 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=texxasrulez&" alt="texxasrulez" /></p>
 ---
 
 ### 🛠️ Dev Tip of the Day
@@ -168,5 +168,3 @@ Add `BLOG_RSS_URL` to enable blog posts.
 ---
 
 **🚀 Stay curious, stay building.**
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=texxasrulez&" alt="texxasrulez" /></p>
