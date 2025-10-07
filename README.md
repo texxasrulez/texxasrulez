@@ -144,9 +144,9 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 ### ☕ Support My Work
 
-<p align="left">
+
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/texxasrulez)
-</p>
+
 
 ---
 
