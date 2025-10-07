@@ -160,7 +160,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 ### ☕ Support My Work
 
-[![Donate via PayPal](https://img.shields.io/badge/Donate-Money_Please-00457C?logo=paypal&logoColor=white&style=plastic&labelColor=navy&color=darkgreen)](https://www.paypal.com/paypalme/texxasrulez)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-Money%20Please-00457C?logo=paypal&logoColor=white&style=plastic&labelColor=navy&color=darkgreen)](https://www.paypal.com/paypalme/texxasrulez)
 
 ---
 
