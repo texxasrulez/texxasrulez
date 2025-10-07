@@ -106,8 +106,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Unless you're ashamed of yourself now and then, you're not honest.”
-— <em>William Faulkner</em>
+> “Many roads lead to the path, but basically there are only two: reason and practice.”
+— <em>Bodhidharma</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 14:37:15 UTC
+2025-10-07 14:38:20 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
