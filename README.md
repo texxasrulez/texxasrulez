@@ -76,6 +76,7 @@
 
 ### 📦 Featured Projects
 <!--FEATURED:START-->
+<picture>
 <p align="center">
 <a href="https://github.com/texxasrulez/pink-larry">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight" />
@@ -84,6 +85,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight" />
 </a>
 </p>
+</picture>
 <!--FEATURED:END-->
 
 ---
