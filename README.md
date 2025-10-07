@@ -1,17 +1,7 @@
-<!-- Theme-aware README for texxasrulez -->
-
 <p>
-  <!-- Profile views: light/dark variants -->
-  <img align="left" src="https://komarev.com/ghpvc/?username=texxasrulez&label=Profile%20views&color=0e75b6&style=plastic#gh-light-mode-only" alt="Profile views (light)" />
-  <img align="left" src="https://komarev.com/ghpvc/?username=texxasrulez&label=Profile%20views&color=0e75b6&style=plastic&labelColor=2d333b#gh-dark-mode-only" alt="Profile views (dark)" />
-
-  <!-- Texas flag (optional dark variant if you add assets/images/texas-flag-dark.png) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/texxasrulez/texxasrulez/raw/main/assets/images/texas-flag.png">
-    <img align="right" src="https://github.com/texxasrulez/texxasrulez/raw/main/assets/images/texas-flag.png" height="48" alt="Texas flag" />
-  </picture>
+  <img align="left" src="https://komarev.com/ghpvc/?username=texxasrulez&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" />
+  <img align="right" src="https://github.com/texxasrulez/texxasrulez/blob/main/assets/images/texas-flag.png" height="48">
 </p>
-
 <h1> Howdy! I'm <a href="https://github.com/texxasrulez">Gene</a></h1>
 <p>
   <em>Full-stack experimenter • Roundcube plugin dev • Automation wrangler</em>
@@ -34,9 +24,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown&theme=light">
-    <img alt="Tech stack" src="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown&theme=light" />
+	<img src="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown" />
   </picture>
 </p>
 
@@ -118,8 +106,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Judgments prevent us from seeing the good that lies beyond appearances.”
-— <em>Wayne Dyer</em>
+> “There is no significance in life without struggle.”
+— <em>Lolly Daskal</em>
 <!--QUOTE:END-->
 
 ---
@@ -132,7 +120,7 @@ Longest Streak: 11 days
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=texxasrulez&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=texxasrulez&theme=tokyonight">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=texxasrulez&theme=default&hide_border=true" alt="Streak stats" />
   </picture>
 </p>
@@ -163,62 +151,30 @@ Add `BLOG_RSS_URL` to enable blog posts.
 ### 🔗 Connect With Me
 
 <p align="left">
-  <!-- Email badge: light/dark -->
-  <a href="mailto:texxasrulez@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=plastic&logo=gmail&logoColor=white#gh-light-mode-only" alt="Email (light)" />
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=plastic&logo=gmail&logoColor=white&labelColor=2d333b#gh-dark-mode-only" alt="Email (dark)" />
-  </a>
-
-  <a href="https://github.com/texxasrulez">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=plastic&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <!-- Website badge: provide light/dark for contrast -->
-  <a href="https://www.genesworld.net/kontact.html" target="_blank" rel="noopener noreferrer">
-    <img alt="Genesworld.net (light)"
-         src="https://img.shields.io/website?url=https%3A%2F%2Fwww.genesworld.net%2Fkontact.html&up_message=Online&up_color=2e7d32&down_message=Offline&down_color=b71c1c&style=plastic&logo=website&logoColor=white&label=Genesworld.net&labelColor=1e88e5#gh-light-mode-only">
-    <img alt="Genesworld.net (dark)"
-         src="https://img.shields.io/website?url=https%3A%2F%2Fwww.genesworld.net%2Fkontact.html&up_message=Online&up_color=2e7d32&down_message=Offline&down_color=b71c1c&style=plastic&logo=website&logoColor=white&label=Genesworld.net&labelColor=2d333b#gh-dark-mode-only">
-  </a>
+  <a href="mailto:texxasrulez@yahoo.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=plastic&logo=gmail&logoColor=white&labelColor=2d333b#gh-dark-mode-only" alt="Email (dark)" /></a>
+  <a href="https://github.com/texxasrulez"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=plastic&logo=github&logoColor=white" /></a>
+  <a href="https://www.genesworld.net/kontact.html" target="_blank" rel="noopener noreferrer"><img alt="Genesworld.net" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.genesworld.net%2Fkontact.html&up_message=Online&up_color=darkgreen&down_message=Offline&down_color=crimson&style=plastic&logo=website&logoColor=white&label=Genesworld.net&labelColor=blue"></a>
 </p>
 
 ---
 
 ### ☕ Support My Work
 
-<!-- PayPal donate badge with theme-aware variant -->
-<p>
-  <a href="https://www.paypal.com/paypalme/texxasrulez">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white&style=plastic&labelColor=2d333b">
-      <img alt="Donate via PayPal" src="https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white&style=plastic">
-    </picture>
-  </a>
-</p>
+[![Donate via PayPal](https://img.shields.io/badge/Donate-Money_Please-00457C?logo=paypal&logoColor=white&style=plastic&labelColor=navy&color=darkgreen)](https://www.paypal.com/paypalme/texxasrulez)
 
 ---
 
 ### 🧩 Repo Stats
 
-<!-- Make these theme-aware with fragments -->
-<a href="https://github.com/texxasrulez">
-  <img src="https://komarev.com/ghpvc/?username=texxasrulez&color=8a2be2&style=plastic#gh-light-mode-only" alt="Profile Views (light)" />
-  <img src="https://komarev.com/ghpvc/?username=texxasrulez&color=8a2be2&style=plastic&labelColor=2d333b#gh-dark-mode-only" alt="Profile Views (dark)" />
-</a>
-<a href="https://github.com/texxasrulez?tab=followers">
-  <img src="https://img.shields.io/github/followers/texxasrulez?style=plastic&labelColor=1e88e5&color=fdd835#gh-light-mode-only" alt="Followers (light)" />
-  <img src="https://img.shields.io/github/followers/texxasrulez?style=plastic&labelColor=2d333b&color=fdd835#gh-dark-mode-only" alt="Followers (dark)" />
-</a>
-<a href="https://github.com/texxasrulez">
-  <img src="https://img.shields.io/github/stars/texxasrulez?style=plastic&labelColor=0d47a1&color=00e5ff#gh-light-mode-only" alt="Stars (light)" />
-  <img src="https://img.shields.io/github/stars/texxasrulez?style=plastic&labelColor=2d333b&color=00e5ff#gh-dark-mode-only" alt="Stars (dark)" />
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=texxasrulez&color=blueviolet&style=plastic)](https://github.com/texxasrulez)
+[![Followers](https://img.shields.io/github/followers/texxasrulez?style=plastic&labelColor=blue&color=gold)](https://github.com/texxasrulez?tab=followers)
+[![Stars](https://img.shields.io/github/stars/texxasrulez?style=plastic&labelColor=navy&color=aqua)](https://github.com/texxasrulez)
 
 ---
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 08:23:37 UTC
+2025-10-07 08:19:24 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
