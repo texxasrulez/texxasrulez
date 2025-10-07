@@ -76,7 +76,6 @@
 
 ### 📦 Featured Projects
 <!--FEATURED:START-->
-<picture>
 <p align="center">
 <a href="https://github.com/texxasrulez/pink-larry">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight" />
@@ -85,7 +84,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight" />
 </a>
 </p>
-</picture>
 <!--FEATURED:END-->
 
 ---
@@ -102,8 +100,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Ideas do not reach perfection in a day, no matter how much study is put upon them.”
-— <em>Alexander Graham Bell</em>
+> “A crisis is an opportunity riding the dangerous wind.”
+— <em>Chinese Proverb</em>
 <!--QUOTE:END-->
 
 ---
@@ -164,7 +162,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 07:45:34 UTC
+2025-10-07 07:49:58 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
