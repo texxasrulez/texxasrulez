@@ -106,8 +106,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.”
-— <em>Ming-Dao Deng</em>
+> “It is not the knowing that is difficult, but the doing.”
+— <em>Chinese Proverb</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 08:35:46 UTC
+2025-10-07 08:39:22 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
