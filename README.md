@@ -120,8 +120,8 @@ Longest Streak: 11 days
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=texxasrulez&theme=algolia&fire=ff0000&currStreakLabel=ff0000">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=texxasrulez&theme=default&ring=000080&fire=ff0000&currStreakNum=000080&sideNums=000080&currStreakLabel=ff0000&sideLabels=000080&dates=000080&border=000080" alt="Streak stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=texxasrulez&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&stroke=49F9FF&background=FFFFFF00&dates=0000FF">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=texxasrulez&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&stroke=49F9FF&background=FFFFFF00&dates=0000FF" alt="Streak stats" />
   </picture>
 </p>
 
