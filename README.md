@@ -12,7 +12,7 @@
 ### 🧠 About Me
 
 - 💻 Building advanced **Roundcube plugins**: `Scheduled Sending`, `Signature Randomizer`, `Plugin Manager`
-- 💻 Creating Unique **GRUB2 Menus**: `grub2-theme-grub-cave`, `grub2-theme-tornado-vs-fleet`, `grub2-theme-blue-linux-mint`
+- 💻 Creating Unique **GRUB2 Menus**: `grub-Cave`, `tornado-vs-Fleet`, `blue-linux-mint`
 - ⚙️ Quasi Fluent in `PHP`, `JavaScript`, `CSS`, `HTML`, `MySQL`, `Python`, `Bash`
 - 🧩 Maintainable architecture, modular design, and debugging done right
 - 🔭 I test, break, rebuild, and document until it sings
