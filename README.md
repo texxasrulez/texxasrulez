@@ -112,6 +112,7 @@ Current Streak: 2 days
 Longest Streak: 11 days
 <!--STREAKS:END-->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=texxasrulez&" alt="texxasrulez" /></p>
+
 ---
 
 ### 🛠️ Tip of the Day
