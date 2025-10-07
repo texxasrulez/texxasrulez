@@ -92,7 +92,14 @@
 
 ### 📦 Featured Projects (Rotating)
 <!--FEATURED:START-->
-Loading featured repositories…
+<p align="center">
+<a href="https://github.com/texxasrulez/scheduled_sending">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=tokyonight" />
+</a>
+<a href="https://github.com/texxasrulez/signature_randomizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=tokyonight" />
+</a>
+</p>
 <!--FEATURED:END-->
 
 ---
@@ -109,15 +116,15 @@ Loading featured repositories…
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “No one can confidently say that he will still be living tomorrow.”
-— <em>Euripides</em>
+> “To do two things at once is to do neither.”
+— <em>Publilius Syrus</em>
 <!--QUOTE:END-->
 
 ---
 
 ### 🔥 Commit Streaks
 <!--STREAKS:START-->
-Current Streak: 1 days  
+Current Streak: 0 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
 
@@ -125,14 +132,14 @@ Longest Streak: 11 days
 
 ### 🛠️ Dev Tip of the Day
 <!--TIP:START-->
-Tip loading…
+Prefer pure functions; side effects are where bugs hide.
 <!--TIP:END-->
 
 ---
 
 ### 📥 Release Download Counts (Top)
 <!--RELEASES:START-->
-Gathering release stats…
+_No release downloads found across recent repositories._
 <!--RELEASES:END-->
 
 ---
@@ -181,7 +188,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-06 23:53:47 UTC
+2025-10-07 00:03:11 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
