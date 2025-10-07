@@ -46,7 +46,7 @@
 
 ---
 
-### 📈 GitHub Stats (Auto-updating)
+### 📈 GitHub Stats
 
 <p align="center">
   <!-- Stats card -->
@@ -90,7 +90,7 @@
 
 ---
 
-### 📦 Featured Projects (Rotating)
+### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
 <a href="https://github.com/texxasrulez/change_notification">
