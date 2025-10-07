@@ -24,6 +24,10 @@ jobs:
       FEATURED_FILE: data/featured_repos.txt
       MAX_RELEASE_REPOS: '6'
       MAX_BLOG_ITEMS: '5'
+      # FEATURED controls
+      FEATURED_COUNT: '2'                 # show 2 cards per run
+      FEATURED_LIGHT_THEME: 'default'     # light theme for pin cards
+      FEATURED_DARK_THEME: 'tokyonight'   # dark theme for pin cards
 
     steps:
       - name: Checkout
