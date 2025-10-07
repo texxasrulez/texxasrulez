@@ -20,7 +20,7 @@
 
 ### 🧰 Tech Toolbox
 
-<p align="left">
+<p align="center">
   <picture>
 	<img src="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown" />
   </picture>
@@ -30,7 +30,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="left">
+<p align="center">
   <!-- Stats card -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=texxasrulez&show_icons=true&theme=tokyonight&count_private=true">
@@ -50,7 +50,7 @@
 
 ### 🏆 GitHub Profile Trophies
 
-<p align="left">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=onedark&no-frame=true&margin-w=10&column=6">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=flat&no-frame=true&margin-w=10&column=6">
@@ -62,7 +62,7 @@
 
 ### 🕰️ Activity Graph
 
-<p align="left">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=texxasrulez&theme=react-dark&hide_border=true&area=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=texxasrulez&theme=minimal&hide_border=true&area=true">
@@ -98,8 +98,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “If you always do what you've always done, you'll always get what you've always got.”
-— <em>Henry Ford</em>
+> “No kind action ever stops with itself. One kind action leads to another. Good example is followed.”
+— <em>Amelia Earhart</em>
 <!--QUOTE:END-->
 
 ---
@@ -160,7 +160,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 01:01:45 UTC
+2025-10-07 00:51:33 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
