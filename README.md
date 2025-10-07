@@ -3,19 +3,7 @@
 
 <!-- Profile Views (light/dark variants) -->
 <p align="left">
-  <!-- Light-only -->
-  <img src="https://komarev.com/ghpvc/?username=texxasrulez&label=Profile%20views&color=0e75b6&style=plastic#gh-light-mode-only" alt="Profile views (light)" />
-  <!-- Dark-only (tweaked labelColor for contrast) -->
-  <img src="https://komarev.com/ghpvc/?username=texxasrulez&label=Profile%20views&color=0e75b6&style=plastic&labelColor=2d333b#gh-dark-mode-only" alt="Profile views (dark)" />
-</p>
-
-<!-- Optional theme-aware banner (add assets/banner-light.png & assets/banner-dark.png) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/texxasrulez/texxasrulez/main/assets/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/texxasrulez/texxasrulez/main/assets/banner-light.png">
-    <img alt="TexxasRulez Banner" src="https://raw.githubusercontent.com/texxasrulez/texxasrulez/main/assets/banner-light.png" />
-  </picture>
+  <img src="https://komarev.com/ghpvc/?username=texxasrulez&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" />
 </p>
 
 <h1>🤠 Howdy! I'm <a href="https://github.com/texxasrulez">Gene</a></h1>
