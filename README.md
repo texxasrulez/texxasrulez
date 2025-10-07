@@ -77,18 +77,12 @@
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-  <a href="https://github.com/texxasrulez/pink-larry">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
-    </picture>
-  </a>
-  <a href="https://github.com/texxasrulez/plata-larry">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
-    </picture>
-  </a>
+<a href="https://github.com/texxasrulez/pink-larry">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight" />
+</a>
+<a href="https://github.com/texxasrulez/plata-larry">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight" />
+</a>
 </p>
 <!--FEATURED:END-->
 
@@ -106,8 +100,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “In order for you to be the BEST you can be for others, first you must be BEST for yourself.”
-— <em>Jeffrey Gitomer</em>
+> “Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.”
+— <em>Robert Greene</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +168,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 07:59:57 UTC
+2025-10-07 08:01:01 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
