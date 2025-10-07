@@ -24,9 +24,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown">
-    <img alt="Tech stack" src="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown" />
+	<img src="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown" />
   </picture>
 </p>
 
@@ -108,8 +106,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The road to success and the road to failure are almost exactly the same.”
-— <em>Colin R. Davis</em>
+> “Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.”
+— <em>Henry David Thoreau</em>
 <!--QUOTE:END-->
 
 ---
@@ -176,7 +174,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 08:47:49 UTC
+2025-10-07 08:40:31 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
