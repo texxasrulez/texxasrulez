@@ -54,9 +54,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=onedark&no-frame=false&margin-w=10&column=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=flat&no-frame=false&margin-w=10&column=6">
-    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=flat&no-frame=false&margin-w=10&column=6" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=onedark&no-frame=false&margin-w=15&column=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=flat&no-frame=false&margin-w=15&column=6">
+    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=flat&no-frame=false&margin-w=15&column=6" />
   </picture>
 </p>
 
