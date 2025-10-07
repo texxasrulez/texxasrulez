@@ -106,8 +106,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Beware of false knowledge, it is more dangerous than ignorance.”
-— <em>George Bernard Shaw</em>
+> “Freeing oneself from words is liberation.”
+— <em>Bodhidharma</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 13:49:41 UTC
+2025-10-07 13:52:42 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
