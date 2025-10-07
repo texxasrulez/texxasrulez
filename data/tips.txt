@@ -8,3 +8,4 @@ Guard rails > guard clauses > guard your time.
 If it’s not observed, it’s not reliable. Add telemetry.
 Readability scales better than cleverness.
 Delete dead code. Zombies bite.
+Plant your taters deep.
