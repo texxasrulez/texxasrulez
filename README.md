@@ -20,7 +20,7 @@
 
 ### 🧰 Tech Toolbox
 
-<p align="center">
+<p align="left">
   <picture>
 	<img src="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown" />
   </picture>
@@ -30,7 +30,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <!-- Stats card -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=texxasrulez&show_icons=true&theme=tokyonight&count_private=true">
@@ -50,7 +50,7 @@
 
 ### 🏆 GitHub Profile Trophies
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=onedark&no-frame=true&margin-w=10&column=6">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=flat&no-frame=true&margin-w=10&column=6">
@@ -62,7 +62,7 @@
 
 ### 🕰️ Activity Graph
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=texxasrulez&theme=react-dark&hide_border=true&area=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=texxasrulez&theme=minimal&hide_border=true&area=true">
@@ -74,7 +74,7 @@
 
 ### 📦 Featured Projects
 <!--FEATURED:START-->
-<p align="center">
+<p align="left">
 <a href="https://github.com/texxasrulez/change_notification">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight" />
 </a>
@@ -144,8 +144,8 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 ### ☕ Support My Work
 
-<p align="center">
-![Donate to me by using Paypal](https://www.paypal.me/texxasrulez)
+<p align="left">
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/texxasrulez)
 </p>
 
 ---
