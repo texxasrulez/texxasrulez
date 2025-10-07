@@ -106,8 +106,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “There is no significance in life without struggle.”
-— <em>Lolly Daskal</em>
+> “Discipline is the mark of intelligent living.”
+— <em>Sathya Sai Baba</em>
 <!--QUOTE:END-->
 
 ---
@@ -121,7 +121,7 @@ Longest Streak: 11 days
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=texxasrulez&theme=tokyonight">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=texxasrulez&theme=default&hide_border=true" alt="Streak stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=texxasrulez&theme=default" alt="Streak stats" />
   </picture>
 </p>
 
@@ -174,7 +174,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 08:19:24 UTC
+2025-10-07 08:25:42 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
