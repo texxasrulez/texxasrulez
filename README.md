@@ -138,8 +138,9 @@ Add `BLOG_RSS_URL` to enable blog posts.
 ### 🔗 Connect With Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d333b#gh-dark-mode-only" alt="Email (dark)" />
-  <a href="https://github.com/texxasrulez"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=plastic&logo=gmail&logoColor=white&labelColor=2d333b#gh-dark-mode-only" alt="Email (dark)" />
+  <a href="https://github.com/texxasrulez"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=plastic&logo=github&logoColor=white" /></a>
+  <a href="https://www.genesworld.net/kontact.html" target="_blank"><img alt="Genesworld.net" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.genesworld.net%2Fkontact.html&up_message=Online&up_color=darkgreen&down_message=Offline&down_color=crimson&style=plastic&logo=website&logoColor=white&label=Genesworld.net&labelColor=blue"></a>
 </p>
 
 ---
@@ -147,16 +148,16 @@ Add `BLOG_RSS_URL` to enable blog posts.
 ### ☕ Support My Work
 
 
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/texxasrulez)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white&style=plastic)](https://www.paypal.com/paypalme/texxasrulez)
 
 
 ---
 
 ### 🧩 Repo Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=texxasrulez&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/texxasrulez?style=social)
-![Stars](https://img.shields.io/github/stars/texxasrulez?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=texxasrulez&color=blueviolet&style=plastic)
+![Followers](https://img.shields.io/github/followers/texxasrulez?style=plastic)
+![Stars](https://img.shields.io/github/stars/texxasrulez?style=plastic)
 
 ---
 
