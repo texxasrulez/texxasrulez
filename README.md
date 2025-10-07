@@ -11,6 +11,8 @@
 
 ### 🧠 About Me
 
+I am a self taught computer nerd. I do it all and a little in between.
+
 - 💻 Building advanced **Roundcube plugins**: `Scheduled Sending`, `Signature Randomizer`, `Plugin Manager`
 - 💻 Creating Unique **GRUB2 Menus**: `grub-cave`, `tornado-vs-Fleet`, `blue-linux-mint`
 - ⚙️ Quasi Fluent in `PHP`, `JavaScript`, `CSS`, `HTML`, `MySQL`, `Python`, `Bash`
