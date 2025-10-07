@@ -1,7 +1,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=texxasrulez&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" />
 </p>
-![Texas](/assets/images/texas-flag.png "Texas")
+![Texas](/assets/images/texas-flag.png?raw=true "Texas")
 <h1> Howdy! I'm <a href="https://github.com/texxasrulez">Gene</a></h1>
 <p>
   <em>Full-stack experimenter • Roundcube plugin dev • Automation wrangler</em>
