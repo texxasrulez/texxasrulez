@@ -108,8 +108,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Failure is an option, fear is not.”
-— <em>James Cameron</em>
+> “To succeed takes more than the desire to win. It also takes the acceptance that we could fail.”
+— <em>Simon Sinek</em>
 <!--QUOTE:END-->
 
 ---
@@ -176,7 +176,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 15:16:30 UTC
+2025-10-07 21:30:40 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
