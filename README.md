@@ -1,7 +1,3 @@
-<!-- Profile README.md for texxasrulez/texxasrulez -->
-<!-- Theme-aware images via <picture> and #gh-*-mode-only fragments -->
-
-<!-- Profile Views (light/dark variants) -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=texxasrulez&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" />
 </p>
@@ -139,13 +135,9 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 ### 🔗 Connect With Me
 
-<p align="center">
-  <!-- Light-only badge -->
-  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white#gh-light-mode-only" alt="Email (light)" />
-  <!-- Dark-only badge (darker label for contrast) -->
+<p align="left">
   <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d333b#gh-dark-mode-only" alt="Email (dark)" />
   <a href="https://github.com/texxasrulez"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -153,7 +145,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 ### ☕ Support My Work
 
 <p align="center">
-[![Donate to me by using Paypal](https://img.shields.io/badge/paypal-donate-blue.svg?style=flat-square&logo=paypal)](https://www.paypal.me/texxasrulez)
+![Donate to me by using Paypal](https://www.paypal.me/texxasrulez)
 </p>
 
 ---
