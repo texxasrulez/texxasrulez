@@ -78,10 +78,16 @@
 <!--FEATURED:START-->
 <p align="center">
 <a href="https://github.com/texxasrulez/pink-larry">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
+  </picture>
 </a>
 <a href="https://github.com/texxasrulez/plata-larry">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
+  </picture>
 </a>
 </p>
 <!--FEATURED:END-->
@@ -100,8 +106,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “One loses many laughs by not laughing at oneself.”
-— <em>Mary Engelbreit</em>
+> “There is no significance in life without struggle.”
+— <em>Lolly Daskal</em>
 <!--QUOTE:END-->
 
 ---
@@ -168,7 +174,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 08:17:12 UTC
+2025-10-07 08:19:24 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
