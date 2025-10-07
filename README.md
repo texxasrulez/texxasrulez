@@ -138,7 +138,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 ### 🔗 Connect With Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=plastic&logo=gmail&logoColor=white&labelColor=2d333b#gh-dark-mode-only" alt="Email (dark)" />
+  <a href="mailto:texxasrulez@yahoo.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=plastic&logo=gmail&logoColor=white&labelColor=2d333b#gh-dark-mode-only" alt="Email (dark)" /></a>
   <a href="https://github.com/texxasrulez"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=plastic&logo=github&logoColor=white" /></a>
   <a href="https://www.genesworld.net/kontact.html" target="_blank" rel="noopener noreferrer"><img alt="Genesworld.net" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.genesworld.net%2Fkontact.html&up_message=Online&up_color=darkgreen&down_message=Offline&down_color=crimson&style=plastic&logo=website&logoColor=white&label=Genesworld.net&labelColor=blue"></a>
 </p>
@@ -153,7 +153,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 ### 🧩 Repo Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=texxasrulez&color=blueviolet&style=plastic)
+[![Profile Views](https://komarev.com/ghpvc/?username=texxasrulez&color=blueviolet&style=plastic)](https://github.com/texxasrulez)
 [![Followers](https://img.shields.io/github/followers/texxasrulez?style=plastic)](https://github.com/texxasrulez?tab=followers)
 [![Stars](https://img.shields.io/github/stars/texxasrulez?style=plastic)](https://github.com/texxasrulez)
 
