@@ -165,13 +165,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 ### ☕ Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/texxasrulez">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=2d333b">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
-      <img alt="Buy me a coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-    </picture>
-  </a>
+[![Donate to me by using Paypal](https://img.shields.io/badge/paypal-donate-blue.svg?style=flat-square&logo=paypal)](https://www.paypal.me/texxasrulez)
 </p>
 
 ---
