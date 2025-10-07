@@ -116,8 +116,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Decide upon your major definite purpose in life and then organize all your activities around it.”
-— <em>Brian Tracy</em>
+> “If you can handle rejection, you'll learn to get everything you want.”
+— <em>Tony Robbins</em>
 <!--QUOTE:END-->
 
 ---
@@ -132,7 +132,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Dev Tip of the Day
 <!--TIP:START-->
-Prefer pure functions; side effects are where bugs hide.
+Plant your taters deep.
 <!--TIP:END-->
 
 ---
@@ -188,7 +188,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 00:16:28 UTC
+2025-10-07 00:16:57 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
