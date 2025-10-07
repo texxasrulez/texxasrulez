@@ -111,7 +111,7 @@
 Current Streak: 2 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=texxasrulez&" alt="texxasrulez" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=texxasrulez&" alt="texxasrulez" /></p>
 ---
 
 ### 🛠️ Tip of the Day
@@ -147,15 +147,15 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 ### ☕ Support My Work
 
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white&style=plastic)](https://www.paypal.com/paypalme/texxasrulez)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-Money_Please-00457C?logo=paypal&logoColor=white&style=plastic&labelColor=navy&color=darkgreen)](https://www.paypal.com/paypalme/texxasrulez)
 
 ---
 
 ### 🧩 Repo Stats
 
 [![Profile Views](https://komarev.com/ghpvc/?username=texxasrulez&color=blueviolet&style=plastic)](https://github.com/texxasrulez)
-[![Followers](https://img.shields.io/github/followers/texxasrulez?style=plastic)](https://github.com/texxasrulez?tab=followers)
-[![Stars](https://img.shields.io/github/stars/texxasrulez?style=plastic)](https://github.com/texxasrulez)
+[![Followers](https://img.shields.io/github/followers/texxasrulez?style=plastic&labelColor=blue&color=gold)](https://github.com/texxasrulez?tab=followers)
+[![Stars](https://img.shields.io/github/stars/texxasrulez?style=plastic&labelColor=navy&color=aqua)](https://github.com/texxasrulez)
 
 ---
 
