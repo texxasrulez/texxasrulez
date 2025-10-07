@@ -100,8 +100,8 @@
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “If you can see it in your mind, you can hold it in your mind.”
-— <em>Steve Harvey</em>
+> “You can't get to a place that you don't believe exists.”
+— <em>Unknown</em>
 <!--QUOTE:END-->
 
 ---
@@ -130,7 +130,7 @@ _No release downloads found across recent repositories._
 
 ### 📰 Latest Posts
 <!--BLOG:START-->
-https://github.com/texxasrulez.atom
+Add `BLOG_RSS_URL` to enable blog posts.
 <!--BLOG:END-->
 
 ---
@@ -161,7 +161,7 @@ https://github.com/texxasrulez.atom
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-07 06:30:34 UTC
+2025-10-07 06:49:20 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
