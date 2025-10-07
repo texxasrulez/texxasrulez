@@ -96,7 +96,7 @@
 
 ### ⚡ Quick Facts
 
-- 🎨 Built **8+ custom Roundcube skins**
+- 🎨 Built **10 custom Roundcube skins**
 - 🔍 Debugging wizardry with `rcmail`, `console`, and custom logger hooks
 - 📦 Composer installable everything
 - 🧭 Multi-language setup with DeepL automation
