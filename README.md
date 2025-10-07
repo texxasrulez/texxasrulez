@@ -27,7 +27,7 @@
 
 ### 🧠 About Me
 
-- 💻 Building advanced **Roundcube plugins**: `Scheduled Sending`, `Signature Randomizer`, `Info Portal`, `Plugin Manager`
+- 💻 Building advanced **Roundcube plugins**: `Scheduled Sending`, `Signature Randomizer`, `Plugin Manager`
 - ⚙️ Quasi Fluent in `PHP`, `JavaScript`, `CSS`, `HTML`, `MySQL`, `Python`, `Bash`
 - 🧩 Maintainable architecture, modular design, and debugging done right
 - 🔭 I test, break, rebuild, and document until it sings
