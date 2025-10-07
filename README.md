@@ -62,7 +62,7 @@
 
 ---
 
-### 🕰️ Activity Graph
+### 📊 Activity Graph
 
 <p align="center">
   <picture>
