@@ -17,7 +17,6 @@ texxasrulez/matomo-open-cart-ecommerce-vq-mod-3.0
 texxasrulez/nextcloud
 texxasrulez/password
 texxasrulez/persistent_login
-texxasrulez/phpmyprofiler
 texxasrulez/pillars-of-creation
 texxasrulez/plugin_manager
 texxasrulez/pwstrength_meter
