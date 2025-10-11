@@ -7,6 +7,8 @@
   <em>Full-stack experimenter • Roundcube plugin dev • Automation wrangler</em>
 </p>
 
+---
+
 ### 🧠 About Me
 
 I am a self taught computer nerd. I do it all and a little in between.
@@ -18,7 +20,7 @@ I am a self taught computer nerd. I do it all and a little in between.
 - 🔭 I test, break, rebuild, and document until it sings
 - ⚓ US Navy Veteran
 
-<hr>
+---
 
 ### 🧰 Tech Toolbox
 
