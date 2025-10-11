@@ -2,7 +2,7 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: '0 9 * * *'   # Daily at 09:00 UTC
+    - cron: '0 * * * *'   # Run hourly to reflect hourly rotation
   workflow_dispatch:
   push:
     paths:
@@ -22,13 +22,13 @@ jobs:
       README_PATH: README.md
       TIPS_FILE: data/tips.txt
       FEATURED_FILE: data/featured_repos.txt
-      MAX_RELEASE_REPOS: '6'
+      MAX_RELEASE_REPOS: '25'          # scan deeper so releases are found
       MAX_BLOG_ITEMS: '5'
-      FEATURED_COUNT: '2'             # how many pins to display
+      FEATURED_COUNT: '2'
       FEATURED_LIGHT_THEME: 'default'
       FEATURED_DARK_THEME: 'tokyonight'
-      FEATURED_ROTATION: 'daily'      # daily | weekly | monthly
-      FEATURED_SEED: 'featured'       # change this string to reshuffle schedule
+      FEATURED_ROTATION: 'hourly'      # <— new option
+      FEATURED_SEED: 'featured'        # change to reshuffle schedule
 
     steps:
       - name: Checkout
