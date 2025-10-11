@@ -26,7 +26,7 @@ MAX_BLOG_ITEMS = int(os.getenv("MAX_BLOG_ITEMS", "5"))
 FEATURED_COUNT = max(1, int(os.getenv("FEATURED_COUNT", "2")))  # how many cards to show
 FEATURED_LIGHT_THEME = os.getenv("FEATURED_LIGHT_THEME", "default")
 FEATURED_DARK_THEME = os.getenv("FEATURED_DARK_THEME", "tokyonight")
-FEATURED_ROTATION = os.getenv("FEATURED_ROTATION", "daily").lower()  # daily|weekly|monthly
+FEATURED_ROTATION = os.getenv("FEATURED_ROTATION", "daily").lower()  # hourly|daily|weekly|monthly
 FEATURED_SEED = os.getenv("FEATURED_SEED", "featured")  # optional salt to reshuffle schedule
 
 # Markers
@@ -160,14 +160,16 @@ def fetch_streaks_md(username: str) -> str:
 
 def rotation_key() -> str:
     """Return a period key that changes per FEATURED_ROTATION."""
-    today = datetime.now(timezone.utc).date()
+    now = datetime.now(timezone.utc)
+    if FEATURED_ROTATION == "hourly":
+        return f"{now:%Y-%j-%H}"         # year-dayOfYear-hour (UTC)
     if FEATURED_ROTATION == "weekly":
-        y, w, _ = today.isocalendar()
+        y, w, _ = now.date().isocalendar()
         return f"{y}-W{w}"
     if FEATURED_ROTATION == "monthly":
-        return f"{today:%Y-%m}"
+        return f"{now:%Y-%m}"
     # default: daily
-    return f"{today:%Y-%j}"  # year + day-of-year
+    return f"{now:%Y-%j}"                # year + day-of-year
 
 
 def deterministic_shuffle(items: List[str], key: str, seed: str) -> List[str]:
@@ -176,7 +178,7 @@ def deterministic_shuffle(items: List[str], key: str, seed: str) -> List[str]:
 
 
 def _pin_card(owner: str, repo: str) -> str:
-    """Theme-aware pin card HTML using <picture>, matching your style."""
+    """Theme-aware pin card HTML using <picture>."""
     light = f"https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo}&theme={FEATURED_LIGHT_THEME}"
     dark = f"https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo}&theme={FEATURED_DARK_THEME}"
     return (
@@ -201,7 +203,6 @@ def fetch_featured_md() -> str:
     if not repos:
         return "_Add repositories to `data/featured_repos.txt` to enable rotation._"
 
-    # Deterministic daily/weekly/monthly shuffle; then take first N
     key = rotation_key()
     shuffled = deterministic_shuffle(repos, key, FEATURED_SEED)
     chosen = shuffled[:FEATURED_COUNT]
@@ -216,7 +217,6 @@ def fetch_featured_md() -> str:
 
     if not cards:
         return "_No valid repositories listed in `data/featured_repos.txt`._"
-
     return '<p align="center">\n' + "\n".join(cards) + "\n</p>"
 
 
@@ -225,13 +225,17 @@ def fetch_tip_md() -> str:
     if not tips:
         return "_Add tips to `data/tips.txt` to enable tips._"
     key = rotation_key()
-    # rotate within tips too
     idx = int.from_bytes(sha1(f"{key}::{FEATURED_SEED}::tips".encode()).digest()[:2], "big") % len(tips)
     return tips[idx]
 
 
 def fetch_release_stats_md(owner: str) -> str:
-    """Aggregate release asset downloads for recent repos."""
+    """
+    Aggregate release asset downloads for recent repos.
+    - Includes rows even if downloads are ZERO (as long as releases exist).
+    - If no releases found across scanned repos, return a clear message.
+    Tip: increase MAX_RELEASE_REPOS in the workflow env to scan deeper (e.g., 25).
+    """
     try:
         repos = gh_rest(f"/users/{owner}/repos?per_page=100&type=owner&sort=updated")
     except Exception:
@@ -244,27 +248,38 @@ def fetch_release_stats_md(owner: str) -> str:
             break
         if r.get("archived") or r.get("disabled"):
             continue
-        name = r.get("name")
-        full = r.get("full_name", "").lower()
+        name = r.get("name") or ""
+        full = (r.get("full_name") or "").lower()
         if full == f"{owner}/{owner}".lower():  # skip profile repo
             continue
+        checked += 1
+
         try:
             rels = gh_rest(f"/repos/{owner}/{name}/releases?per_page=10")
         except Exception:
             continue
+
+        if not isinstance(rels, list):
+            continue
+
+        if not rels:
+            # no releases for this repo
+            continue
+
         total = 0
         latest_tag = ""
         for rel in rels:
             latest_tag = latest_tag or (rel.get("tag_name") or rel.get("name") or "")
             for asset in rel.get("assets", []):
                 total += int(asset.get("download_count", 0))
-        if total > 0:
-            rows.append((name, total, latest_tag))
-        checked += 1
+
+        # Include row even if total == 0 (so the table isn't empty when you have releases)
+        rows.append((name, total, latest_tag))
 
     if not rows:
-        return "_No release downloads found across recent repositories._"
+        return "_No GitHub releases found across scanned repositories. Create a release to see counts here._"
 
+    # Sort by downloads desc, but keep zero-download releases visible at the bottom
     rows.sort(key=lambda x: x[1], reverse=True)
     md = "| Repo | Downloads | Latest Tag |\n|---|---:|---|\n"
     for name, total, tag in rows[:10]:
