@@ -52,15 +52,6 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ---
 
-### ✨ Contribution Sparkline (last year)
-
-<p align="center">
-  <img alt="Contributions sparkline"
-       src="https://raw.githubusercontent.com/texxasrulez/texxasrulez/main/assets/contrib-sparkline.svg" />
-</p>
-
----
-
 ### 🏆 GitHub Profile Trophies
 
 <p align="center">
@@ -81,6 +72,15 @@ I am a self taught computer nerd. I do it all and a little in between.
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=texxasrulez&theme=minimal&area=true&grid=true&line=000080&area_color=000080&border_color=8aa8c2&radius=10">
     <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=texxasrulez&theme=minimal&area=true&grid=true&line=000080&area_color=000080&border_color=8aa8c2&radius=10" />
   </picture>
+</p>
+
+---
+
+### ✨ Contribution Sparkline (last year)
+
+<p align="center">
+  <img alt="Contributions sparkline"
+       src="https://raw.githubusercontent.com/texxasrulez/texxasrulez/main/assets/contrib-sparkline.svg" />
 </p>
 
 ---
