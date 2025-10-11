@@ -24,10 +24,11 @@ jobs:
       FEATURED_FILE: data/featured_repos.txt
       MAX_RELEASE_REPOS: '6'
       MAX_BLOG_ITEMS: '5'
-      # FEATURED controls
-      FEATURED_COUNT: '2'                 # show 2 cards per run
-      FEATURED_LIGHT_THEME: 'default'     # light theme for pin cards
-      FEATURED_DARK_THEME: 'tokyonight'   # dark theme for pin cards
+      FEATURED_COUNT: '2'             # how many pins to display
+      FEATURED_LIGHT_THEME: 'default'
+      FEATURED_DARK_THEME: 'tokyonight'
+      FEATURED_ROTATION: 'daily'      # daily | weekly | monthly
+      FEATURED_SEED: 'featured'       # change this string to reshuffle schedule
 
     steps:
       - name: Checkout
