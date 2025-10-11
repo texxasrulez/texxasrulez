@@ -108,8 +108,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Wise men speak because they have something to say; Fools because they have to say something.”
-— <em>Plato</em>
+> “When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.”
+— <em>Zig Ziglar</em>
 <!--QUOTE:END-->
 
 ---
@@ -187,7 +187,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-11 20:07:11 UTC
+2025-10-11 20:08:05 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
