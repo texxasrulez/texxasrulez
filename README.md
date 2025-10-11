@@ -79,16 +79,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/green-larry">
+<a href="https://github.com/texxasrulez/tasklist">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/signature_randomizer">
+<a href="https://github.com/texxasrulez/plugin_manager">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=default" alt="signature_randomizer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=default" alt="plugin_manager" />
   </picture>
 </a>
 </p>
@@ -108,8 +108,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Believe you can and you're halfway there.”
-— <em>Theodore Roosevelt</em>
+> “When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.”
+— <em>Zig Ziglar</em>
 <!--QUOTE:END-->
 
 ---
@@ -138,7 +138,18 @@ If it’s not observed, it’s not reliable. Add telemetry.
 
 ### 📥 Release Download Counts (Top)
 <!--RELEASES:START-->
-_No release downloads found across recent repositories._
+| Repo | Downloads | Latest Tag |
+|---|---:|---|
+| [violet-larry](https://github.com/texxasrulez/violet-larry/releases) | 0 | 1.4 |
+| [vcard_attach](https://github.com/texxasrulez/vcard_attach/releases) | 0 | 0.3 |
+| [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 0 | 1.4 |
+| [tasklist](https://github.com/texxasrulez/tasklist/releases) | 0 | 1.2 |
+| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 0 | 1.4 |
+| [simple_secure_contact_form](https://github.com/texxasrulez/simple_secure_contact_form/releases) | 0 | 2.0 |
+| [signature_randomizer](https://github.com/texxasrulez/signature_randomizer/releases) | 0 | 0.9.9 |
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 0 | 1.1 |
+| [pwstrength_meter](https://github.com/texxasrulez/pwstrength_meter/releases) | 0 | 0.1 |
+| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 0 | 1.4 |
 <!--RELEASES:END-->
 
 ---
@@ -176,7 +187,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-11 19:58:15 UTC
+2025-10-11 20:08:05 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
