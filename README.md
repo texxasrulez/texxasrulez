@@ -9,25 +9,6 @@
 
 ---
 
-<p>
-  <!-- CI status for this profile workflow -->
-  <a href="https://github.com/texxasrulez/texxasrulez/actions/workflows/update-readme.yml">
-    <img alt="README CI"
-         src="https://img.shields.io/github/actions/workflow/status/texxasrulez/texxasrulez/update-readme.yml?style=plastic#gh-light-mode-only">
-    <img alt="README CI (dark)"
-         src="https://img.shields.io/github/actions/workflow/status/texxasrulez/texxasrulez/update-readme.yml?style=plastic&labelColor=2d333b#gh-dark-mode-only">
-  </a>
-  <!-- License badge (profile repo) -->
-  <a href="https://github.com/texxasrulez/texxasrulez/blob/main/LICENSE">
-    <img alt="License"
-         src="https://img.shields.io/github/license/texxasrulez/texxasrulez?style=plastic#gh-light-mode-only">
-    <img alt="License (dark)"
-         src="https://img.shields.io/github/license/texxasrulez/texxasrulez?style=plastic&labelColor=2d333b#gh-dark-mode-only">
-  </a>
-</p>
-
----
-
 ### 🧠 About Me
 
 I am a self taught computer nerd. I do it all and a little in between.
