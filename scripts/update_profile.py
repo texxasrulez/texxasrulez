@@ -26,6 +26,8 @@ MAX_BLOG_ITEMS = int(os.getenv("MAX_BLOG_ITEMS", "5"))
 FEATURED_COUNT = max(1, int(os.getenv("FEATURED_COUNT", "2")))  # how many cards to show
 FEATURED_LIGHT_THEME = os.getenv("FEATURED_LIGHT_THEME", "default")
 FEATURED_DARK_THEME = os.getenv("FEATURED_DARK_THEME", "tokyonight")
+FEATURED_ROTATION = os.getenv("FEATURED_ROTATION", "daily").lower()  # daily|weekly|monthly
+FEATURED_SEED = os.getenv("FEATURED_SEED", "featured")  # optional salt to reshuffle schedule
 
 # Markers
 QUOTE_S, QUOTE_E = "<!--QUOTE:START-->", "<!--QUOTE:END-->"
@@ -50,7 +52,7 @@ def write_text(path: str, content: str) -> None:
 def replace_block(content: str, start_marker: str, end_marker: str, new_inner: str) -> str:
     pattern = re.compile(rf"({re.escape(start_marker)})(.*?){re.escape(end_marker)}", re.DOTALL)
     if not pattern.search(content):
-        # If markers missing, do nothing (safer than appending at end for profile READMEs)
+        # If markers missing, do nothing (safer for profile READMEs)
         return content
     return pattern.sub(rf"\1\n{new_inner}\n{end_marker}", content)
 
@@ -156,20 +158,21 @@ def fetch_streaks_md(username: str) -> str:
         return "Current Streak: 0 days  \nLongest Streak: 0 days"
 
 
-def deterministic_index(items_len: int, salt: str = "") -> int:
-    """Rotate predictably by ISO week, salted by string name."""
-    if items_len <= 0:
-        return 0
-    y, w, _ = date.today().isocalendar()
-    h = sha1(f"{y}-W{w}-{salt}".encode()).digest()[0]
-    return h % items_len
+def rotation_key() -> str:
+    """Return a period key that changes per FEATURED_ROTATION."""
+    today = datetime.now(timezone.utc).date()
+    if FEATURED_ROTATION == "weekly":
+        y, w, _ = today.isocalendar()
+        return f"{y}-W{w}"
+    if FEATURED_ROTATION == "monthly":
+        return f"{today:%Y-%m}"
+    # default: daily
+    return f"{today:%Y-%j}"  # year + day-of-year
 
 
-def load_lines(path: str) -> List[str]:
-    try:
-        return [ln.strip() for ln in read_text(path).splitlines() if ln.strip() and not ln.strip().startswith("#")]
-    except FileNotFoundError:
-        return []
+def deterministic_shuffle(items: List[str], key: str, seed: str) -> List[str]:
+    """Stable 'shuffle': sort by sha1(key + seed + item)."""
+    return sorted(items, key=lambda it: sha1(f"{key}::{seed}::{it}".encode()).digest())
 
 
 def _pin_card(owner: str, repo: str) -> str:
@@ -186,15 +189,22 @@ def _pin_card(owner: str, repo: str) -> str:
     )
 
 
+def load_lines(path: str) -> List[str]:
+    try:
+        return [ln.strip() for ln in read_text(path).splitlines() if ln.strip() and not ln.strip().startswith("#")]
+    except FileNotFoundError:
+        return []
+
+
 def fetch_featured_md() -> str:
     repos = load_lines(FEATURED_FILE)
     if not repos:
         return "_Add repositories to `data/featured_repos.txt` to enable rotation._"
 
-    start = deterministic_index(len(repos), salt="featured")
-    chosen = []
-    for i in range(FEATURED_COUNT):
-        chosen.append(repos[(start + i) % len(repos)])
+    # Deterministic daily/weekly/monthly shuffle; then take first N
+    key = rotation_key()
+    shuffled = deterministic_shuffle(repos, key, FEATURED_SEED)
+    chosen = shuffled[:FEATURED_COUNT]
 
     cards = []
     for full in chosen:
@@ -207,7 +217,6 @@ def fetch_featured_md() -> str:
     if not cards:
         return "_No valid repositories listed in `data/featured_repos.txt`._"
 
-    # Centered row of cards
     return '<p align="center">\n' + "\n".join(cards) + "\n</p>"
 
 
@@ -215,7 +224,9 @@ def fetch_tip_md() -> str:
     tips = load_lines(TIPS_FILE)
     if not tips:
         return "_Add tips to `data/tips.txt` to enable tips._"
-    idx = deterministic_index(len(tips), salt="tips")
+    key = rotation_key()
+    # rotate within tips too
+    idx = int.from_bytes(sha1(f"{key}::{FEATURED_SEED}::tips".encode()).digest()[:2], "big") % len(tips)
     return tips[idx]
 
 
@@ -310,7 +321,7 @@ def main():
         # Tip of the Day
         content = replace_block(content, TIP_S, TIP_E, fetch_tip_md())
 
-        # Featured rotating (auto, theme-aware)
+        # Featured rotating (deterministic shuffle per rotation period)
         content = replace_block(content, FEAT_S, FEAT_E, fetch_featured_md())
 
         # Release stats
