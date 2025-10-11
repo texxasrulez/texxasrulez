@@ -87,6 +87,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed 2 commit(s) to **texxasrulez/texxasrulez** · 2025-10-11 20:07:02 UTC
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/texxasrulez** · 2025-10-11 20:06:50 UTC
 - ⬆️ Pushed 2 commit(s) to **texxasrulez/texxasrulez** · 2025-10-11 19:57:50 UTC
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/texxasrulez** · 2025-10-11 19:56:02 UTC
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/violet-larry** · 2025-10-09 12:53:22 UTC
@@ -95,8 +97,6 @@ I am a self taught computer nerd. I do it all and a little in between.
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/tasklist** · 2025-10-09 12:52:59 UTC
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/summer-larry** · 2025-10-09 12:52:50 UTC
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/simple_secure_contact_form** · 2025-10-09 12:52:42 UTC
-- ⬆️ Pushed 1 commit(s) to **texxasrulez/signature_randomizer** · 2025-10-09 12:52:31 UTC
-- ⬆️ Pushed 1 commit(s) to **texxasrulez/server-dashboard** · 2025-10-09 12:51:45 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -104,16 +104,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/tasklist">
+<a href="https://github.com/texxasrulez/cosmic-cliffs">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/plugin_manager">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=default" alt="plugin_manager" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
 </p>
@@ -133,8 +133,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The educated differ from the uneducated as much as the living differ from the dead.”
-— <em>Aristotle</em>
+> “You must be willing to do what others won't do, to have what others won't have.”
+— <em>Les Brown</em>
 <!--QUOTE:END-->
 
 ---
@@ -156,7 +156,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-If it’s not observed, it’s not reliable. Add telemetry.
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -212,7 +212,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-11 20:57:28 UTC
+2025-10-11 21:07:53 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
