@@ -2,7 +2,7 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Run hourly to reflect hourly rotation
+    - cron: '0 * * * *'   # Hourly (UTC)
   workflow_dispatch:
   push:
     paths:
@@ -19,16 +19,22 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
+      # General
       README_PATH: README.md
       TIPS_FILE: data/tips.txt
       FEATURED_FILE: data/featured_repos.txt
-      MAX_RELEASE_REPOS: '25'          # scan deeper so releases are found
+      MAX_RELEASE_REPOS: '25'          # scan deeper for releases
       MAX_BLOG_ITEMS: '5'
-      FEATURED_COUNT: '2'
+
+      # Featured rotation controls (used by update_profile.py)
+      FEATURED_COUNT: '2'              # number of pins shown
       FEATURED_LIGHT_THEME: 'default'
       FEATURED_DARK_THEME: 'tokyonight'
-      FEATURED_ROTATION: 'hourly'      # <— new option
+      FEATURED_ROTATION: 'hourly'      # hourly | daily | weekly | monthly
       FEATURED_SEED: 'featured'        # change to reshuffle schedule
+
+      # Sparkline output path (used by contrib_sparkline.py)
+      SPARKLINE_OUT: assets/contrib-sparkline.svg
 
     steps:
       - name: Checkout
@@ -39,20 +45,54 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Ensure assets directory
+        run: mkdir -p assets
+
+      # Build the contribution sparkline SVG (assets/contrib-sparkline.svg)
+      - name: Build contribution sparkline
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          SPARKLINE_OUT: ${{ env.SPARKLINE_OUT }}
+        run: |
+          python scripts/contrib_sparkline.py
+
+      # Update Recent Activity block
+      - name: Update recent activity
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          README_PATH: ${{ env.README_PATH }}
+          ACTIVITY_MAX_ITEMS: '10'
+        run: |
+          python scripts/recent_activity.py
+
+      # Main profile updater (quotes, streaks, tips, featured, releases, blog)
       - name: Run updater
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_ACTOR: ${{ github.actor }}
           BLOG_RSS_URL: ${{ secrets.BLOG_RSS_URL }}
+          README_PATH: ${{ env.README_PATH }}
+          TIPS_FILE: ${{ env.TIPS_FILE }}
+          FEATURED_FILE: ${{ env.FEATURED_FILE }}
+          MAX_RELEASE_REPOS: ${{ env.MAX_RELEASE_REPOS }}
+          MAX_BLOG_ITEMS: ${{ env.MAX_BLOG_ITEMS }}
+          FEATURED_COUNT: ${{ env.FEATURED_COUNT }}
+          FEATURED_LIGHT_THEME: ${{ env.FEATURED_LIGHT_THEME }}
+          FEATURED_DARK_THEME: ${{ env.FEATURED_DARK_THEME }}
+          FEATURED_ROTATION: ${{ env.FEATURED_ROTATION }}
+          FEATURED_SEED: ${{ env.FEATURED_SEED }}
         run: |
           chmod +x scripts/update_profile.py
           python scripts/update_profile.py
 
-      - name: Commit and push
+      - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --quiet || git commit -m "🤖 Auto-update README"
+          # Stage everything that may have changed (README, assets/, etc.)
+          git add -A
+          git diff --cached --quiet || git commit -m "🤖 Auto-update README, sparkline, and activity"
           git push
