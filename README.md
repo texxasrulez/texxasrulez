@@ -76,7 +76,7 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ---
 
-### ✨ Contribution Sparkline (last year)
+### ✨ Contribution Sparkline
 
 <p align="center">
   <img alt="Contributions sparkline"
@@ -161,7 +161,7 @@ If it’s not observed, it’s not reliable. Add telemetry.
 
 ---
 
-### 📥 Release Download Counts (Top)
+### 📥 Release Download Counts
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
