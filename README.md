@@ -26,7 +26,7 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 <p align="center">
   <picture>
-	<img src="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,vscode,linux,mysql,sqlite,markdown" />
+	<img src="https://skillicons.dev/icons?i=php,html,css,js,python,bash,git,github,linux,mysql,markdown" />
   </picture>
 </p>
 
