@@ -19,7 +19,7 @@ TOKEN = os.getenv("GITHUB_TOKEN", "")
 BLOG_RSS_URL = os.getenv("BLOG_RSS_URL", "").strip()
 TIPS_FILE = os.getenv("TIPS_FILE", "data/tips.txt")
 FEATURED_FILE = os.getenv("FEATURED_FILE", "data/featured_repos.txt")
-MAX_RELEASE_REPOS = int(os.getenv("MAX_RELEASE_REPOS", "6"))
+MAX_RELEASE_REPOS = int(os.getenv("MAX_RELEASE_REPOS", "10"))
 MAX_BLOG_ITEMS = int(os.getenv("MAX_BLOG_ITEMS", "5"))
 
 # FEATURED rendering controls
