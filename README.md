@@ -89,16 +89,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
-- ⬆️ Pushed 1 commit(s) to **texxasrulez/texxasrulez** · 2025-10-12 17:59:12 UTC
-- ⬆️ Pushed 1 commit(s) to **texxasrulez/plugin_manager** · 2025-10-12 17:44:24 UTC
-- ⬆️ Pushed 1 commit(s) to **texxasrulez/autumn-larry** · 2025-10-12 17:40:57 UTC
-- 🏷️ Published release **1.3.3** in **texxasrulez/plugin_manager** · 2025-10-12 16:37:55 UTC
-- ✨ Created tag 1.3.3 in **texxasrulez/plugin_manager** · 2025-10-12 16:37:55 UTC
-- ⬆️ Pushed 1 commit(s) to **texxasrulez/plugin_manager** · 2025-10-12 16:36:53 UTC
-- ⬆️ Pushed 1 commit(s) to **texxasrulez/texxasrulez** · 2025-10-11 21:35:04 UTC
-- ⬆️ Pushed 1 commit(s) to **texxasrulez/texxasrulez** · 2025-10-11 20:57:20 UTC
-- ⬆️ Pushed 2 commit(s) to **texxasrulez/texxasrulez** · 2025-10-11 20:55:31 UTC
-- ⬆️ Pushed 2 commit(s) to **texxasrulez/texxasrulez** · 2025-10-11 20:54:47 UTC
+- ⬆️ Pushed 2 commit(s) to **texxasrulez/texxasrulez** · 2025-10-12 18:49:14 UTC
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/texxasrulez** · 2025-10-12 18:48:49 UTC
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/texxasrulez** · 2025-10-12 18:46:24 UTC
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/texxasrulez** · 2025-10-12 18:39:01 UTC
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/violet-larry** · 2025-10-12 18:15:50 UTC
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/teal-larry** · 2025-10-12 18:15:39 UTC
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/summer-larry** · 2025-10-12 18:15:31 UTC
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/plata-larry** · 2025-10-12 18:15:20 UTC
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/pink-larry** · 2025-10-12 18:15:10 UTC
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/grey-larry** · 2025-10-12 18:15:00 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -106,16 +106,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/additional_imap">
+<a href="https://github.com/texxasrulez/vcard_attach">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=default" alt="additional_imap" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/calender_inboxview">
+<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=default" alt="calender_inboxview" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
   </picture>
 </a>
 </p>
@@ -135,8 +135,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Disobedience is the true foundation of liberty. The obedient must be slaves.”
-— <em>Henry David Thoreau</em>
+> “Simplicity is the glory of expression.”
+— <em>Walt Whitman</em>
 <!--QUOTE:END-->
 
 ---
@@ -158,7 +158,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Plant your taters deep.
+Readability scales better than cleverness.
 <!--TIP:END-->
 
 ---
@@ -168,6 +168,7 @@ Plant your taters deep.
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 0 | 1.3.3 |
+| [calender_inboxview](https://github.com/texxasrulez/calender_inboxview/releases) | 0 | 1.0.1 |
 | [grub2-theme-blue-linux-mint](https://github.com/texxasrulez/grub2-theme-blue-linux-mint/releases) | 0 | 1.0 |
 | [grub2-theme-bikini-atoll](https://github.com/texxasrulez/grub2-theme-bikini-atoll/releases) | 0 | 1.0 |
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 0 | 1.1.1 |
@@ -176,7 +177,6 @@ Plant your taters deep.
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 0 | 1.4 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 0 | 1.4 |
 | [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 0 | 1.4 |
-| [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 0 | 1.4 |
 <!--RELEASES:END-->
 
 ---
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-12 21:08:18 UTC
+2025-10-12 22:08:41 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
