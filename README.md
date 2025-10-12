@@ -206,9 +206,9 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 ### 🧩 Repo Stats
 
-[![Profile Views](https://komarev.com/ghpvc/?username=texxasrulez&color=blueviolet&style=plastic)](https://github.com/texxasrulez)
-[![Followers](https://img.shields.io/github/followers/texxasrulez?style=plastic&labelColor=blue&color=gold)](https://github.com/texxasrulez?tab=followers)
-[![Stars](https://img.shields.io/github/stars/texxasrulez?style=plastic&labelColor=navy&color=aqua)](https://github.com/texxasrulez)
+[![Profile Views](https://komarev.com/ghpvc/?username=texxasrulez&label=Profile%20views&color=0e75b6&style=plastic)](https://github.com/texxasrulez)
+[![Followers](https://img.shields.io/github/followers/texxasrulez?label=Stars&style=plastic&logo=github&labelColor=yellow&color=deepskyblue)](https://github.com/texxasrulez?tab=followers)
+[![Stars](https://img.shields.io/github/stars/texxasrulez?style=plastic&label=Followers&logo=github&labelColor=purple&color=blue)](https://github.com/texxasrulez)
 
 ---
 
