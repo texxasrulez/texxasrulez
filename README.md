@@ -89,6 +89,9 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- 🏷️ Published release **1.1.1** in **texxasrulez/scheduled_sending** · 2025-10-12 19:09:26 UTC
+- ✨ Created tag 1.1.1 in **texxasrulez/scheduled_sending** · 2025-10-12 19:09:26 UTC
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/scheduled_sending** · 2025-10-12 19:08:03 UTC
 - ⬆️ Pushed 2 commit(s) to **texxasrulez/texxasrulez** · 2025-10-12 18:49:14 UTC
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/texxasrulez** · 2025-10-12 18:48:49 UTC
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/texxasrulez** · 2025-10-12 18:46:24 UTC
@@ -96,9 +99,6 @@ I am a self taught computer nerd. I do it all and a little in between.
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/violet-larry** · 2025-10-12 18:15:50 UTC
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/teal-larry** · 2025-10-12 18:15:39 UTC
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/summer-larry** · 2025-10-12 18:15:31 UTC
-- ⬆️ Pushed 1 commit(s) to **texxasrulez/plata-larry** · 2025-10-12 18:15:20 UTC
-- ⬆️ Pushed 1 commit(s) to **texxasrulez/pink-larry** · 2025-10-12 18:15:10 UTC
-- ⬆️ Pushed 1 commit(s) to **texxasrulez/grey-larry** · 2025-10-12 18:15:00 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -106,16 +106,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/vcard_attach">
+<a href="https://github.com/texxasrulez/cosmic-cliffs">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
+<a href="https://github.com/texxasrulez/black-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
   </picture>
 </a>
 </p>
@@ -135,8 +135,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Simplicity is the glory of expression.”
-— <em>Walt Whitman</em>
+> “Until you make the unconscious conscious, it will direct your life and you will call it fate.”
+— <em>Carl Jung</em>
 <!--QUOTE:END-->
 
 ---
@@ -158,7 +158,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Guard rails > guard clauses > guard your time.
 <!--TIP:END-->
 
 ---
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-12 22:08:41 UTC
+2025-10-12 23:08:34 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
