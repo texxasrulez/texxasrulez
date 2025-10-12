@@ -135,8 +135,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “It is amazing what you can accomplish if you do not care who gets the credit.”
-— <em>Harry S. Truman</em>
+> “Fear is stupid. So are regrets.”
+— <em>Marilyn Monroe</em>
 <!--QUOTE:END-->
 
 ---
@@ -167,8 +167,8 @@ Delete dead code. Zombies bite. 🧟
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 0 | 1.3.3 |
 | [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 0 | 1.4 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 0 | 1.3.3 |
 | [violet-larry](https://github.com/texxasrulez/violet-larry/releases) | 0 | 1.4 |
 | [vcard_attach](https://github.com/texxasrulez/vcard_attach/releases) | 0 | 0.3 |
 | [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 0 | 1.4 |
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-12 18:05:05 UTC
+2025-10-12 18:12:54 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
