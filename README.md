@@ -104,16 +104,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grey-larry">
+<a href="https://github.com/texxasrulez/violet-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/additional_smtp">
+<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
   </picture>
 </a>
 </p>
@@ -133,15 +133,15 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Courage is the price that life exacts for granting peace.”
-— <em>Amelia Earhart</em>
+> “We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.”
+— <em>T.S. Eliot</em>
 <!--QUOTE:END-->
 
 ---
 
 ### 🔥 Commit Streaks
 <!--STREAKS:START-->
-Current Streak: 0 days  
+Current Streak: 2 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
 
@@ -156,7 +156,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Small commits, great diffs. Atomic changes win.
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -165,6 +165,7 @@ Small commits, great diffs. Atomic changes win.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 0 | 1.3.3 |
 | [violet-larry](https://github.com/texxasrulez/violet-larry/releases) | 0 | 1.4 |
 | [vcard_attach](https://github.com/texxasrulez/vcard_attach/releases) | 0 | 0.3 |
 | [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 0 | 1.4 |
@@ -174,7 +175,6 @@ Small commits, great diffs. Atomic changes win.
 | [signature_randomizer](https://github.com/texxasrulez/signature_randomizer/releases) | 0 | 0.9.9 |
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 0 | 1.1 |
 | [pwstrength_meter](https://github.com/texxasrulez/pwstrength_meter/releases) | 0 | 0.1 |
-| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 0 | 1.4 |
 <!--RELEASES:END-->
 
 ---
@@ -212,7 +212,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-12 16:10:18 UTC
+2025-10-12 17:07:38 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
