@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 import os, sys, json, urllib.request
 from datetime import datetime
