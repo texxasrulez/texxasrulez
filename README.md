@@ -134,8 +134,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.”
-— <em>T.S. Eliot</em>
+> “How you think when you lose determines how long it will be until you win.”
+— <em>Gilbert Chesterton</em>
 <!--QUOTE:END-->
 
 ---
@@ -167,6 +167,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 0 | 1.3.3 |
+| [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 0 | 1.4 |
 | [violet-larry](https://github.com/texxasrulez/violet-larry/releases) | 0 | 1.4 |
 | [vcard_attach](https://github.com/texxasrulez/vcard_attach/releases) | 0 | 0.3 |
 | [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 0 | 1.4 |
@@ -175,7 +176,6 @@ Test boundaries, not happy paths. Dragons live on edges.
 | [simple_secure_contact_form](https://github.com/texxasrulez/simple_secure_contact_form/releases) | 0 | 2.0 |
 | [signature_randomizer](https://github.com/texxasrulez/signature_randomizer/releases) | 0 | 0.9.9 |
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 0 | 1.1 |
-| [pwstrength_meter](https://github.com/texxasrulez/pwstrength_meter/releases) | 0 | 0.1 |
 <!--RELEASES:END-->
 
 ---
@@ -213,7 +213,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-12 17:07:38 UTC
+2025-10-12 17:59:22 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
