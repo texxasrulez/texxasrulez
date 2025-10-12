@@ -1,6 +1,7 @@
 <p>
   <img align="left" src="https://komarev.com/ghpvc/?username=texxasrulez&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" />
 	<img src="https://img.shields.io/github/stars/texxasrulez?label=Stars&style=plastic&logo=github&labelColor=yellow&color=deepskyblue" alt="stars">
+	<img alt="followers" src="https://img.shields.io/github/followers/texxasrulez?style=plastic&label=Followers&logo=github&labelColor=purple&color=blue" ">
   <img align="right" src="https://github.com/texxasrulez/texxasrulez/blob/main/assets/images/texas-flag.png" height="48">
 </p>
 <h1> Howdy! I'm <a href="https://github.com/texxasrulez">Gene</a></h1>
