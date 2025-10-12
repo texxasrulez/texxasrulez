@@ -135,8 +135,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Fear is stupid. So are regrets.”
-— <em>Marilyn Monroe</em>
+> “Simple words, repeated daily, can change your life.”
+— <em>Maxime Lagace</em>
 <!--QUOTE:END-->
 
 ---
@@ -167,16 +167,16 @@ Delete dead code. Zombies bite. 🧟
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 0 | 1.4 |
-| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 0 | 1.3.3 |
 | [violet-larry](https://github.com/texxasrulez/violet-larry/releases) | 0 | 1.4 |
-| [vcard_attach](https://github.com/texxasrulez/vcard_attach/releases) | 0 | 0.3 |
 | [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 0 | 1.4 |
-| [tasklist](https://github.com/texxasrulez/tasklist/releases) | 0 | 1.2 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 0 | 1.4 |
-| [simple_secure_contact_form](https://github.com/texxasrulez/simple_secure_contact_form/releases) | 0 | 2.0 |
-| [signature_randomizer](https://github.com/texxasrulez/signature_randomizer/releases) | 0 | 0.9.9 |
-| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 0 | 1.1 |
+| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 0 | 1.4 |
+| [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 0 | 1.4 |
+| [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 0 | 1.4 |
+| [green-larry](https://github.com/texxasrulez/green-larry/releases) | 0 | 1.4 |
+| [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 0 | 1.4 |
+| [black-larry](https://github.com/texxasrulez/black-larry/releases) | 0 | 1.4 |
+| [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 0 | 1.4 |
 <!--RELEASES:END-->
 
 ---
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-12 18:12:54 UTC
+2025-10-12 18:39:12 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
