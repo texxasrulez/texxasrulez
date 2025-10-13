@@ -89,6 +89,9 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/plugin_manager** · 2025-10-12 22:01:53 UTC
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/calender_inboxview** · 2025-10-12 21:18:15 UTC
+- ⬆️ Pushed 1 commit(s) to **texxasrulez/plugin_manager** · 2025-10-12 20:28:06 UTC
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/pillars-of-creation** · 2025-10-12 20:06:05 UTC
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/grub2-theme-tornado-vs-fleet** · 2025-10-12 20:04:26 UTC
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/cosmic-cliffs** · 2025-10-12 20:03:06 UTC
@@ -96,9 +99,6 @@ I am a self taught computer nerd. I do it all and a little in between.
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/grub2-theme-bikini-atoll** · 2025-10-12 19:59:53 UTC
 - ⬆️ Pushed 1 commit(s) to **texxasrulez/grub2-theme-freshwater-aquarium** · 2025-10-12 19:59:44 UTC
 - 🏷️ Published release **1.1.1** in **texxasrulez/scheduled_sending** · 2025-10-12 19:09:26 UTC
-- ✨ Created tag 1.1.1 in **texxasrulez/scheduled_sending** · 2025-10-12 19:09:26 UTC
-- ⬆️ Pushed 1 commit(s) to **texxasrulez/scheduled_sending** · 2025-10-12 19:08:03 UTC
-- ⬆️ Pushed 2 commit(s) to **texxasrulez/texxasrulez** · 2025-10-12 18:49:14 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -106,16 +106,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/teal-larry">
+<a href="https://github.com/texxasrulez/pwstrength_meter">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/account_details">
+<a href="https://github.com/texxasrulez/server-dashboard">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=default" alt="account_details" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
   </picture>
 </a>
 </p>
@@ -135,8 +135,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Our attitude toward life determines life's attitude towards us.”
-— <em>Earl Nightingale</em>
+> “The worst part of success is trying to find someone who is happy for you.”
+— <em>Bette Midler</em>
 <!--QUOTE:END-->
 
 ---
@@ -158,7 +158,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Guard rails > guard clauses > guard your time.
 <!--TIP:END-->
 
 ---
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-13 00:51:02 UTC
+2025-10-13 02:24:47 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
