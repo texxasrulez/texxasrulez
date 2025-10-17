@@ -89,16 +89,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/plugin_manager** · 2025-10-13 20:30:55 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/plugin_manager** · 2025-10-12 22:17:52 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/plugin_manager** · 2025-10-12 22:01:53 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/calender_inboxview** · 2025-10-12 21:18:15 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/plugin_manager** · 2025-10-12 20:28:06 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/pillars-of-creation** · 2025-10-12 20:06:05 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/grub2-theme-tornado-vs-fleet** · 2025-10-12 20:04:25 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/cosmic-cliffs** · 2025-10-12 20:03:05 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/grub2-theme-blue-linux-mint** · 2025-10-12 20:00:02 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/grub2-theme-bikini-atoll** · 2025-10-12 19:59:52 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 23:07:23 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 23:06:54 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 23:06:28 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 22:59:01 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 22:58:36 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 22:57:53 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 22:56:38 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 22:50:54 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 22:49:45 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 22:49:16 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -106,16 +106,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
+<a href="https://github.com/texxasrulez/scheduled_sending">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=default" alt="scheduled_sending" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/nextcloud">
+<a href="https://github.com/texxasrulez/pwstrength_meter">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
   </picture>
 </a>
 </p>
@@ -135,15 +135,15 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Many a man has failed because he had his wishbone where his backbone should have been.”
-— <em>Ronald Reagan</em>
+> “I defeat my enemies when I make them my friends.”
+— <em>Dalai Lama</em>
 <!--QUOTE:END-->
 
 ---
 
 ### 🔥 Commit Streaks
 <!--STREAKS:START-->
-Current Streak: 0 days  
+Current Streak: 1 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
 
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-17 22:08:52 UTC
+2025-10-17 23:08:50 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
