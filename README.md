@@ -89,6 +89,7 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-18 05:11:48 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-18 05:09:00 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-18 01:04:25 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 23:59:33 UTC
@@ -98,7 +99,6 @@ I am a self taught computer nerd. I do it all and a little in between.
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 23:07:23 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 23:06:54 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 23:06:28 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-17 22:59:01 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -106,16 +106,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/blue-larry">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/cosmic-cliffs">
+<a href="https://github.com/texxasrulez/summer-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=default" alt="summer-larry" />
   </picture>
 </a>
 </p>
@@ -135,8 +135,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Cease striving. Then there will be transformation.”
-— <em>Zhuangzi</em>
+> “Every act of creation is first an act of destruction.”
+— <em>Pablo Picasso</em>
 <!--QUOTE:END-->
 
 ---
@@ -158,7 +158,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-18 05:09:38 UTC
+2025-10-18 06:13:39 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
