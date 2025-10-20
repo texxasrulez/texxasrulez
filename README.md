@@ -89,6 +89,7 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-20 22:09:41 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-19 20:30:06 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/plugin_manager** · 2025-10-19 20:15:18 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-19 17:04:46 UTC
@@ -98,7 +99,6 @@ I am a self taught computer nerd. I do it all and a little in between.
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-10-19 16:39:26 UTC
 - 🏷️ Published release **0.0.1** in **texxasrulez/server-dashboard** · 2025-10-19 16:36:24 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-10-19 16:35:55 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-19 16:32:22 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -106,16 +106,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
+<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/force_elastic">
+<a href="https://github.com/texxasrulez/pillars-of-creation">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=force_elastic&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=force_elastic&theme=default" alt="force_elastic" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
   </picture>
 </a>
 </p>
@@ -135,15 +135,15 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Treat every moment as your last. It is not preparation for something else.”
-— <em>Shunryu Suzuki</em>
+> “The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.”
+— <em>Josh Waitzkin</em>
 <!--QUOTE:END-->
 
 ---
 
 ### 🔥 Commit Streaks
 <!--STREAKS:START-->
-Current Streak: 0 days  
+Current Streak: 4 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
 
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-20 22:09:33 UTC
+2025-10-20 23:09:02 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
