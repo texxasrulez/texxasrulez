@@ -89,6 +89,7 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-21 00:48:55 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-20 22:09:41 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-19 20:30:06 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/plugin_manager** · 2025-10-19 20:15:18 UTC
@@ -98,7 +99,6 @@ I am a self taught computer nerd. I do it all and a little in between.
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-19 16:40:08 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-10-19 16:39:26 UTC
 - 🏷️ Published release **0.0.1** in **texxasrulez/server-dashboard** · 2025-10-19 16:36:24 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-10-19 16:35:55 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -112,10 +112,10 @@ I am a self taught computer nerd. I do it all and a little in between.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
+<a href="https://github.com/texxasrulez/blue-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
   </picture>
 </a>
 </p>
@@ -135,8 +135,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.”
-— <em>Robert Kiyosaki</em>
+> “Fashion fades, only style remains the same.”
+— <em>Coco Chanel</em>
 <!--QUOTE:END-->
 
 ---
@@ -158,7 +158,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Guard rails > guard clauses > guard your time.
+Readability scales better than cleverness.
 <!--TIP:END-->
 
 ---
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-21 00:48:30 UTC
+2025-10-21 02:22:24 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
