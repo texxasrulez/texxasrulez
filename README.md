@@ -89,6 +89,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-21 20:15:20 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-21 20:14:23 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-21 19:49:34 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-21 19:48:37 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-21 19:46:53 UTC
@@ -97,8 +99,6 @@ I am a self taught computer nerd. I do it all and a little in between.
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-19 20:30:06 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/plugin_manager** · 2025-10-19 20:15:18 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-19 17:04:46 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-10-19 16:54:16 UTC
-- 🏷️ Published release **0.0.1** in **texxasrulez/track-em** · 2025-10-19 16:42:11 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -106,16 +106,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/calendar">
+<a href="https://github.com/texxasrulez/matomo_analytics">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/tasklist">
+<a href="https://github.com/texxasrulez/violet-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
   </picture>
 </a>
 </p>
@@ -135,15 +135,15 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Courage is resistance to fear, mastery of fear - not absence of fear.”
-— <em>Mark Twain</em>
+> “The person who is his own master cannot tolerate another boss.”
+— <em>Chinese Proverb</em>
 <!--QUOTE:END-->
 
 ---
 
 ### 🔥 Commit Streaks
 <!--STREAKS:START-->
-Current Streak: 5 days  
+Current Streak: 0 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
 
@@ -158,7 +158,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Test boundaries, not happy paths. Dragons live on edges.
+Small commits, great diffs. Atomic changes win.
 <!--TIP:END-->
 
 ---
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-21 20:11:53 UTC
+2025-10-21 21:09:26 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
