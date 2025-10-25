@@ -106,16 +106,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/additional_smtp">
+<a href="https://github.com/texxasrulez/cosmic-cliffs">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/account_details">
+<a href="https://github.com/texxasrulez/matomo_analytics">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=default" alt="account_details" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
   </picture>
 </a>
 </p>
@@ -135,8 +135,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The most important things are the hardest to say.”
-— <em>Stephen King</em>
+> “The eyes of others our prisons; their thoughts our cages.”
+— <em>Virginia Woolf</em>
 <!--QUOTE:END-->
 
 ---
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-25 05:10:03 UTC
+2025-10-25 06:14:03 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
