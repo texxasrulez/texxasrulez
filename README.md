@@ -89,6 +89,7 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- 🏷️ Published release **1.3.4** in **texxasrulez/plugin_manager** · 2025-10-26 17:00:15 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/plugin_manager** · 2025-10-26 04:02:29 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-22 13:02:55 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-21 20:15:20 UTC
@@ -98,7 +99,6 @@ I am a self taught computer nerd. I do it all and a little in between.
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-21 19:46:53 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-21 00:48:55 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-20 22:09:41 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/track-em** · 2025-10-19 20:30:06 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -106,16 +106,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/calendar">
+<a href="https://github.com/texxasrulez/violet-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/nextcloud">
+<a href="https://github.com/texxasrulez/change_notification">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
   </picture>
 </a>
 </p>
@@ -135,8 +135,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.”
-— <em>Roy T. Bennett</em>
+> “Go and do the things you can't. That is how you get to do them.”
+— <em>Pablo Picasso</em>
 <!--QUOTE:END-->
 
 ---
@@ -167,7 +167,7 @@ Readability scales better than cleverness.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 0 | 1.3.3 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 0 | 1.3.4 |
 | [track-em](https://github.com/texxasrulez/track-em/releases) | 0 | 0.0.1 |
 | [server-dashboard](https://github.com/texxasrulez/server-dashboard/releases) | 0 | 0.0.1 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 0 | 1.0.2 |
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-26 16:10:49 UTC
+2025-10-26 17:07:57 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
