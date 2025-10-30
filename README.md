@@ -106,16 +106,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/nextcloud">
+<a href="https://github.com/texxasrulez/additional_smtp">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/violet-larry">
+<a href="https://github.com/texxasrulez/pink-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
   </picture>
 </a>
 </p>
@@ -135,8 +135,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Start the day with love, spend the day with love, fill the day with love and end the day with love.”
-— <em>Sathya Sai Baba</em>
+> “Creativity is intelligence having fun.”
+— <em>Albert Einstein</em>
 <!--QUOTE:END-->
 
 ---
@@ -158,7 +158,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-If it’s not observed, it’s not reliable. Add telemetry.
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-10-30 20:11:26 UTC
+2025-10-30 21:09:17 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
