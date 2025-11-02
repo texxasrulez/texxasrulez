@@ -106,16 +106,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/black-larry">
+<a href="https://github.com/texxasrulez/blue-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
+<a href="https://github.com/texxasrulez/change_notification">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
   </picture>
 </a>
 </p>
@@ -135,8 +135,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.”
-— <em>Brian Tracy</em>
+> “Your dream has to be bigger than your fear.”
+— <em>Steve Harvey</em>
 <!--QUOTE:END-->
 
 ---
@@ -158,7 +158,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Automate the boring stuff; boredom breeds mistakes.
+Prefer pure functions; side effects are where bugs hide. 🪲
 <!--TIP:END-->
 
 ---
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-11-02 10:09:40 UTC
+2025-11-02 11:07:19 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
