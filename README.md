@@ -106,16 +106,16 @@ I am a self taught computer nerd. I do it all and a little in between.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/change_notification">
+<a href="https://github.com/texxasrulez/simple_secure_contact_form">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=default" alt="simple_secure_contact_form" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/advanced_search">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=default" alt="advanced_search" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
 </p>
@@ -135,8 +135,8 @@ I am a self taught computer nerd. I do it all and a little in between.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “A minute's success pays the failure of years.”
-— <em>Robert Browning</em>
+> “No duty is more urgent than that of returning thanks.”
+— <em>James Allen</em>
 <!--QUOTE:END-->
 
 ---
@@ -158,7 +158,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Small commits, great diffs. Atomic changes win.
+If it’s not observed, it’s not reliable. Add telemetry.
 <!--TIP:END-->
 
 ---
@@ -214,7 +214,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-11-07 04:13:39 UTC
+2025-11-07 05:10:52 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
