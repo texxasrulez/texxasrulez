@@ -22,6 +22,13 @@ I am a self taught computer nerd. I do it all and a little in between.
 - 🔭 I test, break, rebuild, and document until it sings
 - ⚓ US Navy Veteran
 
+### 💬 Feedback
+
+I appreciate all feedback.
+I do investigate all issues as soon as I can.
+I do take all feature requests, not all may be implemented.
+I would love help translating and making sure what I have is good to go.
+
 ---
 
 ### 🧰 Tech Toolbox
