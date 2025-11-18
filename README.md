@@ -121,10 +121,10 @@ I would love help translating and making sure what I have is good to go.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/scheduled_sending">
+<a href="https://github.com/texxasrulez/advanced_search">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=default" alt="scheduled_sending" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=default" alt="advanced_search" />
   </picture>
 </a>
 </p>
@@ -144,8 +144,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Happiness is not something ready made. It comes from your own actions.”
-— <em>Dalai Lama</em>
+> “That some achieve great success is proof to all that others can achieve it as well.”
+— <em>Abraham Lincoln</em>
 <!--QUOTE:END-->
 
 ---
@@ -167,7 +167,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Fail fast, log clearly, recover gracefully.
+Guard rails > guard clauses > guard your time.
 <!--TIP:END-->
 
 ---
@@ -223,7 +223,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-11-18 19:08:58 UTC
+2025-11-18 20:12:41 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
