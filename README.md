@@ -144,8 +144,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.”
-— <em>Epictetus</em>
+> “Avoiding danger is no safer in the long run than exposure.”
+— <em>Helen Keller</em>
 <!--QUOTE:END-->
 
 ---
@@ -167,7 +167,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -223,7 +223,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-11-19 14:10:43 UTC
+2025-11-19 15:11:27 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
