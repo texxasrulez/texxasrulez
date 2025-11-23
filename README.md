@@ -115,16 +115,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
+<a href="https://github.com/texxasrulez/additional_smtp">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/teal-larry">
+<a href="https://github.com/texxasrulez/matomo_analytics">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
   </picture>
 </a>
 </p>
@@ -144,8 +144,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “To some degree, you control your life by controlling your time.”
-— <em>Conrad Hilton</em>
+> “A minute's success pays the failure of years.”
+— <em>Robert Browning</em>
 <!--QUOTE:END-->
 
 ---
@@ -167,7 +167,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Test boundaries, not happy paths. Dragons live on edges.
+If it’s not observed, it’s not reliable. Add telemetry.
 <!--TIP:END-->
 
 ---
@@ -223,7 +223,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-11-23 11:08:09 UTC
+2025-11-23 12:17:11 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
