@@ -115,16 +115,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
+<a href="https://github.com/texxasrulez/additional_smtp">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/signature_randomizer">
+<a href="https://github.com/texxasrulez/matomo-open-cart-ecommerce-vq-mod-3.0">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=default" alt="signature_randomizer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=default" alt="matomo-open-cart-ecommerce-vq-mod-3.0" />
   </picture>
 </a>
 </p>
@@ -144,8 +144,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “When a man is penalized for honesty he learns to lie.”
-— <em>Criss Jami</em>
+> “There are no secrets to success. It is the result of preparation, hard work, learning from failure.”
+— <em>Colin Powell</em>
 <!--QUOTE:END-->
 
 ---
@@ -167,7 +167,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Small commits, great diffs. Atomic changes win.
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -223,7 +223,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-11-23 17:08:39 UTC
+2025-11-23 18:13:58 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
