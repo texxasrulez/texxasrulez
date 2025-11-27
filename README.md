@@ -115,16 +115,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/server-dashboard">
+<a href="https://github.com/texxasrulez/grub2-theme-tornado-vs-fleet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=default" alt="grub2-theme-tornado-vs-fleet" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/vcard_attach">
+<a href="https://github.com/texxasrulez/change_notification">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
   </picture>
 </a>
 </p>
@@ -144,8 +144,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The significance of life is living.”
-— <em>Jiddu Krishnamurti</em>
+> “Learn from the rejection and turn it into an opportunity!”
+— <em>Mary Engelbreit</em>
 <!--QUOTE:END-->
 
 ---
@@ -167,7 +167,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Guard rails > guard clauses > guard your time.
 <!--TIP:END-->
 
 ---
@@ -223,7 +223,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-11-27 22:10:04 UTC
+2025-11-27 23:09:45 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
