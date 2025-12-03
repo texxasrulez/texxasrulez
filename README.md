@@ -21,6 +21,7 @@ I am a self taught computer nerd. I do it all and a little in between.
 - 🧩 Maintainable architecture, modular design, and debugging done right
 - 🔭 I test, break, rebuild, and document until it sings
 - ⚓ US Navy Veteran
+- I am also looking for anyone who wants to translate my plugins and make the wording as natural as possible. I use Deepl, which has its limitations, and is not all that accurate for natural speech. Literal translations only, but better than nothing.
 
 ---
 
