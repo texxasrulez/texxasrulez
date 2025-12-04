@@ -99,16 +99,16 @@ I would love help translating and making sure what I have is good to go.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/iframe_cloud_button** · 2025-12-04 19:31:22 UTC
+- 🏷️ Published release **0.0.1** in **texxasrulez/iframe_cloud_button** · 2025-12-04 19:29:46 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/iframe_cloud_button** · 2025-12-04 19:28:35 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/iframe_cloud_button** · 2025-12-04 19:25:31 UTC
+- ✨ Created branch main in **texxasrulez/iframe_cloud_button** · 2025-12-04 19:22:31 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/texxasrulez** · 2025-12-04 17:51:04 UTC
 - 🏷️ Published release **1.2.0** in **texxasrulez/scheduled_sending** · 2025-12-04 17:45:03 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/scheduled_sending** · 2025-12-04 17:43:10 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-12-04 02:10:12 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/texxasrulez** · 2025-12-03 20:11:42 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/texxasrulez** · 2025-12-03 20:10:20 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/watchtower** · 2025-12-03 17:45:27 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/watchtower** · 2025-12-03 17:44:14 UTC
-- 🏷️ Published release **0.0.1** in **texxasrulez/watchtower** · 2025-12-03 17:34:55 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/watchtower** · 2025-12-03 17:33:43 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -116,16 +116,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/plata-larry">
+<a href="https://github.com/texxasrulez/plugin_manager">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=default" alt="plugin_manager" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
+<a href="https://github.com/texxasrulez/pillars-of-creation">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
   </picture>
 </a>
 </p>
@@ -145,8 +145,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.”
-— <em>Simon Sinek</em>
+> “It is passion that makes man live; wisdom makes one only last.”
+— <em>Nicolas Chamfort</em>
 <!--QUOTE:END-->
 
 ---
@@ -168,7 +168,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Test boundaries, not happy paths. Dragons live on edges.
+Readability scales better than cleverness.
 <!--TIP:END-->
 
 ---
@@ -177,6 +177,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
+| [iframe_cloud_button](https://github.com/texxasrulez/iframe_cloud_button/releases) | 1 | 0.0.1 |
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 1 | 0.0.1 |
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 0 | 1.2.0 |
 | [server-dashboard](https://github.com/texxasrulez/server-dashboard/releases) | 0 | 0.0.1 |
@@ -186,7 +187,6 @@ Test boundaries, not happy paths. Dragons live on edges.
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 0 | 1.0.2 |
 | [calender_inboxview](https://github.com/texxasrulez/calender_inboxview/releases) | 0 | 1.0.1 |
 | [grub2-theme-blue-linux-mint](https://github.com/texxasrulez/grub2-theme-blue-linux-mint/releases) | 0 | 1.0 |
-| [grub2-theme-bikini-atoll](https://github.com/texxasrulez/grub2-theme-bikini-atoll/releases) | 0 | 1.0 |
 <!--RELEASES:END-->
 
 ---
@@ -224,7 +224,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-04 19:11:24 UTC
+2025-12-04 20:12:21 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
