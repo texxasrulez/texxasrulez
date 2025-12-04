@@ -99,16 +99,16 @@ I would love help translating and making sure what I have is good to go.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- 🏷️ Published release **0.0.1** in **texxasrulez/iframe_cloud_button** · 2025-12-04 22:37:03 UTC
+- 📌 DeleteEvent in **texxasrulez/iframe_cloud_button** · 2025-12-04 22:36:00 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/grub2-theme-tornado-vs-fleet** · 2025-12-04 22:27:32 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/grub2-theme-freshwater-aquarium** · 2025-12-04 22:27:24 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/grub2-theme-blue-linux-mint** · 2025-12-04 22:27:16 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/grub2-theme-bikini-atoll** · 2025-12-04 22:27:07 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/grub2-theme-grub-cave** · 2025-12-04 22:26:05 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/iframe_cloud_button** · 2025-12-04 19:31:22 UTC
-- 🏷️ Published release **0.0.1** in **texxasrulez/iframe_cloud_button** · 2025-12-04 19:29:46 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/iframe_cloud_button** · 2025-12-04 19:28:35 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/iframe_cloud_button** · 2025-12-04 19:25:31 UTC
-- ✨ Created branch main in **texxasrulez/iframe_cloud_button** · 2025-12-04 19:22:31 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/texxasrulez** · 2025-12-04 17:51:04 UTC
-- 🏷️ Published release **1.2.0** in **texxasrulez/scheduled_sending** · 2025-12-04 17:45:03 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/scheduled_sending** · 2025-12-04 17:43:10 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-12-04 02:10:12 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/texxasrulez** · 2025-12-03 20:11:42 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -116,16 +116,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/plata-larry">
+<a href="https://github.com/texxasrulez/grub2-theme-freshwater-aquarium">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=default" alt="grub2-theme-freshwater-aquarium" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/calendar">
+<a href="https://github.com/texxasrulez/grub2-theme-tornado-vs-fleet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=default" alt="grub2-theme-tornado-vs-fleet" />
   </picture>
 </a>
 </p>
@@ -145,8 +145,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The person who never made a mistake never tried anything new.”
-— <em>Albert Einstein</em>
+> “Passion is energy. Feel the power that comes from focusing on what excites you.”
+— <em>Oprah Winfrey</em>
 <!--QUOTE:END-->
 
 ---
@@ -168,7 +168,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Automate the boring stuff; boredom breeds mistakes.
 <!--TIP:END-->
 
 ---
@@ -179,14 +179,14 @@ Readability scales better than cleverness.
 |---|---:|---|
 | [iframe_cloud_button](https://github.com/texxasrulez/iframe_cloud_button/releases) | 1 | 0.0.1 |
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 1 | 0.0.1 |
+| [grub2-theme-blue-linux-mint](https://github.com/texxasrulez/grub2-theme-blue-linux-mint/releases) | 0 | 1.0 |
+| [grub2-theme-bikini-atoll](https://github.com/texxasrulez/grub2-theme-bikini-atoll/releases) | 0 | 1.0 |
+| [grub2-theme-grub-cave](https://github.com/texxasrulez/grub2-theme-grub-cave/releases) | 0 | 1.0 |
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 0 | 1.2.0 |
 | [server-dashboard](https://github.com/texxasrulez/server-dashboard/releases) | 0 | 0.0.1 |
 | [track-em](https://github.com/texxasrulez/track-em/releases) | 0 | 0.0.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 0 | 1.3.4 |
 | [matomo_analytics](https://github.com/texxasrulez/matomo_analytics/releases) | 0 | 1.2 |
-| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 0 | 1.0.2 |
-| [calender_inboxview](https://github.com/texxasrulez/calender_inboxview/releases) | 0 | 1.0.1 |
-| [grub2-theme-blue-linux-mint](https://github.com/texxasrulez/grub2-theme-blue-linux-mint/releases) | 0 | 1.0 |
 <!--RELEASES:END-->
 
 ---
@@ -224,7 +224,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-04 22:08:56 UTC
+2025-12-04 23:10:13 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
