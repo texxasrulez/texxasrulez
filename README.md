@@ -99,16 +99,16 @@ I would love help translating and making sure what I have is good to go.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/violet-larry** · 2025-12-10 05:26:23 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/teal-larry** · 2025-12-10 05:26:14 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/summer-larry** · 2025-12-10 05:26:05 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/plata-larry** · 2025-12-10 05:25:49 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/pink-larry** · 2025-12-10 05:25:24 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/grey-larry** · 2025-12-10 05:25:12 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/green-larry** · 2025-12-10 05:24:47 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/blue-larry** · 2025-12-10 05:24:36 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/black-larry** · 2025-12-10 05:24:21 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/autumn-larry** · 2025-12-10 05:24:08 UTC
+- 🏷️ Published release **1.5** in **texxasrulez/autumn-larry** · 2025-12-10 07:30:58 UTC
+- 🏷️ Published release **1.5** in **texxasrulez/black-larry** · 2025-12-10 07:30:25 UTC
+- 🏷️ Published release **1.5** in **texxasrulez/blue-larry** · 2025-12-10 07:29:50 UTC
+- 🏷️ Published release **1.5** in **texxasrulez/green-larry** · 2025-12-10 07:29:12 UTC
+- 🏷️ Published release **1.5** in **texxasrulez/grey-larry** · 2025-12-10 07:28:37 UTC
+- 🏷️ Published release **1.5** in **texxasrulez/pink-larry** · 2025-12-10 07:27:48 UTC
+- 🏷️ Published release **1.5** in **texxasrulez/plata-larry** · 2025-12-10 07:26:50 UTC
+- 🏷️ Published release **1.5** in **texxasrulez/summer-larry** · 2025-12-10 07:25:57 UTC
+- 🏷️ Published release **1.5** in **texxasrulez/teal-larry** · 2025-12-10 07:25:03 UTC
+- 🏷️ Published release **1.5** in **texxasrulez/violet-larry** · 2025-12-10 07:23:59 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -116,16 +116,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
+<a href="https://github.com/texxasrulez/blue-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/matomo_analytics">
+<a href="https://github.com/texxasrulez/plugin_manager">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=default" alt="plugin_manager" />
   </picture>
 </a>
 </p>
@@ -145,8 +145,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Work as though you would live forever, and live as though you would die today. Go another mile.”
-— <em>Og Mandino</em>
+> “The divine is not something high above us. It is in heaven, it is in earth, it is inside us.”
+— <em>Morihei Ueshiba</em>
 <!--QUOTE:END-->
 
 ---
@@ -168,7 +168,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Small commits, great diffs. Atomic changes win.
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
@@ -178,15 +178,15 @@ Small commits, great diffs. Atomic changes win.
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 3 | 1.2.0 |
-| [iframe_cloud_button](https://github.com/texxasrulez/iframe_cloud_button/releases) | 1 | 0.0.1 |
-| [watchtower](https://github.com/texxasrulez/watchtower/releases) | 1 | 0.0.1 |
-| [violet-larry](https://github.com/texxasrulez/violet-larry/releases) | 0 | 1.4 |
-| [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 0 | 1.4 |
-| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 0 | 1.4 |
-| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 0 | 1.4 |
-| [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 0 | 1.4 |
-| [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 0 | 1.4 |
-| [green-larry](https://github.com/texxasrulez/green-larry/releases) | 0 | 1.4 |
+| [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 1 | 1.5 |
+| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 1 | 1.5 |
+| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 1 | 1.5 |
+| [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 1 | 1.5 |
+| [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 1 | 1.5 |
+| [green-larry](https://github.com/texxasrulez/green-larry/releases) | 1 | 1.5 |
+| [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 1 | 1.5 |
+| [black-larry](https://github.com/texxasrulez/black-larry/releases) | 1 | 1.5 |
+| [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 1 | 1.5 |
 <!--RELEASES:END-->
 
 ---
@@ -224,7 +224,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-10 07:14:44 UTC
+2025-12-10 08:16:05 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
