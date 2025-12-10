@@ -99,16 +99,16 @@ I would love help translating and making sure what I have is good to go.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_files** · 2025-12-10 13:49:32 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_provision** · 2025-12-10 13:49:02 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_provision** · 2025-12-10 13:45:25 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_files** · 2025-12-10 13:44:15 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav** · 2025-12-10 13:40:56 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav** · 2025-12-10 13:36:57 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_provision** · 2025-12-10 13:30:14 UTC
 - ✨ Created branch main in **texxasrulez/rounddav_provision** · 2025-12-10 13:29:39 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_files** · 2025-12-10 13:27:29 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav** · 2025-12-10 13:26:14 UTC
-- 🏷️ Published release **1.5** in **texxasrulez/autumn-larry** · 2025-12-10 07:30:58 UTC
-- 🏷️ Published release **1.5** in **texxasrulez/black-larry** · 2025-12-10 07:30:25 UTC
-- 🏷️ Published release **1.5** in **texxasrulez/blue-larry** · 2025-12-10 07:29:50 UTC
-- 🏷️ Published release **1.5** in **texxasrulez/green-larry** · 2025-12-10 07:29:12 UTC
-- 🏷️ Published release **1.5** in **texxasrulez/grey-larry** · 2025-12-10 07:28:37 UTC
-- 🏷️ Published release **1.5** in **texxasrulez/pink-larry** · 2025-12-10 07:27:48 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -116,16 +116,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/simple_secure_contact_form">
+<a href="https://github.com/texxasrulez/change_notification">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=default" alt="simple_secure_contact_form" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/blue-larry">
+<a href="https://github.com/texxasrulez/advanced_search">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=default" alt="advanced_search" />
   </picture>
 </a>
 </p>
@@ -145,8 +145,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “A wise person should have money in their head, but not in their heart.”
-— <em>Jonathan Swift</em>
+> “Creativity is the greatest rebellion in existence.”
+— <em>Osho</em>
 <!--QUOTE:END-->
 
 ---
@@ -168,7 +168,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-If it’s not observed, it’s not reliable. Add telemetry.
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -224,7 +224,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-10 13:30:30 UTC
+2025-12-10 14:14:06 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
