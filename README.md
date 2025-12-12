@@ -116,16 +116,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/calender_inboxview">
+<a href="https://github.com/texxasrulez/grey-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=default" alt="calender_inboxview" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/violet-larry">
+<a href="https://github.com/texxasrulez/summer-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=default" alt="summer-larry" />
   </picture>
 </a>
 </p>
@@ -145,8 +145,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Once you choose hope, anything's possible.”
-— <em>Christopher Reeve</em>
+> “All you need is passion. If you have a passion for something, you'll create the talent.”
+— <em>Yanni</em>
 <!--QUOTE:END-->
 
 ---
@@ -168,7 +168,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Name things precisely. Future-you is your angriest code reviewer.
+Plant your taters deep.
 <!--TIP:END-->
 
 ---
@@ -224,7 +224,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-12 12:21:35 UTC
+2025-12-12 13:28:07 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
