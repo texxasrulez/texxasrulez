@@ -116,16 +116,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/matomo-open-cart-ecommerce-vq-mod-3.0">
+<a href="https://github.com/texxasrulez/calendar">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=default" alt="matomo-open-cart-ecommerce-vq-mod-3.0" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/plugin_manager">
+<a href="https://github.com/texxasrulez/grey-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=default" alt="plugin_manager" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
   </picture>
 </a>
 </p>
@@ -145,8 +145,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.”
-— <em>James Cameron</em>
+> “Eighty percent of success is showing up.”
+— <em>Woody Allen</em>
 <!--QUOTE:END-->
 
 ---
@@ -168,7 +168,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Fail fast, log clearly, recover gracefully.
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
@@ -224,7 +224,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-13 15:10:00 UTC
+2025-12-13 16:12:06 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
