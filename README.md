@@ -116,16 +116,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/pwstrength_meter">
+<a href="https://github.com/texxasrulez/additional_imap">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=default" alt="additional_imap" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/server-dashboard">
+<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
   </picture>
 </a>
 </p>
@@ -145,8 +145,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Trying to define yourself is like trying to bite your own teeth.”
-— <em>Alan Watts</em>
+> “A tiger doesn't lose sleep over the opinion of sheep.”
+— <em>Shahir Zag</em>
 <!--QUOTE:END-->
 
 ---
@@ -178,6 +178,7 @@ If it’s not observed, it’s not reliable. Add telemetry.
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 3 | 1.2.0 |
+| [account_details](https://github.com/texxasrulez/account_details/releases) | 1 | 4.0.1 |
 | [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 1 | 1.5 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 1 | 1.5 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 1 | 1.5 |
@@ -186,7 +187,6 @@ If it’s not observed, it’s not reliable. Add telemetry.
 | [green-larry](https://github.com/texxasrulez/green-larry/releases) | 1 | 1.5 |
 | [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 1 | 1.5 |
 | [black-larry](https://github.com/texxasrulez/black-larry/releases) | 1 | 1.5 |
-| [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 1 | 1.5 |
 <!--RELEASES:END-->
 
 ---
@@ -224,7 +224,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-14 08:14:07 UTC
+2025-12-14 09:10:30 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
