@@ -99,16 +99,16 @@ I would love help translating and making sure what I have is good to go.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
-- 🏷️ Published release **0.0.1** in **texxasrulez/rounddav_bookmarks** · 2025-12-15 22:10:23 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/plugin_manager** · 2025-12-15 23:11:01 UTC
+- 🏷️ Published release **0.0.1** in **texxasrulez/rounddav_bookmarks** · 2025-12-15 22:50:24 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_bookmarks** · 2025-12-15 22:49:48 UTC
+- 🏷️ Published release **0.0.1** in **texxasrulez/rounddav** · 2025-12-15 22:10:56 UTC
 - 🏷️ Published release **0.0.1** in **texxasrulez/rounddav_provision** · 2025-12-15 22:09:46 UTC
 - 🏷️ Published release **0.0.1** in **texxasrulez/rounddav_files** · 2025-12-15 22:09:09 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_provision** · 2025-12-15 22:00:30 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_files** · 2025-12-15 21:59:35 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav** · 2025-12-15 21:58:14 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_bookmarks** · 2025-12-15 21:55:48 UTC
-- ✨ Created branch main in **texxasrulez/rounddav_bookmarks** · 2025-12-15 21:52:36 UTC
-- 🏷️ Published release **1.3.0** in **texxasrulez/scheduled_sending** · 2025-12-15 18:54:14 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/scheduled_sending** · 2025-12-15 18:53:00 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -116,16 +116,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/nextcloud">
+<a href="https://github.com/texxasrulez/teal-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
+<a href="https://github.com/texxasrulez/matomo_analytics">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
   </picture>
 </a>
 </p>
@@ -145,8 +145,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Not all those who wander are lost.”
-— <em>J.R.R. Tolkien</em>
+> “Be happy in the moment, that's enough. Each moment is all we need, not more.”
+— <em>Mother Teresa</em>
 <!--QUOTE:END-->
 
 ---
@@ -168,7 +168,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Automate the boring stuff; boredom breeds mistakes.
+If it’s not observed, it’s not reliable. Add telemetry.
 <!--TIP:END-->
 
 ---
@@ -179,6 +179,7 @@ Automate the boring stuff; boredom breeds mistakes.
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 4 | 1.3.0 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 1 | 1.4.0 |
+| [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 1 | 0.0.1 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 1 | 4.0.1 |
 | [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 1 | 1.5 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 1 | 1.5 |
@@ -186,7 +187,6 @@ Automate the boring stuff; boredom breeds mistakes.
 | [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 1 | 1.5 |
 | [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 1 | 1.5 |
 | [green-larry](https://github.com/texxasrulez/green-larry/releases) | 1 | 1.5 |
-| [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 1 | 1.5 |
 <!--RELEASES:END-->
 
 ---
@@ -224,7 +224,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-15 22:10:54 UTC
+2025-12-15 23:11:14 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
