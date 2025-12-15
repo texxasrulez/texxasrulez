@@ -99,16 +99,16 @@ I would love help translating and making sure what I have is good to go.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- 🏷️ Published release **0.0.1** in **texxasrulez/rounddav_bookmarks** · 2025-12-15 22:10:23 UTC
+- 🏷️ Published release **0.0.1** in **texxasrulez/rounddav_provision** · 2025-12-15 22:09:46 UTC
+- 🏷️ Published release **0.0.1** in **texxasrulez/rounddav_files** · 2025-12-15 22:09:09 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_provision** · 2025-12-15 22:00:30 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_files** · 2025-12-15 21:59:35 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav** · 2025-12-15 21:58:14 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_bookmarks** · 2025-12-15 21:55:48 UTC
+- ✨ Created branch main in **texxasrulez/rounddav_bookmarks** · 2025-12-15 21:52:36 UTC
 - 🏷️ Published release **1.3.0** in **texxasrulez/scheduled_sending** · 2025-12-15 18:54:14 UTC
 - ⬆️ Pushed 0 commit(s) to **texxasrulez/scheduled_sending** · 2025-12-15 18:53:00 UTC
-- 🏷️ Published release **1.4.0** in **texxasrulez/plugin_manager** · 2025-12-15 03:27:16 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/plugin_manager** · 2025-12-15 03:25:51 UTC
-- 🏷️ Published release **4.0.1** in **texxasrulez/account_details** · 2025-12-14 08:09:00 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/account_details** · 2025-12-14 08:07:56 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_files** · 2025-12-10 13:49:32 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_provision** · 2025-12-10 13:49:02 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_provision** · 2025-12-10 13:45:25 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_files** · 2025-12-10 13:44:15 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -116,16 +116,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/plata-larry">
+<a href="https://github.com/texxasrulez/nextcloud">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/server-dashboard">
+<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
   </picture>
 </a>
 </p>
@@ -145,8 +145,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Thought is so cunning, so clever, that it distorts everything for its own convenience.”
-— <em>Jiddu Krishnamurti</em>
+> “Not all those who wander are lost.”
+— <em>J.R.R. Tolkien</em>
 <!--QUOTE:END-->
 
 ---
@@ -168,7 +168,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Delete dead code. Zombies bite. 🧟
+Automate the boring stuff; boredom breeds mistakes.
 <!--TIP:END-->
 
 ---
@@ -224,7 +224,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-15 21:10:53 UTC
+2025-12-15 22:10:54 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
