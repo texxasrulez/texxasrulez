@@ -99,16 +99,16 @@ I would love help translating and making sure what I have is good to go.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/plugin_manager** · 2025-12-15 23:11:01 UTC
-- 🏷️ Published release **0.0.1** in **texxasrulez/rounddav_bookmarks** · 2025-12-15 22:50:24 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_bookmarks** · 2025-12-15 22:49:48 UTC
-- 🏷️ Published release **0.0.1** in **texxasrulez/rounddav** · 2025-12-15 22:10:56 UTC
-- 🏷️ Published release **0.0.1** in **texxasrulez/rounddav_provision** · 2025-12-15 22:09:46 UTC
-- 🏷️ Published release **0.0.1** in **texxasrulez/rounddav_files** · 2025-12-15 22:09:09 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_provision** · 2025-12-15 22:00:30 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_files** · 2025-12-15 21:59:35 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav** · 2025-12-15 21:58:14 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_bookmarks** · 2025-12-15 21:55:48 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/grub2-theme-grub-cave** · 2025-12-16 00:26:37 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/grub2-theme-tornado-vs-fleet** · 2025-12-16 00:12:49 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/grub2-theme-freshwater-aquarium** · 2025-12-16 00:12:44 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/grub2-theme-blue-linux-mint** · 2025-12-16 00:12:39 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/grub2-theme-bikini-atoll** · 2025-12-16 00:12:31 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-12-15 23:54:28 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-12-15 23:53:10 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_provision** · 2025-12-15 23:52:23 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_files** · 2025-12-15 23:52:16 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/rounddav_bookmarks** · 2025-12-15 23:52:09 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -116,16 +116,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/teal-larry">
+<a href="https://github.com/texxasrulez/black-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/matomo_analytics">
+<a href="https://github.com/texxasrulez/scheduled_sending">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=default" alt="scheduled_sending" />
   </picture>
 </a>
 </p>
@@ -145,15 +145,15 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Be happy in the moment, that's enough. Each moment is all we need, not more.”
-— <em>Mother Teresa</em>
+> “Youth has no age.”
+— <em>Pablo Picasso</em>
 <!--QUOTE:END-->
 
 ---
 
 ### 🔥 Commit Streaks
 <!--STREAKS:START-->
-Current Streak: 2 days  
+Current Streak: 0 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
 
@@ -178,15 +178,15 @@ If it’s not observed, it’s not reliable. Add telemetry.
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 4 | 1.3.0 |
-| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 1 | 1.4.0 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 1 | 0.0.1 |
-| [account_details](https://github.com/texxasrulez/account_details/releases) | 1 | 4.0.1 |
-| [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 1 | 1.5 |
-| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 1 | 1.5 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 1 | 1.5 |
 | [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 1 | 1.5 |
 | [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 1 | 1.5 |
 | [green-larry](https://github.com/texxasrulez/green-larry/releases) | 1 | 1.5 |
+| [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 1 | 1.5 |
+| [black-larry](https://github.com/texxasrulez/black-larry/releases) | 1 | 1.5 |
+| [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 1 | 1.5 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 1 | 1.4.1 |
 <!--RELEASES:END-->
 
 ---
@@ -224,7 +224,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-15 23:11:14 UTC
+2025-12-16 00:54:07 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
