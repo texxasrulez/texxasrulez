@@ -111,16 +111,16 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/texxasrulez** · 2025-12-03 20:10:20 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/watchtower** · 2025-12-03 17:45:27 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/watchtower** · 2025-12-03 17:44:14 UTC
-- 🏷️ Published release **0.0.1** in **texxasrulez/watchtower** · 2025-12-03 17:34:55 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/watchtower** · 2025-12-03 17:33:43 UTC
-- ✨ Created branch main in **texxasrulez/watchtower** · 2025-12-03 15:35:08 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-11-21 16:07:02 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-11-21 16:00:51 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-11-21 16:00:19 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-11-21 15:59:19 UTC
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/texxasrulez** · 2025-12-16 14:08:27 UTC
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/texxasrulez** · 2025-12-16 05:14:07 UTC
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/rounddav** · 2025-12-16 04:43:00 UTC
+- 🏷️ Published release **3.6.0** in **texxasrulez/calendar** · 2025-12-16 02:18:53 UTC
+- 🏷️ Published release **3.6.1** in **texxasrulez/libkolab** · 2025-12-16 02:18:18 UTC
+- 🏷️ Published release **3.6.1** in **texxasrulez/libcalendaring** · 2025-12-16 02:17:50 UTC
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/libkolab** · 2025-12-16 02:16:35 UTC
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/libcalendaring** · 2025-12-16 02:16:28 UTC
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/calendar** · 2025-12-16 02:16:21 UTC
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/calendar** · 2025-12-16 02:13:49 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/black-larry">
+<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
+<a href="https://github.com/texxasrulez/tasklist">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
   </picture>
 </a>
 </p>
@@ -165,15 +165,15 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.”
-— <em>Epictetus</em>
+> “The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.”
+— <em>Amelia Earhart</em>
 <!--QUOTE:END-->
 
 ---
 
 ### 🔥 Commit Streaks
 <!--STREAKS:START-->
-Current Streak: 1 days  
+Current Streak: 3 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
 
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Test boundaries, not happy paths. Dragons live on edges.
+Guard rails > guard clauses > guard your time.
 <!--TIP:END-->
 
 ---
@@ -197,16 +197,16 @@ Test boundaries, not happy paths. Dragons live on edges.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [watchtower](https://github.com/texxasrulez/watchtower/releases) | 1 | 0.0.1 |
-| [server-dashboard](https://github.com/texxasrulez/server-dashboard/releases) | 0 | 0.0.1 |
-| [track-em](https://github.com/texxasrulez/track-em/releases) | 0 | 0.0.1 |
-| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 0 | 1.3.4 |
-| [matomo_analytics](https://github.com/texxasrulez/matomo_analytics/releases) | 0 | 1.2 |
-| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 0 | 1.0.2 |
-| [calender_inboxview](https://github.com/texxasrulez/calender_inboxview/releases) | 0 | 1.0.1 |
-| [grub2-theme-blue-linux-mint](https://github.com/texxasrulez/grub2-theme-blue-linux-mint/releases) | 0 | 1.0 |
-| [grub2-theme-bikini-atoll](https://github.com/texxasrulez/grub2-theme-bikini-atoll/releases) | 0 | 1.0 |
-| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 0 | 1.1.1 |
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 4 | 1.3.0 |
+| [calendar](https://github.com/texxasrulez/calendar/releases) | 3 | 3.6.0 |
+| [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
+| [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 1 | 3.6.1 |
+| [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 1 | 1.5 |
+| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 1 | 1.5 |
+| [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 1 | 0.0.1 |
+| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 1 | 1.5 |
+| [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 1 | 1.5 |
+| [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 1 | 1.5 |
 <!--RELEASES:END-->
 
 ---
@@ -237,7 +237,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-03 20:10:32 UTC
+2025-12-16 14:08:36 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
