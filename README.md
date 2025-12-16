@@ -116,16 +116,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/persistent_login">
+<a href="https://github.com/texxasrulez/advanced_search">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=default" alt="persistent_login" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=default" alt="advanced_search" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/pink-larry">
+<a href="https://github.com/texxasrulez/scheduled_sending">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=default" alt="scheduled_sending" />
   </picture>
 </a>
 </p>
@@ -145,8 +145,8 @@ I would love help translating and making sure what I have is good to go.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Quiet people have the loudest minds.”
-— <em>Stephen King</em>
+> “Make improvements, not excuses. Seek respect, not attention.”
+— <em>Roy T. Bennett</em>
 <!--QUOTE:END-->
 
 ---
@@ -178,9 +178,9 @@ Small commits, great diffs. Atomic changes win.
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 4 | 1.3.0 |
+| [calendar](https://github.com/texxasrulez/calendar/releases) | 3 | 3.6.0 |
 | [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
 | [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 1 | 3.6.1 |
-| [calendar](https://github.com/texxasrulez/calendar/releases) | 1 | 3.6.0 |
 | [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 1 | 1.5 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 1 | 1.5 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 1 | 0.0.1 |
@@ -224,7 +224,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-16 02:47:31 UTC
+2025-12-16 03:52:50 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
