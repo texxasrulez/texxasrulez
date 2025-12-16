@@ -34,6 +34,18 @@ I would love help translating and making sure what I have is good to go.
 
 ---
 
+### 🌍 Help Translate My Plugins
+
+I maintain 30+ Roundcube plugins/skins and rely on DeepL until a fluent human steps in. If you can help:
+
+- Pick any repo (Scheduled Sending, Plugin Manager, Signature Randomizer, etc.) and review the `/localization` strings.
+- Open a PR/issue with natural language tweaks or send me an email at [texxasrulez@yahoo.com](mailto:texxasrulez@yahoo.com) with updated files.
+- Mention your locale so I can credit you in the changelog.
+
+Thanks for making these tools sound native everywhere.
+
+---
+
 ### 🧰 Tech Toolbox
 
 <p align="center">
@@ -99,16 +111,16 @@ I would love help translating and making sure what I have is good to go.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
-- 🏷️ Published release **3.6.0** in **texxasrulez/calendar** · 2025-12-16 02:18:53 UTC
-- 🏷️ Published release **3.6.1** in **texxasrulez/libkolab** · 2025-12-16 02:18:18 UTC
-- 🏷️ Published release **3.6.1** in **texxasrulez/libcalendaring** · 2025-12-16 02:17:50 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/libkolab** · 2025-12-16 02:16:35 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/libcalendaring** · 2025-12-16 02:16:28 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/calendar** · 2025-12-16 02:16:21 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/calendar** · 2025-12-16 02:13:49 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/libcalendaring** · 2025-12-16 02:13:41 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/libkolab** · 2025-12-16 02:13:33 UTC
-- ⬆️ Pushed 0 commit(s) to **texxasrulez/libkolab** · 2025-12-16 02:10:32 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/texxasrulez** · 2025-12-03 20:10:20 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/watchtower** · 2025-12-03 17:45:27 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/watchtower** · 2025-12-03 17:44:14 UTC
+- 🏷️ Published release **0.0.1** in **texxasrulez/watchtower** · 2025-12-03 17:34:55 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/watchtower** · 2025-12-03 17:33:43 UTC
+- ✨ Created branch main in **texxasrulez/watchtower** · 2025-12-03 15:35:08 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-11-21 16:07:02 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-11-21 16:00:51 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-11-21 16:00:19 UTC
+- ⬆️ Pushed 0 commit(s) to **texxasrulez/server-dashboard** · 2025-11-21 15:59:19 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -116,16 +128,16 @@ I would love help translating and making sure what I have is good to go.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
+<a href="https://github.com/texxasrulez/black-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/matomo_analytics">
+<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
   </picture>
 </a>
 </p>
@@ -143,17 +155,25 @@ I would love help translating and making sure what I have is good to go.
 
 ---
 
+### 🧱 What I'm Building This Month
+
+- 🛰️ [watchtower](https://github.com/texxasrulez/watchtower) · shipping the first 0.0.1 release with containerized health checks and pluggable alerts.
+- 📊 [server-dashboard](https://github.com/texxasrulez/server-dashboard) · wiring live metrics widgets together so home lab services have a single pane of glass.
+- 📬 [scheduled_sending](https://github.com/texxasrulez/scheduled_sending) · polishing the UX and recruiting translators for a smoother multi-lingual composer experience.
+
+---
+
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The soul should always stand ajar, ready to welcome the ecstatic experience.”
-— <em>Emily Dickinson</em>
+> “Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.”
+— <em>Epictetus</em>
 <!--QUOTE:END-->
 
 ---
 
 ### 🔥 Commit Streaks
 <!--STREAKS:START-->
-Current Streak: 3 days  
+Current Streak: 1 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
 
@@ -168,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Guard rails > guard clauses > guard your time.
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -177,24 +197,17 @@ Guard rails > guard clauses > guard your time.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 4 | 1.3.0 |
-| [calendar](https://github.com/texxasrulez/calendar/releases) | 3 | 3.6.0 |
-| [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
-| [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 1 | 3.6.1 |
-| [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 1 | 1.5 |
-| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 1 | 1.5 |
-| [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 1 | 0.0.1 |
-| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 1 | 1.5 |
-| [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 1 | 1.5 |
-| [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 1 | 1.5 |
+| [watchtower](https://github.com/texxasrulez/watchtower/releases) | 1 | 0.0.1 |
+| [server-dashboard](https://github.com/texxasrulez/server-dashboard/releases) | 0 | 0.0.1 |
+| [track-em](https://github.com/texxasrulez/track-em/releases) | 0 | 0.0.1 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 0 | 1.3.4 |
+| [matomo_analytics](https://github.com/texxasrulez/matomo_analytics/releases) | 0 | 1.2 |
+| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 0 | 1.0.2 |
+| [calender_inboxview](https://github.com/texxasrulez/calender_inboxview/releases) | 0 | 1.0.1 |
+| [grub2-theme-blue-linux-mint](https://github.com/texxasrulez/grub2-theme-blue-linux-mint/releases) | 0 | 1.0 |
+| [grub2-theme-bikini-atoll](https://github.com/texxasrulez/grub2-theme-bikini-atoll/releases) | 0 | 1.0 |
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 0 | 1.1.1 |
 <!--RELEASES:END-->
-
----
-
-### 📰 Latest Posts
-<!--BLOG:START-->
-Add `BLOG_RSS_URL` to enable blog posts.
-<!--BLOG:END-->
 
 ---
 
@@ -224,7 +237,7 @@ Add `BLOG_RSS_URL` to enable blog posts.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-16 04:26:46 UTC
+2025-12-03 20:10:32 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._

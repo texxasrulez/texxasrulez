@@ -5,7 +5,6 @@ import re
 import sys
 import urllib.request
 import urllib.error
-import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, date
 from hashlib import sha1
 from typing import List, Tuple
@@ -16,14 +15,12 @@ OWNER = REPO.split("/")[0]
 USER = os.getenv("GITHUB_ACTOR", OWNER)
 TOKEN = os.getenv("GITHUB_TOKEN", "")
 
-BLOG_RSS_URL = os.getenv("BLOG_RSS_URL", "").strip()
 TIPS_FILE = os.getenv("TIPS_FILE", "data/tips.txt")
 FEATURED_FILE = os.getenv("FEATURED_FILE", "data/featured_repos.txt")
 MAX_RELEASE_REPOS = int(os.getenv("MAX_RELEASE_REPOS", "10"))
-MAX_BLOG_ITEMS = int(os.getenv("MAX_BLOG_ITEMS", "5"))
 
 # FEATURED rendering controls
-FEATURED_COUNT = max(1, int(os.getenv("FEATURED_COUNT", "2")))  # how many cards to show
+FEATURED_COUNT = max(1, int(os.getenv("FEATURED_COUNT", "4")))  # how many cards to show
 FEATURED_LIGHT_THEME = os.getenv("FEATURED_LIGHT_THEME", "default")
 FEATURED_DARK_THEME = os.getenv("FEATURED_DARK_THEME", "tokyonight")
 FEATURED_ROTATION = os.getenv("FEATURED_ROTATION", "daily").lower()  # hourly|daily|weekly|monthly
@@ -36,7 +33,6 @@ DATE_S, DATE_E = "<!--DATE:START-->", "<!--DATE:END-->"
 TIP_S, TIP_E = "<!--TIP:START-->", "<!--TIP:END-->"
 REL_S, REL_E = "<!--RELEASES:START-->", "<!--RELEASES:END-->"
 FEAT_S, FEAT_E = "<!--FEATURED:START-->", "<!--FEATURED:END-->"
-BLOG_S, BLOG_E = "<!--BLOG:START-->", "<!--BLOG:END-->"
 
 
 def read_text(path: str) -> str:
@@ -287,37 +283,6 @@ def fetch_release_stats_md(owner: str) -> str:
     return md.strip()
 
 
-def fetch_blog_md() -> str:
-    if not BLOG_RSS_URL:
-        return "Add `BLOG_RSS_URL` to enable blog posts."
-    try:
-        req = urllib.request.Request(BLOG_RSS_URL, headers={"User-Agent": "profile-updater"})
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            xml = resp.read()
-        root = ET.fromstring(xml)
-        items = []
-        # RSS 2.0
-        for itm in root.findall(".//item"):
-            title = (itm.findtext("title") or "").strip()
-            link = (itm.findtext("link") or "").strip()
-            if title and link:
-                items.append((title, link))
-        # Atom
-        if not items:
-            for entry in root.findall(".//{http://www.w3.org/2005/Atom}entry"):
-                title = (entry.findtext("{http://www.w3.org/2005/Atom}title") or "").strip()
-                link_el = entry.find("{http://www.w3.org/2005/Atom}link")
-                href = link_el.get("href") if link_el is not None else ""
-                if title and href:
-                    items.append((title, href))
-        if not items:
-            return "_No posts found in RSS feed._"
-        items = items[:MAX_BLOG_ITEMS]
-        return "\n".join(f"- [{t}]({u})" for t, u in items)
-    except Exception:
-        return "_Blog feed fetch failed. Check `BLOG_RSS_URL`._"
-
-
 def main():
     try:
         content = read_text(README_PATH)
@@ -341,9 +306,6 @@ def main():
 
         # Release stats
         content = replace_block(content, REL_S, REL_E, fetch_release_stats_md(OWNER))
-
-        # Blog posts
-        content = replace_block(content, BLOG_S, BLOG_E, fetch_blog_md())
 
         write_text(README_PATH, content)
         print("README updated successfully.")

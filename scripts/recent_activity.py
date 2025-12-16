@@ -32,8 +32,17 @@ def fmt_event(e):
     when = created.replace("T", " ").replace("Z", " UTC")
     # A few friendly mappings
     if t == "PushEvent":
-        n = len(e.get("payload", {}).get("commits", []))
-        return f"- ⬆️ Pushed {n} commit(s) to **{repo}** · {when}"
+        payload = e.get("payload", {})
+        n = payload.get("size")
+        if n is None:
+            n = len(payload.get("commits", []))
+        if n is None:
+            n = 0
+        branch = payload.get("ref", "")
+        if branch.startswith("refs/heads/"):
+            branch = branch.split("/", 2)[-1]
+        branch_part = f" on `{branch}`" if branch else ""
+        return f"- ⬆️ Pushed {n} commit(s){branch_part} to **{repo}** · {when}"
     if t == "CreateEvent":
         ref = e.get("payload", {}).get("ref_type", "")
         name = e.get("payload", {}).get("ref", "") or ""
