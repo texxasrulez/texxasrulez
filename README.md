@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.”
-— <em>Amelia Earhart</em>
+> “Creativity is intelligence having fun.”
+— <em>Albert Einstein</em>
 <!--QUOTE:END-->
 
 ---
@@ -197,8 +197,8 @@ Guard rails > guard clauses > guard your time.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 4 | 1.3.0 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 3 | 3.6.0 |
+| [account_details](https://github.com/texxasrulez/account_details/releases) | 1 | 4.0.1 |
 | [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
 | [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 1 | 3.6.1 |
 | [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 1 | 1.5 |
@@ -237,7 +237,7 @@ Guard rails > guard clauses > guard your time.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-16 14:08:36 UTC
+2025-12-16 14:14:19 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
