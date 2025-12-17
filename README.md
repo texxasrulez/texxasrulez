@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/vcard_attach">
+<a href="https://github.com/texxasrulez/plata-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/autumn-larry">
+<a href="https://github.com/texxasrulez/teal-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.”
-— <em>Thich Nhat Hanh</em>
+> “If there is a book that you want to read, but it hasn't been written yet, then you must write it.”
+— <em>Toni Morrison</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Prefer pure functions; side effects are where bugs hide. 🪲
+If it’s not observed, it’s not reliable. Add telemetry.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-17 00:48:54 UTC
+2025-12-17 02:43:40 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
