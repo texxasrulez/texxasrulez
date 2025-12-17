@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-freshwater-aquarium">
+<a href="https://github.com/texxasrulez/calender_inboxview">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=default" alt="grub2-theme-freshwater-aquarium" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=default" alt="calender_inboxview" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
+<a href="https://github.com/texxasrulez/persistent_login">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=default" alt="persistent_login" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.”
-— <em>Mark Manson</em>
+> “Art is the signature of civilizations.”
+— <em>Beverly Sills</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Plant your taters deep.
+Prefer pure functions; side effects are where bugs hide. 🪲
 <!--TIP:END-->
 
 ---
@@ -199,6 +199,7 @@ Plant your taters deep.
 |---|---:|---|
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 3 | 3.6.0 |
 | [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 2 | 1.5 |
+| [tasklist](https://github.com/texxasrulez/tasklist/releases) | 1 | 3.6.1 |
 | [grub2-theme-bikini-atoll](https://github.com/texxasrulez/grub2-theme-bikini-atoll/releases) | 1 | 1.0.1 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 1 | 4.0.1 |
 | [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
@@ -206,7 +207,6 @@ Plant your taters deep.
 | [violet-larry](https://github.com/texxasrulez/violet-larry/releases) | 1 | 1.5 |
 | [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 1 | 1.5 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 1 | 1.5 |
-| [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 1 | 0.0.1 |
 <!--RELEASES:END-->
 
 ---
@@ -237,7 +237,7 @@ Plant your taters deep.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-17 20:12:45 UTC
+2025-12-17 21:11:10 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
