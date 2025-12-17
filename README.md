@@ -111,16 +111,16 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- 🏷️ Published release **3.6.1** in **texxasrulez/tasklist** · 2025-12-17 20:05:43 UTC
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/tasklist** · 2025-12-17 20:05:11 UTC
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/tasklist** · 2025-12-17 20:02:01 UTC
+- ✨ Created branch main in **texxasrulez/tasklist** · 2025-12-17 19:58:21 UTC
 - ⬆️ Pushed 0 commit(s) on `master` to **texxasrulez/grub2-theme-bikini-atoll** · 2025-12-17 14:53:53 UTC
 - 🏷️ Published release **1.0.1** in **texxasrulez/grub2-theme-bikini-atoll** · 2025-12-17 14:55:17 UTC
 - ⬆️ Pushed 0 commit(s) on `master` to **texxasrulez/account_details** · 2025-12-16 14:10:17 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/texxasrulez** · 2025-12-16 14:08:27 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/texxasrulez** · 2025-12-16 05:14:07 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/rounddav** · 2025-12-16 04:43:00 UTC
-- 🏷️ Published release **3.6.0** in **texxasrulez/calendar** · 2025-12-16 02:18:53 UTC
-- 🏷️ Published release **3.6.1** in **texxasrulez/libkolab** · 2025-12-16 02:18:18 UTC
-- 🏷️ Published release **3.6.1** in **texxasrulez/libcalendaring** · 2025-12-16 02:17:50 UTC
-- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/libkolab** · 2025-12-16 02:16:35 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/nextcloud">
+<a href="https://github.com/texxasrulez/grub2-theme-freshwater-aquarium">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=default" alt="grub2-theme-freshwater-aquarium" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
+<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Perfect is the enemy of shipped.”
-— <em>Pragmatic Bot</em>
+> “We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.”
+— <em>Mark Manson</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Automate the boring stuff; boredom breeds mistakes.
+Plant your taters deep.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Automate the boring stuff; boredom breeds mistakes.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-17 19:12:36 UTC
+2025-12-17 20:12:45 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
