@@ -111,16 +111,16 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- 📌 IssueCommentEvent in **texxasrulez/calendar** · 2025-12-17 21:19:39 UTC
+- 🏷️ Published release **3.6.0** in **texxasrulez/calendar** · 2025-12-17 21:18:06 UTC
+- 🏷️ Published release **3.6.1** in **texxasrulez/libkolab** · 2025-12-17 21:17:03 UTC
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/libkolab** · 2025-12-17 21:16:17 UTC
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/calendar** · 2025-12-17 21:16:07 UTC
 - 🏷️ Published release **3.6.1** in **texxasrulez/tasklist** · 2025-12-17 20:05:43 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/tasklist** · 2025-12-17 20:05:11 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/tasklist** · 2025-12-17 20:02:01 UTC
 - ✨ Created branch main in **texxasrulez/tasklist** · 2025-12-17 19:58:21 UTC
 - ⬆️ Pushed 0 commit(s) on `master` to **texxasrulez/grub2-theme-bikini-atoll** · 2025-12-17 14:53:53 UTC
-- 🏷️ Published release **1.0.1** in **texxasrulez/grub2-theme-bikini-atoll** · 2025-12-17 14:55:17 UTC
-- ⬆️ Pushed 0 commit(s) on `master` to **texxasrulez/account_details** · 2025-12-16 14:10:17 UTC
-- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/texxasrulez** · 2025-12-16 14:08:27 UTC
-- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/texxasrulez** · 2025-12-16 05:14:07 UTC
-- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/rounddav** · 2025-12-16 04:43:00 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/calender_inboxview">
+<a href="https://github.com/texxasrulez/nextcloud">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=default" alt="calender_inboxview" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/persistent_login">
+<a href="https://github.com/texxasrulez/matomo-open-cart-ecommerce-vq-mod-3.0">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=default" alt="persistent_login" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=default" alt="matomo-open-cart-ecommerce-vq-mod-3.0" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Art is the signature of civilizations.”
-— <em>Beverly Sills</em>
+> “Science can flourish only in an atmosphere of free speech.”
+— <em>Albert Einstein</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Prefer pure functions; side effects are where bugs hide. 🪲
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -197,16 +197,16 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [calendar](https://github.com/texxasrulez/calendar/releases) | 3 | 3.6.0 |
 | [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 2 | 1.5 |
+| [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
 | [tasklist](https://github.com/texxasrulez/tasklist/releases) | 1 | 3.6.1 |
 | [grub2-theme-bikini-atoll](https://github.com/texxasrulez/grub2-theme-bikini-atoll/releases) | 1 | 1.0.1 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 1 | 4.0.1 |
-| [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
 | [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 1 | 3.6.1 |
 | [violet-larry](https://github.com/texxasrulez/violet-larry/releases) | 1 | 1.5 |
 | [teal-larry](https://github.com/texxasrulez/teal-larry/releases) | 1 | 1.5 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 1 | 1.5 |
+| [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 1 | 0.0.1 |
 <!--RELEASES:END-->
 
 ---
@@ -237,7 +237,7 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-17 21:11:10 UTC
+2025-12-17 22:10:42 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
