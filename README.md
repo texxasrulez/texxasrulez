@@ -111,6 +111,7 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/blue-larry** · 2025-12-20 16:55:13 UTC
 - 🏷️ Published release **3.6.1** in **texxasrulez/libcalendaring** · 2025-12-20 02:42:53 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/libcalendaring** · 2025-12-20 02:42:18 UTC
 - ✨ Created branch main in **texxasrulez/libcalendaring** · 2025-12-20 02:40:56 UTC
@@ -120,7 +121,6 @@ Thanks for making these tools sound native everywhere.
 - 🏷️ Published release **3.6.1** in **texxasrulez/libcalendaring** · 2025-12-20 02:26:19 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/calendar** · 2025-12-20 02:12:55 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/calendar** · 2025-12-20 02:10:08 UTC
-- 🏷️ Published release **3.6.0** in **texxasrulez/calendar** · 2025-12-20 02:08:16 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-tornado-vs-fleet">
+<a href="https://github.com/texxasrulez/change_notification">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=default" alt="grub2-theme-tornado-vs-fleet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/account_details">
+<a href="https://github.com/texxasrulez/plata-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=default" alt="account_details" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “We have to live life with a sense of urgency so not a minute is wasted.”
-— <em>Les Brown</em>
+> “Be as fluid as water, do not give your enemies anything solid to attack.”
+— <em>Robert Greene</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Prefer pure functions; side effects are where bugs hide. 🪲
 <!--TIP:END-->
 
 ---
@@ -197,8 +197,8 @@ Readability scales better than cleverness.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [calendar](https://github.com/texxasrulez/calendar/releases) | 2 | 3.6.0 |
 | [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 2 | 1.5 |
+| [calendar](https://github.com/texxasrulez/calendar/releases) | 2 | 3.6.0 |
 | [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 1 | 3.6.1 |
 | [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 1 | 4.0.1 |
@@ -237,7 +237,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-20 16:11:59 UTC
+2025-12-20 17:08:33 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
