@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
+<a href="https://github.com/texxasrulez/teal-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/additional_smtp">
+<a href="https://github.com/texxasrulez/nextcloud">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “To love means loving the unlovable.”
-— <em>Gilbert Chesterton</em>
+> “We don't stop playing because we grow old; we grow old because we stop playing.”
+— <em>George Bernard Shaw</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Fail fast, log clearly, recover gracefully.
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Fail fast, log clearly, recover gracefully.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-21 23:10:05 UTC
+2025-12-22 00:56:35 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
