@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/pink-larry">
+<a href="https://github.com/texxasrulez/account_details">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=default" alt="account_details" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/nextcloud">
+<a href="https://github.com/texxasrulez/plugin_manager">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=default" alt="plugin_manager" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The world would go on even without you. Don't take yourself so seriously.”
-— <em>Norman Vincent Peale</em>
+> “Numbing the pain for a while will make it worse when you finally feel it.”
+— <em>Albus Dumbledore</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-If it’s not observed, it’s not reliable. Add telemetry.
+Automate the boring stuff; boredom breeds mistakes.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ If it’s not observed, it’s not reliable. Add telemetry.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-23 00:53:55 UTC
+2025-12-23 02:49:04 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
