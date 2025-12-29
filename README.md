@@ -111,6 +111,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/tasklist** · 2025-12-29 15:09:08 UTC
+- ⬆️ Pushed 0 commit(s) on `master` to **texxasrulez/additional_imap** · 2025-12-29 15:05:23 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/autumn-larry** · 2025-12-28 23:53:14 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/blue-larry** · 2025-12-28 23:53:06 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/blue-larry** · 2025-12-28 23:38:36 UTC
@@ -119,8 +121,6 @@ Thanks for making these tools sound native everywhere.
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/blue-larry** · 2025-12-28 23:35:21 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/rounddav_files** · 2025-12-28 16:52:45 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/rounddav_bookmarks** · 2025-12-28 16:51:13 UTC
-- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/rounddav_provision** · 2025-12-28 16:38:13 UTC
-- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/libkolab** · 2025-12-22 19:00:07 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/vcard_attach">
+<a href="https://github.com/texxasrulez/matomo-open-cart-ecommerce-vq-mod-3.0">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=default" alt="matomo-open-cart-ecommerce-vq-mod-3.0" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/nextcloud">
+<a href="https://github.com/texxasrulez/violet-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
   </picture>
 </a>
 </p>
@@ -165,15 +165,15 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Do you want to know who you are? Don't ask. Act! Action will delineate and define you.”
-— <em>Thomas Jefferson</em>
+> “Man suffers only because he takes seriously what the gods made for fun.”
+— <em>Alan Watts</em>
 <!--QUOTE:END-->
 
 ---
 
 ### 🔥 Commit Streaks
 <!--STREAKS:START-->
-Current Streak: 0 days  
+Current Streak: 2 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
 
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-If it’s not observed, it’s not reliable. Add telemetry.
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -199,12 +199,12 @@ If it’s not observed, it’s not reliable. Add telemetry.
 |---|---:|---|
 | [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 2 | 1.5 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 2 | 3.6.0 |
+| [tasklist](https://github.com/texxasrulez/tasklist/releases) | 1 | 3.6.1 |
 | [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 1 | 1.5 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 1 | 0.0.1 |
 | [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
 | [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 1 | 3.6.1 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 1 | 4.0.1 |
-| [tasklist](https://github.com/texxasrulez/tasklist/releases) | 1 | 3.6.1 |
 | [grub2-theme-bikini-atoll](https://github.com/texxasrulez/grub2-theme-bikini-atoll/releases) | 1 | 1.0.1 |
 | [violet-larry](https://github.com/texxasrulez/violet-larry/releases) | 1 | 1.5 |
 <!--RELEASES:END-->
@@ -237,7 +237,7 @@ If it’s not observed, it’s not reliable. Add telemetry.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-29 14:12:54 UTC
+2025-12-29 15:12:19 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
