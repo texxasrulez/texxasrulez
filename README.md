@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/plata-larry">
+<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/black-larry">
+<a href="https://github.com/texxasrulez/grey-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Always render more and better service than is expected of you, no matter what your task may be.”
-— <em>Og Mandino</em>
+> “Why fit in when you were born to stand out?”
+— <em>Dr. Seuss</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Plant your taters deep.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2025-12-30 04:33:19 UTC
+2025-12-30 05:15:39 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
