@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/nextcloud">
+<a href="https://github.com/texxasrulez/violet-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/password">
+<a href="https://github.com/texxasrulez/pillars-of-creation">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=default" alt="password" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.”
-— <em>Tony Robbins</em>
+> “Surround yourself with only people who are going to lift you higher.”
+— <em>Oprah Winfrey</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Plant your taters deep.
+Automate the boring stuff; boredom breeds mistakes.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Plant your taters deep.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-01 12:21:33 UTC
+2026-01-01 13:27:05 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
