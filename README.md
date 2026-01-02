@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/teal-larry">
+<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/summer-larry">
+<a href="https://github.com/texxasrulez/blue-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=default" alt="summer-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Remember that the best relationship is one in which your love for each other exceeds your need for each other.”
-— <em>Dalai Lama</em>
+> “In youth we run into difficulties. In old age difficulties run into us.”
+— <em>Beverly Sills</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-If it’s not observed, it’s not reliable. Add telemetry.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ If it’s not observed, it’s not reliable. Add telemetry.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-02 13:26:29 UTC
+2026-01-02 14:11:46 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
