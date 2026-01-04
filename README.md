@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/simple_secure_contact_form">
+<a href="https://github.com/texxasrulez/black-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=default" alt="simple_secure_contact_form" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/autumn-larry">
+<a href="https://github.com/texxasrulez/signature_randomizer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=default" alt="signature_randomizer" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “To be in harmony with the wholeness of things is not to have anxiety over imperfections.”
-— <em>Dogen</em>
+> “It's the little things done consistently over time, straight from your heart, that have the greatest impact.”
+— <em>Unknown</em>
 <!--QUOTE:END-->
 
 ---
@@ -197,6 +197,7 @@ If it’s not observed, it’s not reliable. Add telemetry.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 68 | 1.3.0 |
 | [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 2 | 1.5 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 2 | 3.6.0 |
 | [tasklist](https://github.com/texxasrulez/tasklist/releases) | 1 | 3.6.1 |
@@ -206,7 +207,6 @@ If it’s not observed, it’s not reliable. Add telemetry.
 | [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
 | [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 1 | 3.6.1 |
 | [rounddav](https://github.com/texxasrulez/rounddav/releases) | 1 | 0.0.1 |
-| [account_details](https://github.com/texxasrulez/account_details/releases) | 1 | 4.0.1 |
 <!--RELEASES:END-->
 
 ---
@@ -237,7 +237,7 @@ If it’s not observed, it’s not reliable. Add telemetry.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-04 12:19:51 UTC
+2026-01-04 13:23:31 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
