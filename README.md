@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/violet-larry">
+<a href="https://github.com/texxasrulez/signature_randomizer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=default" alt="signature_randomizer" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/additional_smtp">
+<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “I have never let my schooling interfere with my education.”
-— <em>Mark Twain</em>
+> “You will face many defeats in life, but never let yourself be defeated.”
+— <em>Maya Angelou</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Small commits, great diffs. Atomic changes win.
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Small commits, great diffs. Atomic changes win.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-05 07:20:41 UTC
+2026-01-05 08:18:41 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
