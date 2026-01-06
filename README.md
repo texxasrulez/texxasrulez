@@ -128,10 +128,10 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/summer-larry">
+<a href="https://github.com/texxasrulez/calendar">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=default" alt="summer-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
   </picture>
 </a>
 <a href="https://github.com/texxasrulez/cosmic-cliffs">
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “To avoid criticism, do nothing, say nothing, and be nothing.”
-— <em>Elbert Hubbard</em>
+> “There is nothing in the world so irresistibly contagious as laughter and good humor.”
+— <em>Charles Dickens</em>
 <!--QUOTE:END-->
 
 ---
@@ -237,7 +237,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-06 17:15:34 UTC
+2026-01-06 18:16:50 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
