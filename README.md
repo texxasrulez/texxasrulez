@@ -111,6 +111,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/rounddav** · 2026-01-06 04:15:52 UTC
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/plugin_manager** · 2026-01-06 04:11:15 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/rounddav_bookmarks** · 2026-01-06 03:30:42 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/rounddav_bookmarks** · 2026-01-06 03:30:14 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/rounddav_files** · 2026-01-06 03:29:51 UTC
@@ -119,8 +121,6 @@ Thanks for making these tools sound native everywhere.
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/rounddav_provision** · 2026-01-06 03:15:56 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/rounddav_provision** · 2026-01-06 03:12:43 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/tasklist** · 2025-12-29 15:09:08 UTC
-- ⬆️ Pushed 0 commit(s) on `master` to **texxasrulez/additional_imap** · 2025-12-29 15:05:23 UTC
-- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/autumn-larry** · 2025-12-28 23:53:14 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/additional_imap">
+<a href="https://github.com/texxasrulez/green-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=default" alt="additional_imap" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/calendar">
+<a href="https://github.com/texxasrulez/account_details">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=default" alt="account_details" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Being in a good frame of mind helps keep one in the picture of health.”
-— <em>Unknown</em>
+> “The world is a puzzle; no need to make sense out of it.”
+— <em>Socrates</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -198,15 +198,15 @@ Readability scales better than cleverness.
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 69 | 1.3.0 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 3 | 1.4.1 |
 | [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 2 | 1.5 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 2 | 3.6.0 |
+| [rounddav](https://github.com/texxasrulez/rounddav/releases) | 1 | 0.0.1 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 1 | 0.0.1 |
 | [rounddav_provision](https://github.com/texxasrulez/rounddav_provision/releases) | 1 | 0.0.1 |
 | [tasklist](https://github.com/texxasrulez/tasklist/releases) | 1 | 3.6.1 |
 | [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 1 | 1.5 |
 | [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
-| [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 1 | 3.6.1 |
-| [rounddav](https://github.com/texxasrulez/rounddav/releases) | 1 | 0.0.1 |
 <!--RELEASES:END-->
 
 ---
@@ -237,7 +237,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-06 03:57:21 UTC
+2026-01-06 04:35:59 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
