@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
+<a href="https://github.com/texxasrulez/green-larry">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
+  </picture>
+</a>
 <a href="https://github.com/texxasrulez/matomo-open-cart-ecommerce-vq-mod-3.0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=default" alt="matomo-open-cart-ecommerce-vq-mod-3.0" />
-  </picture>
-</a>
-<a href="https://github.com/texxasrulez/plata-larry">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Do not look for a sanctuary in anyone except your self.”
-— <em>Buddha</em>
+> “To be prepared is half the victory.”
+— <em>Miguel de Cervantes</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Small commits, great diffs. Atomic changes win.
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Small commits, great diffs. Atomic changes win.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-07 13:32:12 UTC
+2026-01-07 14:14:31 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
