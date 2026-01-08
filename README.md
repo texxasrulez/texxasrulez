@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
+<a href="https://github.com/texxasrulez/change_notification">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
+  </picture>
+</a>
 <a href="https://github.com/texxasrulez/grey-larry">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
-  </picture>
-</a>
-<a href="https://github.com/texxasrulez/nextcloud">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “He will win who knows when to fight and when not to fight.”
-— <em>Sun Tzu</em>
+> “He who knows how to wait need make no concessions.”
+— <em>Sigmund Freud</em>
 <!--QUOTE:END-->
 
 ---
@@ -201,12 +201,12 @@ Name things precisely. Future-you is your angriest code reviewer.
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 3 | 1.4.1 |
 | [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 2 | 1.5 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 2 | 3.6.0 |
+| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 2 | 1.5 |
 | [rounddav](https://github.com/texxasrulez/rounddav/releases) | 1 | 0.0.1 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 1 | 0.0.1 |
 | [rounddav_provision](https://github.com/texxasrulez/rounddav_provision/releases) | 1 | 0.0.1 |
 | [tasklist](https://github.com/texxasrulez/tasklist/releases) | 1 | 3.6.1 |
 | [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 1 | 1.5 |
-| [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
 <!--RELEASES:END-->
 
 ---
@@ -237,7 +237,7 @@ Name things precisely. Future-you is your angriest code reviewer.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-08 14:15:35 UTC
+2026-01-08 15:15:02 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
