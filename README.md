@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/teal-larry">
+<a href="https://github.com/texxasrulez/advanced_search">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=default" alt="advanced_search" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/pink-larry">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.”
-— <em>A.A. Milne</em>
+> “The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.”
+— <em>Sathya Sai Baba</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Fail fast, log clearly, recover gracefully.
+Readability scales better than cleverness.
 <!--TIP:END-->
 
 ---
@@ -200,13 +200,13 @@ Fail fast, log clearly, recover gracefully.
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 70 | 1.3.0 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 3 | 1.4.1 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 3 | 3.6.0 |
+| [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 2 | 1.5 |
 | [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 2 | 1.5 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 2 | 1.5 |
 | [rounddav](https://github.com/texxasrulez/rounddav/releases) | 1 | 0.0.1 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 1 | 0.0.1 |
 | [rounddav_provision](https://github.com/texxasrulez/rounddav_provision/releases) | 1 | 0.0.1 |
 | [tasklist](https://github.com/texxasrulez/tasklist/releases) | 1 | 3.6.1 |
-| [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 1 | 1.5 |
 <!--RELEASES:END-->
 
 ---
@@ -237,7 +237,7 @@ Fail fast, log clearly, recover gracefully.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-13 00:51:35 UTC
+2026-01-13 02:50:44 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
