@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
+<a href="https://github.com/texxasrulez/grub2-theme-freshwater-aquarium">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=default" alt="grub2-theme-freshwater-aquarium" />
+  </picture>
+</a>
 <a href="https://github.com/texxasrulez/signature_randomizer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=default" alt="signature_randomizer" />
-  </picture>
-</a>
-<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Never lose hope. Storms make people stronger and never last forever.”
-— <em>Roy T. Bennett</em>
+> “Begin now to be what you will be hereafter.”
+— <em>St. Jerome</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Prefer pure functions; side effects are where bugs hide. 🪲
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -203,10 +203,10 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 2 | 0.0.1 |
 | [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 2 | 1.5 |
 | [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 2 | 1.5 |
+| [grub2-theme-bikini-atoll](https://github.com/texxasrulez/grub2-theme-bikini-atoll/releases) | 2 | 1.0.1 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 2 | 1.5 |
 | [rounddav](https://github.com/texxasrulez/rounddav/releases) | 1 | 0.0.1 |
 | [rounddav_provision](https://github.com/texxasrulez/rounddav_provision/releases) | 1 | 0.0.1 |
-| [tasklist](https://github.com/texxasrulez/tasklist/releases) | 1 | 3.6.1 |
 <!--RELEASES:END-->
 
 ---
@@ -237,7 +237,7 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-14 12:23:06 UTC
+2026-01-14 13:33:23 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
