@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-freshwater-aquarium">
+<a href="https://github.com/texxasrulez/green-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=default" alt="grub2-theme-freshwater-aquarium" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
+<a href="https://github.com/texxasrulez/scheduled_sending">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=default" alt="scheduled_sending" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.”
-— <em>Charles Dickens</em>
+> “Teachers open the door. You enter by yourself.”
+— <em>Chinese Proverb</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Guard rails > guard clauses > guard your time.
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Guard rails > guard clauses > guard your time.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-15 10:13:28 UTC
+2026-01-15 11:11:32 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
