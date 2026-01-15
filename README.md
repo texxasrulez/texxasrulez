@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Life is about not knowing and then doing something anyway.”
-— <em>Mark Manson</em>
+> “If you can't, you must. If you must, you can.”
+— <em>Tony Robbins</em>
 <!--QUOTE:END-->
 
 ---
@@ -205,8 +205,8 @@ Automate the boring stuff; boredom breeds mistakes.
 | [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 2 | 1.5 |
 | [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 2 | 1.5 |
 | [libkolab](https://github.com/texxasrulez/libkolab/releases) | 2 | 3.6.1 |
+| [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 2 | 3.6.1 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 2 | 4.0.1 |
-| [grub2-theme-bikini-atoll](https://github.com/texxasrulez/grub2-theme-bikini-atoll/releases) | 2 | 1.0.1 |
 <!--RELEASES:END-->
 
 ---
@@ -237,7 +237,7 @@ Automate the boring stuff; boredom breeds mistakes.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-15 04:00:03 UTC
+2026-01-15 04:42:32 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
