@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/green-larry">
+<a href="https://github.com/texxasrulez/violet-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/scheduled_sending">
+<a href="https://github.com/texxasrulez/blue-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=default" alt="scheduled_sending" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Teachers open the door. You enter by yourself.”
-— <em>Chinese Proverb</em>
+> “Get mad, then get over it.”
+— <em>Colin Powell</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Test boundaries, not happy paths. Dragons live on edges.
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-15 11:11:32 UTC
+2026-01-15 12:22:37 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
