@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/account_details">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=default" alt="account_details" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/cosmic-cliffs">
+<a href="https://github.com/texxasrulez/persistent_login">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=default" alt="persistent_login" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The key to success is failure.”
-— <em>Michael Jordan</em>
+> “You may forget with whom you laughed, but you will never forget with whom you wept.”
+— <em>Kahlil Gibran</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Prefer pure functions; side effects are where bugs hide. 🪲
+Readability scales better than cleverness.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-16 05:16:47 UTC
+2026-01-16 06:19:09 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
