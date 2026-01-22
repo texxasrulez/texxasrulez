@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/blue-larry">
+<a href="https://github.com/texxasrulez/change_notification">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/calendar">
+<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.”
-— <em>Albert Einstein</em>
+> “The deeper the truth in a creative work, the longer it will live.”
+— <em>Charlie Chaplin</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Small commits, great diffs. Atomic changes win.
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Small commits, great diffs. Atomic changes win.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-22 22:12:36 UTC
+2026-01-22 23:12:10 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
