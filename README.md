@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/matomo-open-cart-ecommerce-vq-mod-3.0">
+<a href="https://github.com/texxasrulez/blue-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=default" alt="matomo-open-cart-ecommerce-vq-mod-3.0" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/teal-larry">
+<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Find something you love and do it better than everyone else.”
-— <em>Gurbaksh Chahal</em>
+> “When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.”
+— <em>Peter A. Cohen</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Name things precisely. Future-you is your angriest code reviewer.
+Guard rails > guard clauses > guard your time.
 <!--TIP:END-->
 
 ---
@@ -198,8 +198,8 @@ Name things precisely. Future-you is your angriest code reviewer.
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 70 | 1.3.0 |
+| [calendar](https://github.com/texxasrulez/calendar/releases) | 6 | 3.6.0 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 6 | 1.4.1 |
-| [calendar](https://github.com/texxasrulez/calendar/releases) | 5 | 3.6.0 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 3 | 1.5 |
 | [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 2 | 3.6.1 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 2 | 0.0.1 |
@@ -237,7 +237,7 @@ Name things precisely. Future-you is your angriest code reviewer.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-23 23:11:49 UTC
+2026-01-24 00:54:04 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
