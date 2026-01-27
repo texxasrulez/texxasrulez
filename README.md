@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/teal-larry">
+<a href="https://github.com/texxasrulez/scheduled_sending">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=default" alt="scheduled_sending" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/additional_imap">
+<a href="https://github.com/texxasrulez/additional_smtp">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=default" alt="additional_imap" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The heart that gives, gathers.”
-— <em>Lao Tzu</em>
+> “Look to the beauty of this day, miracles are all around you.”
+— <em>Mary Engelbreit</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Automate the boring stuff; boredom breeds mistakes.
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Automate the boring stuff; boredom breeds mistakes.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-27 13:38:33 UTC
+2026-01-27 14:20:38 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
