@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/account_details">
+<a href="https://github.com/texxasrulez/simple_secure_contact_form">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=default" alt="account_details" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=default" alt="simple_secure_contact_form" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/calender_inboxview">
+<a href="https://github.com/texxasrulez/vcard_attach">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=default" alt="calender_inboxview" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.”
-— <em>Charles Dickens</em>
+> “The grass is greener where you water it.”
+— <em>Neil Barringham</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
@@ -197,7 +197,7 @@ Readability scales better than cleverness.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 71 | 1.3.0 |
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 73 | 1.3.0 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 7 | 1.4.1 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 6 | 3.6.0 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 3 | 1.5 |
@@ -237,7 +237,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-01-31 21:11:37 UTC
+2026-01-31 22:11:57 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
