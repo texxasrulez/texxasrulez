@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/violet-larry">
+<a href="https://github.com/texxasrulez/autumn-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/cosmic-cliffs">
+<a href="https://github.com/texxasrulez/matomo_analytics">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Desire for the fruits of work must never be your motive in working.”
-— <em>Bhagavad Gita</em>
+> “Success is a consequence and must not be a goal.”
+— <em>Gustave Flaubert</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-02-01 23:14:46 UTC
+2026-02-02 01:07:26 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
