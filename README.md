@@ -120,7 +120,6 @@ Thanks for making these tools sound native everywhere.
 - 📌 IssueCommentEvent in **texxasrulez/scheduled_sending** · 2026-01-23 15:44:54 UTC
 - 📌 IssueCommentEvent in **texxasrulez/scheduled_sending** · 2026-01-22 21:13:34 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/libcalendaring** · 2026-01-20 18:01:31 UTC
-- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/tasklist** · 2026-01-19 23:47:38 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -128,16 +127,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
+<a href="https://github.com/texxasrulez/teal-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/pwstrength_meter">
+<a href="https://github.com/texxasrulez/calendar">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
   </picture>
 </a>
 </p>
@@ -165,8 +164,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.”
-— <em>Tony Robbins</em>
+> “You can't let your failures define you. You have to let your failures teach you.”
+— <em>Barack Obama</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +187,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Guard rails > guard clauses > guard your time.
+Small commits, great diffs. Atomic changes win.
 <!--TIP:END-->
 
 ---
@@ -237,7 +236,7 @@ Guard rails > guard clauses > guard your time.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-02-19 07:41:19 UTC
+2026-02-19 08:30:39 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
