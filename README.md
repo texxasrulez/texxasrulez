@@ -127,16 +127,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/autumn-larry">
+<a href="https://github.com/texxasrulez/pink-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/cosmic-cliffs">
+<a href="https://github.com/texxasrulez/advanced_search">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=default" alt="advanced_search" />
   </picture>
 </a>
 </p>
@@ -164,8 +164,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Like it or not, this moment is all we really have to work with.”
-— <em>Jon Kabat-Zinn</em>
+> “Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!”
+— <em>Alfred Adler</em>
 <!--QUOTE:END-->
 
 ---
@@ -187,7 +187,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Plant your taters deep.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -236,7 +236,7 @@ Plant your taters deep.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-02-19 12:36:17 UTC
+2026-02-19 14:01:10 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
