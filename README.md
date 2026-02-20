@@ -126,16 +126,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/persistent_login">
+<a href="https://github.com/texxasrulez/advanced_search">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=default" alt="persistent_login" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=default" alt="advanced_search" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/violet-larry">
+<a href="https://github.com/texxasrulez/plugin_manager">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=default" alt="plugin_manager" />
   </picture>
 </a>
 </p>
@@ -163,8 +163,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.”
-— <em>Steve Maraboli</em>
+> “We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.”
+— <em>Emily Dickinson</em>
 <!--QUOTE:END-->
 
 ---
@@ -235,7 +235,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-02-20 18:31:02 UTC
+2026-02-20 19:29:33 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
