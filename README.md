@@ -124,16 +124,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/calender_inboxview">
+<a href="https://github.com/texxasrulez/violet-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=default" alt="calender_inboxview" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/account_details">
+<a href="https://github.com/texxasrulez/autumn-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=default" alt="account_details" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
   </picture>
 </a>
 </p>
@@ -161,8 +161,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The reward of suffering is experience.”
-— <em>Harry S. Truman</em>
+> “It's your road, and yours alone, others may walk it with you, but no one can walk it for you.”
+— <em>Rumi</em>
 <!--QUOTE:END-->
 
 ---
@@ -184,7 +184,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Delete dead code. Zombies bite. 🧟
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -194,7 +194,7 @@ Delete dead code. Zombies bite. 🧟
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 79 | 1.3.0 |
-| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 8 | 1.4.1 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 9 | 1.4.1 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 6 | 3.6.0 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 4 | 1.5 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 4 | 1.5 |
@@ -233,7 +233,7 @@ Delete dead code. Zombies bite. 🧟
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-02-24 04:07:25 UTC
+2026-02-24 05:51:43 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
