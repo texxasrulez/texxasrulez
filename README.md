@@ -111,6 +111,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/rounddav_bookmarks** · 2026-03-02 04:04:20 UTC
+- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/server-dashboard** · 2026-03-02 04:03:51 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/server-dashboard** · 2026-03-02 01:46:20 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/server-dashboard** · 2026-03-02 01:45:00 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/server-dashboard** · 2026-03-02 01:37:39 UTC
@@ -119,8 +121,6 @@ Thanks for making these tools sound native everywhere.
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/server-dashboard** · 2026-03-02 00:54:18 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/server-dashboard** · 2026-03-02 00:15:55 UTC
 - ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/server-dashboard** · 2026-03-01 23:55:44 UTC
-- ⬆️ Pushed 0 commit(s) on `master` to **texxasrulez/message_highlight** · 2026-03-01 22:15:23 UTC
-- ⬆️ Pushed 0 commit(s) on `main` to **texxasrulez/keyboard_shortcuts** · 2026-03-01 22:07:03 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
+<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
+  </picture>
+</a>
 <a href="https://github.com/texxasrulez/vcard_attach">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
-  </picture>
-</a>
-<a href="https://github.com/texxasrulez/persistent_login">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=default" alt="persistent_login" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “You have to give up some of the old so that you can make room for the new.”
-— <em>Yanni</em>
+> “Waste no more time arguing about what a good man should be. Be one.”
+— <em>Marcus Aurelius</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Automate the boring stuff; boredom breeds mistakes.
+If it’s not observed, it’s not reliable. Add telemetry.
 <!--TIP:END-->
 
 ---
@@ -201,9 +201,9 @@ Automate the boring stuff; boredom breeds mistakes.
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 10 | 1.4.1 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 6 | 3.6.0 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 3 | 4.0.1 |
+| [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 2 | 0.0.1 |
 | [green-larry](https://github.com/texxasrulez/green-larry/releases) | 2 | 1.5 |
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 0.0.1 |
-| [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 2 | 0.0.1 |
 | [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 2 | 3.6.1 |
 | [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 2 | 1.5 |
 | [blue-larry](https://github.com/texxasrulez/blue-larry/releases) | 2 | 1.5 |
@@ -237,7 +237,7 @@ Automate the boring stuff; boredom breeds mistakes.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-03-02 04:03:01 UTC
+2026-03-02 05:43:35 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
