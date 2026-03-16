@@ -128,10 +128,10 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/summer-larry">
+<a href="https://github.com/texxasrulez/change_notification">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=default" alt="summer-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
   </picture>
 </a>
 <a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.”
-— <em>Steve Maraboli</em>
+> “Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.”
+— <em>Steve Harvey</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Guard rails > guard clauses > guard your time.
+Plant your taters deep.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Guard rails > guard clauses > guard your time.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-03-16 08:00:41 UTC
+2026-03-16 09:52:35 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
