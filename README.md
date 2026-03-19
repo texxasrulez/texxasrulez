@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grey-larry">
+<a href="https://github.com/texxasrulez/account_details">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=default" alt="account_details" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/change_notification">
+<a href="https://github.com/texxasrulez/blue-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “It's not the love you make. It's the love you give.”
-— <em>Nikola Tesla</em>
+> “Peace begins with a smile.”
+— <em>Mother Teresa</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Guard rails > guard clauses > guard your time.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Guard rails > guard clauses > guard your time.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-03-19 10:28:54 UTC
+2026-03-19 11:26:42 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
