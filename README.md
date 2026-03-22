@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/change_notification">
+<a href="https://github.com/texxasrulez/autumn-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/calender_inboxview">
+<a href="https://github.com/texxasrulez/teal-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=default" alt="calender_inboxview" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The greatest step towards a life of simplicity is to learn to let go.”
-— <em>Steve Maraboli</em>
+> “If you can't argue both sides, you can't argue.”
+— <em>Jack Butcher</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Delete dead code. Zombies bite. 🧟
+Automate the boring stuff; boredom breeds mistakes.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Delete dead code. Zombies bite. 🧟
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-03-22 05:44:37 UTC
+2026-03-22 06:36:45 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
