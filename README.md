@@ -128,16 +128,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/pwstrength_meter">
+<a href="https://github.com/texxasrulez/pink-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/pillars-of-creation">
+<a href="https://github.com/texxasrulez/change_notification">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Absorb what is useful, discard what is useless and add what is specifically your own.”
-— <em>Bruce Lee</em>
+> “Turn off your mind, relax, and float downstream.”
+— <em>John Lennon</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Plant your taters deep.
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Plant your taters deep.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-03-22 10:16:00 UTC
+2026-03-22 11:14:30 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
