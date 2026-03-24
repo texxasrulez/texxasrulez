@@ -134,10 +134,10 @@ Thanks for making these tools sound native everywhere.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/autumn-larry">
+<a href="https://github.com/texxasrulez/green-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
   </picture>
 </a>
 </p>
@@ -165,8 +165,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.”
-— <em>Carlos Ruiz Zafon</em>
+> “Genius is one percent inspiration and ninety-nine percent perspiration.”
+— <em>Thomas Edison</em>
 <!--QUOTE:END-->
 
 ---
@@ -188,7 +188,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Delete dead code. Zombies bite. 🧟
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -237,7 +237,7 @@ Delete dead code. Zombies bite. 🧟
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-03-24 14:11:54 UTC
+2026-03-24 15:54:45 UTC
 <!--DATE:END-->
 
 > _This README auto-updates daily via GitHub Actions._
