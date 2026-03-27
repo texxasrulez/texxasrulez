@@ -97,7 +97,16 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
-_Refreshing activity feed._
+- ⬆️ Pushed updates on `main` to **texxasrulez/texxasrulez** · 2026-03-27 19:07:05 UTC
+- ⬆️ Pushed updates on `master` to **texxasrulez/scheduled_sending** · 2026-03-26 18:02:06 UTC
+- 📌 IssueCommentEvent in **texxasrulez/scheduled_sending** · 2026-03-26 17:58:22 UTC
+- 🔀 Closed PR #12 in **texxasrulez/scheduled_sending** · 2026-03-26 17:27:31 UTC
+- 📌 IssueCommentEvent in **texxasrulez/scheduled_sending** · 2026-03-26 17:20:16 UTC
+- 📌 IssueCommentEvent in **texxasrulez/scheduled_sending** · 2026-03-26 17:08:55 UTC
+- 📌 IssueCommentEvent in **texxasrulez/scheduled_sending** · 2026-03-26 16:53:03 UTC
+- 🐛 Closed issue #11 in **texxasrulez/scheduled_sending** · 2026-03-26 16:53:04 UTC
+- 📌 IssueCommentEvent in **texxasrulez/additional_smtp** · 2026-03-26 16:49:12 UTC
+- 🐛 Closed issue #10 in **texxasrulez/scheduled_sending** · 2026-03-22 16:06:53 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -105,16 +114,16 @@ _Refreshing activity feed._
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/black-larry">
+<a href="https://github.com/texxasrulez/matomo_analytics">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
+<a href="https://github.com/texxasrulez/blue-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
   </picture>
 </a>
 </p>
@@ -142,15 +151,15 @@ _Refreshing activity feed._
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.”
-— <em>Epictetus</em>
+> “The opposite of courage in our society is not cowardice... it is conformity.”
+— <em>Earl Nightingale</em>
 <!--QUOTE:END-->
 
 ---
 
 ### 🔥 Commit Streaks
 <!--STREAKS:START-->
-Current Streak: 1 days  
+Current Streak: 2 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
 
@@ -165,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Test boundaries, not happy paths. Dragons live on edges.
+Small commits, great diffs. Atomic changes win.
 <!--TIP:END-->
 
 ---
@@ -174,16 +183,16 @@ Test boundaries, not happy paths. Dragons live on edges.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [watchtower](https://github.com/texxasrulez/watchtower/releases) | 1 | 0.0.1 |
-| [server-dashboard](https://github.com/texxasrulez/server-dashboard/releases) | 0 | 0.0.1 |
-| [track-em](https://github.com/texxasrulez/track-em/releases) | 0 | 0.0.1 |
-| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 0 | 1.3.4 |
-| [matomo_analytics](https://github.com/texxasrulez/matomo_analytics/releases) | 0 | 1.2 |
-| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 0 | 1.0.2 |
-| [calender_inboxview](https://github.com/texxasrulez/calender_inboxview/releases) | 0 | 1.0.1 |
-| [grub2-theme-blue-linux-mint](https://github.com/texxasrulez/grub2-theme-blue-linux-mint/releases) | 0 | 1.0 |
-| [grub2-theme-bikini-atoll](https://github.com/texxasrulez/grub2-theme-bikini-atoll/releases) | 0 | 1.0 |
-| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 0 | 1.1.1 |
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 79 | 1.3.0 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 10 | 1.4.1 |
+| [calendar](https://github.com/texxasrulez/calendar/releases) | 6 | 3.6.0 |
+| [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 2 | 0.0.1 |
+| [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 2 | 0.0.1 |
+| [green-larry](https://github.com/texxasrulez/green-larry/releases) | 2 | 1.5 |
+| [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 0.0.1 |
+| [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 2 | 3.6.1 |
+| [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 2 | 1.5 |
+| [server-dashboard](https://github.com/texxasrulez/server-dashboard/releases) | 1 | 0.0.2 |
 <!--RELEASES:END-->
 
 ---
@@ -206,7 +215,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-03-27 00:00:00 UTC
+2026-03-27 19:07:14 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
