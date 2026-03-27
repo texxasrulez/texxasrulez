@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The opposite of courage in our society is not cowardice... it is conformity.”
-— <em>Earl Nightingale</em>
+> “Work harder on yourself than you do on your job.”
+— <em>Jim Rohn</em>
 <!--QUOTE:END-->
 
 ---
@@ -215,7 +215,7 @@ Small commits, great diffs. Atomic changes win.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-03-27 19:07:14 UTC
+2026-03-27 19:34:36 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
