@@ -13,24 +13,22 @@
 
 ### 🧠 About Me
 
-I am a self taught computer nerd. I do it all and a little in between.
+Self-taught full-stack builder with a strong bias toward shipping useful tools, fixing sharp edges, and documenting the work well.
 
 - 💻 Building advanced **Roundcube plugins**: `Scheduled Sending`, `Signature Randomizer`, `Plugin Manager`
 - 💻 Creating Unique **GRUB2 Menus**: `grub-cave`, `tornado-vs-Fleet`, `blue-linux-mint`
-- ⚙️ Quasi Fluent in `PHP`, `JavaScript`, `CSS`, `HTML`, `MySQL`, `Python`, `Bash`
+- ⚙️ Comfortable in `PHP`, `JavaScript`, `CSS`, `HTML`, `MySQL`, `Python`, and `Bash`
 - 🧩 Maintainable architecture, modular design, and debugging done right
 - 🔭 I test, break, rebuild, and document until it sings
 - ⚓ US Navy Veteran
--  🗣 I am also looking for anyone who wants to translate my plugins and make the wording as natural as possible. I use Deepl, which has its limitations, and is not all that accurate for natural speech. Literal translations only, but better than nothing.
+- 🗣 Looking for translators who can make plugin wording sound natural across locales, beyond what DeepL can do reliably
 
 ---
 
 ### 💬 Feedback
 
-I appreciate all feedback.
-I do investigate all issues as soon as I can.
-I do take all feature requests, not all may be implemented.
-I would love help translating and making sure what I have is good to go.
+I read bug reports, feature requests, and translation suggestions closely.
+If something is unclear or broken, open an issue and I will dig into it.
 
 ---
 
@@ -38,7 +36,7 @@ I would love help translating and making sure what I have is good to go.
 
 I maintain 30+ Roundcube plugins/skins and rely on DeepL until a fluent human steps in. If you can help:
 
-- Pick any repo and review the `/localization` strings.
+- Pick any repo (Scheduled Sending, Plugin Manager, Signature Randomizer, etc.) and review the `/localization` strings.
 - Open a PR/issue with natural language tweaks or send me an email at [texxasrulez@yahoo.com](mailto:texxasrulez@yahoo.com) with updated files.
 - Mention your locale so I can credit you in the changelog.
 
@@ -76,18 +74,6 @@ Thanks for making these tools sound native everywhere.
 
 ---
 
-### 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=algolia&no-frame=false&margin-w=15&margin-h=15&column=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=algolia&no-bg=true&no-frame=false&margin-w=15&margin-h=15&column=6">
-    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=texxasrulez&theme=algolia&no-bg=true&no-frame=false&margin-w=15&margin-h=15&column=6" />
-  </picture>
-</p>
-
----
-
 ### 📊 Activity Graph
 
 <p align="center">
@@ -111,16 +97,7 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
-- ⬆️ Pushed 0 commit(s) on `master` to **texxasrulez/scheduled_sending** · 2026-03-26 18:02:06 UTC
-- 📌 IssueCommentEvent in **texxasrulez/scheduled_sending** · 2026-03-26 17:58:22 UTC
-- 🔀 Closed PR #12 in **texxasrulez/scheduled_sending** · 2026-03-26 17:27:31 UTC
-- 📌 IssueCommentEvent in **texxasrulez/scheduled_sending** · 2026-03-26 17:20:16 UTC
-- 📌 IssueCommentEvent in **texxasrulez/scheduled_sending** · 2026-03-26 17:08:55 UTC
-- 📌 IssueCommentEvent in **texxasrulez/scheduled_sending** · 2026-03-26 16:53:03 UTC
-- 🐛 Closed issue #11 in **texxasrulez/scheduled_sending** · 2026-03-26 16:53:04 UTC
-- 📌 IssueCommentEvent in **texxasrulez/additional_smtp** · 2026-03-26 16:49:12 UTC
-- 🐛 Closed issue #10 in **texxasrulez/scheduled_sending** · 2026-03-22 16:06:53 UTC
-- 📌 IssueCommentEvent in **texxasrulez/scheduled_sending** · 2026-03-20 21:04:55 UTC
+_Refreshing activity feed._
 <!--ACTIVITY:END-->
 
 ---
@@ -128,16 +105,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/change_notification">
+<a href="https://github.com/texxasrulez/black-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
+<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
   </picture>
 </a>
 </p>
@@ -165,15 +142,15 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Comedy = tragedy + time.”
-— <em>Carol Burnett</em>
+> “Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.”
+— <em>Epictetus</em>
 <!--QUOTE:END-->
 
 ---
 
 ### 🔥 Commit Streaks
 <!--STREAKS:START-->
-Current Streak: 0 days  
+Current Streak: 1 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
 
@@ -188,7 +165,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-If it’s not observed, it’s not reliable. Add telemetry.
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -197,16 +174,16 @@ If it’s not observed, it’s not reliable. Add telemetry.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 79 | 1.3.0 |
-| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 10 | 1.4.1 |
-| [calendar](https://github.com/texxasrulez/calendar/releases) | 6 | 3.6.0 |
-| [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 2 | 0.0.1 |
-| [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 2 | 0.0.1 |
-| [green-larry](https://github.com/texxasrulez/green-larry/releases) | 2 | 1.5 |
-| [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 0.0.1 |
-| [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 2 | 3.6.1 |
-| [autumn-larry](https://github.com/texxasrulez/autumn-larry/releases) | 2 | 1.5 |
-| [server-dashboard](https://github.com/texxasrulez/server-dashboard/releases) | 1 | 0.0.2 |
+| [watchtower](https://github.com/texxasrulez/watchtower/releases) | 1 | 0.0.1 |
+| [server-dashboard](https://github.com/texxasrulez/server-dashboard/releases) | 0 | 0.0.1 |
+| [track-em](https://github.com/texxasrulez/track-em/releases) | 0 | 0.0.1 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 0 | 1.3.4 |
+| [matomo_analytics](https://github.com/texxasrulez/matomo_analytics/releases) | 0 | 1.2 |
+| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 0 | 1.0.2 |
+| [calender_inboxview](https://github.com/texxasrulez/calender_inboxview/releases) | 0 | 1.0.1 |
+| [grub2-theme-blue-linux-mint](https://github.com/texxasrulez/grub2-theme-blue-linux-mint/releases) | 0 | 1.0 |
+| [grub2-theme-bikini-atoll](https://github.com/texxasrulez/grub2-theme-bikini-atoll/releases) | 0 | 1.0 |
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 0 | 1.1.1 |
 <!--RELEASES:END-->
 
 ---
@@ -227,20 +204,12 @@ If it’s not observed, it’s not reliable. Add telemetry.
 
 ---
 
-### 🧩 Repo Stats
-
-[![Profile Views](https://komarev.com/ghpvc/?username=texxasrulez&label=Profile%20views&color=0e75b6&style=plastic)](https://github.com/texxasrulez)
-[![Followers](https://img.shields.io/github/followers/texxasrulez?label=Stars&style=plastic&logo=github&labelColor=yellow&color=deepskyblue)](https://github.com/texxasrulez?tab=followers)
-[![Stars](https://img.shields.io/github/stars/texxasrulez?style=plastic&label=Followers&logo=github&labelColor=purple&color=blue)](https://github.com/texxasrulez)
-
----
-
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-03-27 18:40:45 UTC
+2026-03-27 00:00:00 UTC
 <!--DATE:END-->
 
-> _This README auto-updates daily via GitHub Actions._
+> _This README auto-updates via GitHub Actions._
 
 ---
 

@@ -42,7 +42,9 @@ def fmt_event(e):
         if branch.startswith("refs/heads/"):
             branch = branch.split("/", 2)[-1]
         branch_part = f" on `{branch}`" if branch else ""
-        return f"- ⬆️ Pushed {n} commit(s){branch_part} to **{repo}** · {when}"
+        if n > 0:
+            return f"- ⬆️ Pushed {n} commit(s){branch_part} to **{repo}** · {when}"
+        return f"- ⬆️ Pushed updates{branch_part} to **{repo}** · {when}"
     if t == "CreateEvent":
         ref = e.get("payload", {}).get("ref_type", "")
         name = e.get("payload", {}).get("ref", "") or ""
