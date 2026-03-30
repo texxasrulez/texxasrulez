@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/autumn-larry">
+<a href="https://github.com/texxasrulez/plata-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/matomo_analytics">
+<a href="https://github.com/texxasrulez/black-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “It is not how much we have, but how much we enjoy, that makes happiness.”
-— <em>Charles Spurgeon</em>
+> “Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.”
+— <em>Colin Powell</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Guard rails > guard clauses > guard your time.
+Prefer pure functions; side effects are where bugs hide. 🪲
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Guard rails > guard clauses > guard your time.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-03-30 04:35:24 UTC
+2026-03-30 06:23:29 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
