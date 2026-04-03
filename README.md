@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/black-larry">
+<a href="https://github.com/texxasrulez/server-dashboard">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/nextcloud">
+<a href="https://github.com/texxasrulez/simple_secure_contact_form">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=default" alt="simple_secure_contact_form" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Each time we don't say what we wanna say, we're dying.”
-— <em>Yoko Ono</em>
+> “Blessed is he who expects nothing, for he shall be disappointed.”
+— <em>Jonathan Swift</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Fail fast, log clearly, recover gracefully.
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
@@ -186,13 +186,13 @@ Fail fast, log clearly, recover gracefully.
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 81 | 1.3.0 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 10 | 1.4.1 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 9 | 3.6.0 |
+| [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 3 | 3.6.1 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 2 | 0.0.1 |
+| [rounddav](https://github.com/texxasrulez/rounddav/releases) | 2 | 0.0.1 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 2 | 0.0.1 |
 | [green-larry](https://github.com/texxasrulez/green-larry/releases) | 2 | 1.5 |
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 0.0.1 |
-| [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 2 | 3.6.1 |
 | [server-dashboard](https://github.com/texxasrulez/server-dashboard/releases) | 1 | 0.0.2 |
-| [rounddav](https://github.com/texxasrulez/rounddav/releases) | 1 | 0.0.1 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ Fail fast, log clearly, recover gracefully.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-03 20:23:00 UTC
+2026-04-03 21:22:34 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
