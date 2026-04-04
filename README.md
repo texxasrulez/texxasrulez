@@ -120,10 +120,10 @@ Thanks for making these tools sound native everywhere.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/change_notification">
+<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Your happiness is what truly matters most. Do what you have to do in order to be happy.”
-— <em>Brian Tracy</em>
+> “Don't talk about what you have done or what you are going to do.”
+— <em>Thomas Jefferson</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Prefer pure functions; side effects are where bugs hide. 🪲
+Automate the boring stuff; boredom breeds mistakes.
 <!--TIP:END-->
 
 ---
@@ -183,7 +183,7 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 81 | 1.3.0 |
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 82 | 1.3.0 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 10 | 1.4.1 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 9 | 3.6.0 |
 | [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 3 | 3.6.1 |
@@ -215,7 +215,7 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-04 20:17:35 UTC
+2026-04-04 21:20:46 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
