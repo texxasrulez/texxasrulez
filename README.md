@@ -97,6 +97,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- 🏷️ Published release **4.1.0** in **texxasrulez/account_details** · 2026-04-11 21:05:51 UTC
+- ⬆️ Pushed updates on `master` to **texxasrulez/account_details** · 2026-04-11 21:04:02 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/rc_shield** · 2026-04-11 17:44:37 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/rounddav** · 2026-04-11 02:27:32 UTC
 - 📌 WatchEvent in **sky-map-team/stardroid** · 2026-04-09 05:02:23 UTC
@@ -105,8 +107,6 @@ Thanks for making these tools sound native everywhere.
 - ⬆️ Pushed updates on `main` to **texxasrulez/server-dashboard** · 2026-04-06 00:36:23 UTC
 - 🏷️ Published release **0.0.3** in **texxasrulez/server-dashboard** · 2026-04-05 19:38:51 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/server-dashboard** · 2026-04-05 19:37:37 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/server-dashboard** · 2026-04-05 18:36:45 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/rc_shield** · 2026-04-02 02:02:44 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
+<a href="https://github.com/texxasrulez/autumn-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/pwstrength_meter">
+<a href="https://github.com/texxasrulez/account_details">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=default" alt="account_details" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.”
-— <em>Zig Ziglar</em>
+> “Don't cry because it's over. Smile because it happened.”
+— <em>Dr. Seuss</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Automate the boring stuff; boredom breeds mistakes.
+Prefer pure functions; side effects are where bugs hide. 🪲
 <!--TIP:END-->
 
 ---
@@ -186,13 +186,13 @@ Automate the boring stuff; boredom breeds mistakes.
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 83 | 1.3.0 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 11 | 1.4.1 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 10 | 3.6.0 |
+| [account_details](https://github.com/texxasrulez/account_details/releases) | 3 | 4.1.0 |
 | [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 3 | 3.6.1 |
 | [rounddav](https://github.com/texxasrulez/rounddav/releases) | 2 | 0.0.1 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 2 | 0.0.1 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 2 | 0.0.1 |
 | [green-larry](https://github.com/texxasrulez/green-larry/releases) | 2 | 1.5 |
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 0.0.1 |
-| [server-dashboard](https://github.com/texxasrulez/server-dashboard/releases) | 1 | 0.0.3 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ Automate the boring stuff; boredom breeds mistakes.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-11 20:19:52 UTC
+2026-04-11 21:22:06 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
