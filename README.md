@@ -97,6 +97,7 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed updates on `master` to **texxasrulez/vcard_attach** · 2026-04-14 19:32:52 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/change_notification** · 2026-04-14 13:22:44 UTC
 - 📌 WatchEvent in **texxasrulez/Stock_Tracking_Spreadsheet** · 2026-04-13 17:43:05 UTC
 - 📌 WatchEvent in **texxasrulez/easy_unsubscribe** · 2026-04-13 17:43:03 UTC
@@ -106,7 +107,6 @@ Thanks for making these tools sound native everywhere.
 - 📌 WatchEvent in **texxasrulez/banner-warn** · 2026-04-13 17:42:53 UTC
 - 📌 WatchEvent in **texxasrulez/roundcube-contextmenu** · 2026-04-13 17:42:50 UTC
 - 📌 WatchEvent in **texxasrulez/contextmenu_folder** · 2026-04-13 17:42:49 UTC
-- 📌 WatchEvent in **texxasrulez/roundcubemail** · 2026-04-13 17:42:48 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/plata-larry">
+<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/plugin_manager">
+<a href="https://github.com/texxasrulez/teal-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=default" alt="plugin_manager" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The sweetest pleasure arises from difficulties overcome.”
-— <em>Publilius Syrus</em>
+> “I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.”
+— <em>D. H. Lawrence</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Plant your taters deep.
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -187,12 +187,12 @@ Plant your taters deep.
 | [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 4 | 1.5 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 4 | 1.5 |
 | [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 3 | 1.5 |
+| [vcard_attach](https://github.com/texxasrulez/vcard_attach/releases) | 0 | 0.3 |
 | [change_notification](https://github.com/texxasrulez/change_notification/releases) | 0 | 1.0 |
 | [easy_unsubscribe](https://github.com/texxasrulez/easy_unsubscribe/releases) | 0 | 2.8 |
 | [spfstatus](https://github.com/texxasrulez/spfstatus/releases) | 0 | 1.0 |
 | [roundcube-easy-unsubscribe](https://github.com/texxasrulez/roundcube-easy-unsubscribe/releases) | 0 | 2.8 |
 | [force_elastic](https://github.com/texxasrulez/force_elastic/releases) | 0 | 1.0 |
-| [password](https://github.com/texxasrulez/password/releases) | 0 | 5.3 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ Plant your taters deep.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-14 18:56:58 UTC
+2026-04-14 20:01:01 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
