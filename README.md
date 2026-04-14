@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/additional_imap">
+<a href="https://github.com/texxasrulez/advanced_search">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=default" alt="additional_imap" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=default" alt="advanced_search" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/persistent_login">
+<a href="https://github.com/texxasrulez/pillars-of-creation">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=default" alt="persistent_login" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Life is like stepping onto a boat which is about to sail out to sea and sink.”
-— <em>Shunryu Suzuki</em>
+> “I alone cannot change the world, but I can cast a stone across the waters to create many ripples.”
+— <em>Mother Teresa</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Delete dead code. Zombies bite. 🧟
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Delete dead code. Zombies bite. 🧟
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-14 04:36:27 UTC
+2026-04-14 06:24:19 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
