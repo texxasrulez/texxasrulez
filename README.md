@@ -97,16 +97,16 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
-- 🏷️ Published release **1.0.0** in **texxasrulez/fail2ban** · 2026-04-16 00:59:11 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/fail2ban** · 2026-04-16 00:58:31 UTC
-- ✨ Created branch main in **texxasrulez/fail2ban** · 2026-04-16 00:57:52 UTC
-- 🏷️ Published release **1.0.0** in **texxasrulez/fail2ban** · 2026-04-16 00:54:51 UTC
-- 🏷️ Published release **1.5.0** in **texxasrulez/fail2ban** · 2026-04-16 00:40:07 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/calendar** · 2026-04-16 00:18:00 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/libcalendaring** · 2026-04-16 00:17:24 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/libkolab** · 2026-04-16 00:17:10 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/libkolab** · 2026-04-15 21:21:53 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/libcalendaring** · 2026-04-15 21:21:42 UTC
+- 🏷️ Published release **1.5.1** in **texxasrulez/plugin_manager** · 2026-04-16 04:39:13 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/plugin_manager** · 2026-04-16 04:38:03 UTC
+- 🏷️ Published release **1.0.3** in **texxasrulez/message_highlight** · 2026-04-16 04:31:06 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/message_highlight** · 2026-04-16 04:29:15 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/message_highlight** · 2026-04-16 04:25:10 UTC
+- ✨ Created branch main in **texxasrulez/message_highlight** · 2026-04-16 04:24:00 UTC
+- 🏷️ Published release **1.0.3** in **texxasrulez/message_highlight** · 2026-04-16 04:20:30 UTC
+- 🏷️ Published release **1.0.1** in **texxasrulez/keyboard_shortcuts** · 2026-04-16 04:15:25 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/keyboard_shortcuts** · 2026-04-16 04:14:54 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/keyboard_shortcuts** · 2026-04-16 04:14:06 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/vcard_attach">
+<a href="https://github.com/texxasrulez/autumn-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/cosmic-cliffs">
+<a href="https://github.com/texxasrulez/pwstrength_meter">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.”
-— <em>Deepak Chopra</em>
+> “Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.”
+— <em>Roy T. Bennett</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Guard rails > guard clauses > guard your time.
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
@@ -183,16 +183,16 @@ Guard rails > guard clauses > guard your time.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 12 | 1.5.1 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 11 | 3.6.0 |
-| [black-larry](https://github.com/texxasrulez/black-larry/releases) | 4 | 1.5 |
-| [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 4 | 1.5 |
 | [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 3 | 3.6.1 |
 | [libkolab](https://github.com/texxasrulez/libkolab/releases) | 3 | 3.6.1 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 3 | 1.0.0 |
-| [fail2ban](https://github.com/texxasrulez/fail2ban/releases) | 0 | 1.0.0 |
-| [password](https://github.com/texxasrulez/password/releases) | 0 | 5.3 |
-| [vcard_attach](https://github.com/texxasrulez/vcard_attach/releases) | 0 | 0.3 |
-| [change_notification](https://github.com/texxasrulez/change_notification/releases) | 0 | 1.0 |
+| [additional_smtp](https://github.com/texxasrulez/additional_smtp/releases) | 1 | 0.3.0 |
+| [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 0 | 1.0.3 |
+| [keyboard_shortcuts](https://github.com/texxasrulez/keyboard_shortcuts/releases) | 0 | 1.0.1 |
+| [advanced_search](https://github.com/texxasrulez/advanced_search/releases) | 0 | 3.7 |
+| [additional_imap](https://github.com/texxasrulez/additional_imap/releases) | 0 | 0.3.0 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ Guard rails > guard clauses > guard your time.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-16 01:25:30 UTC
+2026-04-16 04:42:34 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
