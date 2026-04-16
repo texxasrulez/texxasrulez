@@ -97,16 +97,16 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
-- 🏷️ Published release **1.0.3** in **texxasrulez/message_highlight** · 2026-04-16 17:14:55 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/message_highlight** · 2026-04-16 19:41:50 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/message_highlight** · 2026-04-16 19:40:46 UTC
+- 🏷️ Published release **3.6.1** in **texxasrulez/tasklist** · 2026-04-16 19:32:45 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/tasklist** · 2026-04-16 19:32:05 UTC
+- ✨ Created branch main in **texxasrulez/tasklist** · 2026-04-16 19:30:43 UTC
+- 🏷️ Published release **3.6.1** in **texxasrulez/tasklist** · 2026-04-16 19:27:35 UTC
+- 🏷️ Published release **1.0.4** in **texxasrulez/message_highlight** · 2026-04-16 17:14:55 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/message_highlight** · 2026-04-16 17:13:48 UTC
 - ✨ Created branch main in **texxasrulez/message_highlight** · 2026-04-16 17:11:43 UTC
 - 🏷️ Published release **1.1.0** in **texxasrulez/message_highlight** · 2026-04-16 17:07:40 UTC
-- 🏷️ Published release **1.0.1** in **texxasrulez/watchtower** · 2026-04-16 15:55:45 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/watchtower** · 2026-04-16 15:55:04 UTC
-- 🏷️ Published release **1.0.0** in **texxasrulez/watchtower** · 2026-04-16 04:45:15 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/watchtower** · 2026-04-16 04:44:31 UTC
-- 🏷️ Published release **1.5.1** in **texxasrulez/plugin_manager** · 2026-04-16 04:39:13 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/plugin_manager** · 2026-04-16 04:38:03 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/plata-larry">
+<a href="https://github.com/texxasrulez/calender_inboxview">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=default" alt="calender_inboxview" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
+<a href="https://github.com/texxasrulez/account_details">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=default" alt="account_details" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.”
-— <em>Naval Ravikant</em>
+> “If you take responsibility for yourself you will develop a hunger to accomplish your dream.”
+— <em>Les Brown</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Test boundaries, not happy paths. Dragons live on edges.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -189,10 +189,10 @@ Test boundaries, not happy paths. Dragons live on edges.
 | [libkolab](https://github.com/texxasrulez/libkolab/releases) | 3 | 3.6.1 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 3 | 1.0.0 |
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 1.0.1 |
+| [tasklist](https://github.com/texxasrulez/tasklist/releases) | 1 | 3.6.1 |
 | [additional_smtp](https://github.com/texxasrulez/additional_smtp/releases) | 1 | 0.3.0 |
-| [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 0 | 1.0.3 |
+| [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 0 | 1.0.4 |
 | [keyboard_shortcuts](https://github.com/texxasrulez/keyboard_shortcuts/releases) | 0 | 1.0.1 |
-| [advanced_search](https://github.com/texxasrulez/advanced_search/releases) | 0 | 3.7 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-16 18:56:09 UTC
+2026-04-16 19:56:10 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
