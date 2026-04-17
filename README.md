@@ -97,16 +97,16 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- 🏷️ Published release **1.0.0** in **texxasrulez/vcard_attach** · 2026-04-17 15:40:21 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/vcard_attach** · 2026-04-17 15:39:52 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/vcard_attach** · 2026-04-17 15:36:48 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/vcard_attach** · 2026-04-17 15:35:45 UTC
+- ✨ Created branch main in **texxasrulez/vcard_attach** · 2026-04-17 15:34:09 UTC
+- 🏷️ Published release **1.0.0** in **texxasrulez/vcard_attach** · 2026-04-17 15:32:08 UTC
+- 🏷️ Published release **1.0.1** in **texxasrulez/mailman_integration** · 2026-04-17 15:26:21 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/mailman_integration** · 2026-04-17 14:46:41 UTC
 - ⬆️ Pushed updates on `master` to **texxasrulez/scheduled_sending** · 2026-04-17 14:10:14 UTC
 - ⬆️ Pushed updates on `master` to **texxasrulez/Roundcube_TLS_Icon** · 2026-04-17 12:39:31 UTC
-- 🏷️ Published release **1.0.0** in **texxasrulez/rc_shield** · 2026-04-17 12:11:26 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/rc_shield** · 2026-04-17 12:10:45 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/rc_shield** · 2026-04-17 12:08:00 UTC
-- 🐛 Opened issue #83 in **pimlie/authres_status** · 2026-04-17 12:05:25 UTC
-- 🐛 Opened issue #33 in **GermanCoding/Roundcube_TLS_Icon** · 2026-04-17 11:50:43 UTC
-- 🏷️ Published release **1.0.1** in **texxasrulez/password** · 2026-04-17 11:25:46 UTC
-- 📌 DeleteEvent in **texxasrulez/password** · 2026-04-17 11:24:09 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/password** · 2026-04-17 11:23:49 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grey-larry">
+<a href="https://github.com/texxasrulez/green-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/simple_secure_contact_form">
+<a href="https://github.com/texxasrulez/grub2-theme-freshwater-aquarium">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=default" alt="simple_secure_contact_form" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=default" alt="grub2-theme-freshwater-aquarium" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Life is not a problem to be solved, but a reality to be experienced.”
-— <em>Soren Kierkegaard</em>
+> “We've got to live, no matter how many skies have fallen.”
+— <em>D. H. Lawrence</em>
 <!--QUOTE:END-->
 
 ---
@@ -190,9 +190,9 @@ Readability scales better than cleverness.
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 1.0.1 |
 | [keyboard_shortcuts](https://github.com/texxasrulez/keyboard_shortcuts/releases) | 1 | 1.0.0 |
 | [additional_smtp](https://github.com/texxasrulez/additional_smtp/releases) | 1 | 0.3.0 |
+| [vcard_attach](https://github.com/texxasrulez/vcard_attach/releases) | 0 | 1.0.0 |
+| [mailman_integration](https://github.com/texxasrulez/mailman_integration/releases) | 0 | 1.0.1 |
 | [rc_shield](https://github.com/texxasrulez/rc_shield/releases) | 0 | 1.0.0 |
-| [password](https://github.com/texxasrulez/password/releases) | 0 | 1.0.1 |
-| [easy_unsubscribe](https://github.com/texxasrulez/easy_unsubscribe/releases) | 0 | 2.9.0 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-17 14:14:49 UTC
+2026-04-17 15:48:29 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
