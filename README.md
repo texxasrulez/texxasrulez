@@ -97,16 +97,16 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
-- 🏷️ Published release **1.0.0** in **texxasrulez/keyboard_shortcuts** · 2026-04-17 00:44:17 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/keyboard_shortcuts** · 2026-04-17 00:43:57 UTC
-- ✨ Created branch main in **texxasrulez/keyboard_shortcuts** · 2026-04-17 00:42:55 UTC
-- 🏷️ Published release **1.0.0** in **texxasrulez/keyboard_shortcuts** · 2026-04-17 00:35:03 UTC
-- 🏷️ Published release **1.0.2** in **texxasrulez/keyboard_shortcuts** · 2026-04-17 00:04:05 UTC
-- 🏷️ Published release **3.6.1** in **texxasrulez/tasklist** · 2026-04-16 21:45:14 UTC
-- 🏷️ Published release **3.6.1** in **texxasrulez/calendar** · 2026-04-16 21:44:16 UTC
-- 🏷️ Published release **3.6.1** in **texxasrulez/libcalendaring** · 2026-04-16 21:41:41 UTC
-- 🏷️ Published release **3.6.1** in **texxasrulez/libkolab** · 2026-04-16 21:41:04 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/tasklist** · 2026-04-16 21:39:36 UTC
+- 🏷️ Published release **1.0.1** in **texxasrulez/password** · 2026-04-17 11:25:46 UTC
+- 📌 DeleteEvent in **texxasrulez/password** · 2026-04-17 11:24:09 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/password** · 2026-04-17 11:23:49 UTC
+- 🏷️ Published release **2.9.0** in **texxasrulez/easy_unsubscribe** · 2026-04-17 11:11:02 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/easy_unsubscribe** · 2026-04-17 11:10:17 UTC
+- 🏷️ Published release **1.0.5** in **texxasrulez/message_highlight** · 2026-04-17 10:53:59 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/message_highlight** · 2026-04-17 10:53:14 UTC
+- 🏷️ Published release **1.0.3** in **texxasrulez/persistent_login** · 2026-04-17 10:42:49 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/persistent_login** · 2026-04-17 10:42:11 UTC
+- ✨ Created branch main in **texxasrulez/persistent_login** · 2026-04-17 10:41:21 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/scheduled_sending">
+<a href="https://github.com/texxasrulez/calender_inboxview">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=default" alt="scheduled_sending" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=default" alt="calender_inboxview" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/teal-larry">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “I will not walk backward in life.”
-— <em>J.R.R. Tolkien</em>
+> “Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.”
+— <em>Robert Kiyosaki</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-If it’s not observed, it’s not reliable. Add telemetry.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -189,10 +189,10 @@ If it’s not observed, it’s not reliable. Add telemetry.
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 1.0.1 |
 | [keyboard_shortcuts](https://github.com/texxasrulez/keyboard_shortcuts/releases) | 1 | 1.0.0 |
 | [additional_smtp](https://github.com/texxasrulez/additional_smtp/releases) | 1 | 0.3.0 |
-| [tasklist](https://github.com/texxasrulez/tasklist/releases) | 0 | 3.6.1 |
-| [libkolab](https://github.com/texxasrulez/libkolab/releases) | 0 | 3.6.1 |
-| [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 0 | 3.6.1 |
-| [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 0 | 1.0.4 |
+| [password](https://github.com/texxasrulez/password/releases) | 0 | 1.0.1 |
+| [easy_unsubscribe](https://github.com/texxasrulez/easy_unsubscribe/releases) | 0 | 2.9.0 |
+| [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 0 | 1.0.5 |
+| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 0 | 1.0.3 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ If it’s not observed, it’s not reliable. Add telemetry.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-17 10:03:26 UTC
+2026-04-17 11:41:12 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
