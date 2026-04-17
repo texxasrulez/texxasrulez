@@ -97,6 +97,7 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed updates on `master` to **texxasrulez/scheduled_sending** · 2026-04-17 14:10:14 UTC
 - ⬆️ Pushed updates on `master` to **texxasrulez/Roundcube_TLS_Icon** · 2026-04-17 12:39:31 UTC
 - 🏷️ Published release **1.0.0** in **texxasrulez/rc_shield** · 2026-04-17 12:11:26 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/rc_shield** · 2026-04-17 12:10:45 UTC
@@ -106,7 +107,6 @@ Thanks for making these tools sound native everywhere.
 - 🏷️ Published release **1.0.1** in **texxasrulez/password** · 2026-04-17 11:25:46 UTC
 - 📌 DeleteEvent in **texxasrulez/password** · 2026-04-17 11:24:09 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/password** · 2026-04-17 11:23:49 UTC
-- 🏷️ Published release **2.9.0** in **texxasrulez/easy_unsubscribe** · 2026-04-17 11:11:02 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
+<a href="https://github.com/texxasrulez/grey-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/pillars-of-creation">
+<a href="https://github.com/texxasrulez/simple_secure_contact_form">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=default" alt="simple_secure_contact_form" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “It's necessary to get the losers out of your life if you want to live your dream.”
-— <em>Les Brown</em>
+> “Life is not a problem to be solved, but a reality to be experienced.”
+— <em>Soren Kierkegaard</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Name things precisely. Future-you is your angriest code reviewer.
+Readability scales better than cleverness.
 <!--TIP:END-->
 
 ---
@@ -183,6 +183,7 @@ Name things precisely. Future-you is your angriest code reviewer.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 83 | 1.3.0 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 12 | 1.5.1 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 11 | 3.6.1 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 3 | 1.0.0 |
@@ -192,7 +193,6 @@ Name things precisely. Future-you is your angriest code reviewer.
 | [rc_shield](https://github.com/texxasrulez/rc_shield/releases) | 0 | 1.0.0 |
 | [password](https://github.com/texxasrulez/password/releases) | 0 | 1.0.1 |
 | [easy_unsubscribe](https://github.com/texxasrulez/easy_unsubscribe/releases) | 0 | 2.9.0 |
-| [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 0 | 1.0.5 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ Name things precisely. Future-you is your angriest code reviewer.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-17 12:53:12 UTC
+2026-04-17 14:14:49 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
