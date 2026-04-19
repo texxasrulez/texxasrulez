@@ -97,6 +97,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- 🏷️ Published release **1.5.2** in **texxasrulez/plugin_manager** · 2026-04-19 14:36:16 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/plugin_manager** · 2026-04-19 14:34:52 UTC
 - 🏷️ Published release **1.0.1** in **texxasrulez/vcard_attach** · 2026-04-19 14:30:03 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/vcard_attach** · 2026-04-19 14:29:13 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/vcard_attach** · 2026-04-19 14:27:42 UTC
@@ -105,8 +107,6 @@ Thanks for making these tools sound native everywhere.
 - 🏷️ Published release **1.0.0** in **texxasrulez/vcard_attach** · 2026-04-17 16:21:59 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/vcard_attach** · 2026-04-17 16:21:06 UTC
 - ✨ Created branch main in **texxasrulez/vcard_attach** · 2026-04-17 16:20:21 UTC
-- 🏷️ Published release **1.0.0** in **texxasrulez/vcard_attach** · 2026-04-17 16:18:42 UTC
-- 🏷️ Published release **1.0.0** in **texxasrulez/vcard_attach** · 2026-04-17 15:57:19 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/additional_imap">
+<a href="https://github.com/texxasrulez/pillars-of-creation">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=default" alt="additional_imap" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/summer-larry">
+<a href="https://github.com/texxasrulez/signature_randomizer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=default" alt="summer-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=default" alt="signature_randomizer" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Good judgment comes from experience, and experience comes from bad judgment.”
-— <em>Rita Mae Brown</em>
+> “If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.”
+— <em>Mark Twain</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Guard rails > guard clauses > guard your time.
+Prefer pure functions; side effects are where bugs hide. 🪲
 <!--TIP:END-->
 
 ---
@@ -184,7 +184,7 @@ Guard rails > guard clauses > guard your time.
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 85 | 1.3.0 |
-| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 13 | 1.5.1 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 13 | 1.5.2 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 12 | 3.6.1 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 3 | 1.0.0 |
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 1.0.1 |
@@ -215,7 +215,7 @@ Guard rails > guard clauses > guard your time.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-19 14:32:57 UTC
+2026-04-19 15:28:06 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
