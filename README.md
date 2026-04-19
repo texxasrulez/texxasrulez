@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/autumn-larry">
+<a href="https://github.com/texxasrulez/pwstrength_meter">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/green-larry">
+<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Live, travel, adventure, bless, and don't be sorry.”
-— <em>Jack Kerouac</em>
+> “The big thing is to make a winning effort. I'm not obsessed with wins.”
+— <em>Morgan Wootten</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Small commits, great diffs. Atomic changes win.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -188,11 +188,11 @@ Small commits, great diffs. Atomic changes win.
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 12 | 3.6.1 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 3 | 1.0.0 |
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 1.0.1 |
+| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 1 | 1.0.3 |
 | [keyboard_shortcuts](https://github.com/texxasrulez/keyboard_shortcuts/releases) | 1 | 1.0.0 |
 | [additional_smtp](https://github.com/texxasrulez/additional_smtp/releases) | 1 | 0.3.0 |
 | [vcard_attach](https://github.com/texxasrulez/vcard_attach/releases) | 0 | 1.0.0 |
 | [mailman_integration](https://github.com/texxasrulez/mailman_integration/releases) | 0 | 1.0.1 |
-| [rc_shield](https://github.com/texxasrulez/rc_shield/releases) | 0 | 1.0.0 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ Small commits, great diffs. Atomic changes win.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-19 09:37:14 UTC
+2026-04-19 10:29:43 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
