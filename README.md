@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/tasklist">
+<a href="https://github.com/texxasrulez/summer-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=default" alt="summer-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/additional_smtp">
+<a href="https://github.com/texxasrulez/blue-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Life is growth. If we stop growing, technically and spiritually, we are as good as dead.”
-— <em>Morihei Ueshiba</em>
+> “Why compare yourself with others? No one in the entire world can do a better job of being you than you.”
+— <em>Unknown</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Prefer pure functions; side effects are where bugs hide. 🪲
 <!--TIP:END-->
 
 ---
@@ -186,8 +186,8 @@ Readability scales better than cleverness.
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 85 | 1.3.0 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 14 | 3.6.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 13 | 1.5.2 |
+| [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 3 | 1.0.0 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 3 | 1.0.0 |
-| [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 2 | 1.0.0 |
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 1.0.1 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 1 | 1.0.3 |
 | [keyboard_shortcuts](https://github.com/texxasrulez/keyboard_shortcuts/releases) | 1 | 1.0.0 |
@@ -215,7 +215,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-20 15:07:50 UTC
+2026-04-20 16:52:33 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
