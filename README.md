@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/nextcloud">
+<a href="https://github.com/texxasrulez/matomo_analytics">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/server-dashboard">
+<a href="https://github.com/texxasrulez/plata-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.”
-— <em>Ming-Dao Deng</em>
+> “You can calculate the worth of a man by the number of his enemies.”
+— <em>Gustave Flaubert</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Test boundaries, not happy paths. Dragons live on edges.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-21 16:03:00 UTC
+2026-04-21 17:50:16 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
