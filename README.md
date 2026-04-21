@@ -120,10 +120,10 @@ Thanks for making these tools sound native everywhere.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/plata-larry">
+<a href="https://github.com/texxasrulez/server-dashboard">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “What is planted in each person's soul will sprout.”
-— <em>Rumi</em>
+> “The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.”
+— <em>Ming-Dao Deng</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Small commits, great diffs. Atomic changes win.
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Small commits, great diffs. Atomic changes win.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-21 14:44:44 UTC
+2026-04-21 16:03:00 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
