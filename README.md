@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/vcard_attach">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/teal-larry">
+<a href="https://github.com/texxasrulez/change_notification">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “You become a worrier by practicing worry. You become free of worry by practicing the opposite.”
-— <em>Norman Vincent Peale</em>
+> “If you want to be successful, you have to jump, there's no way around it.”
+— <em>Steve Harvey</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Plant your taters deep.
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -188,9 +188,9 @@ Plant your taters deep.
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 13 | 1.5.2 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 3 | 1.0.0 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 3 | 1.0.0 |
+| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 2 | 1.0.3 |
 | [keyboard_shortcuts](https://github.com/texxasrulez/keyboard_shortcuts/releases) | 2 | 1.0.0 |
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 1.0.1 |
-| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 1 | 1.0.3 |
 | [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
 | [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 1 | 3.6.1 |
 <!--RELEASES:END-->
@@ -215,7 +215,7 @@ Plant your taters deep.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-24 23:30:42 UTC
+2026-04-25 01:19:18 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
