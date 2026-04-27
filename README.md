@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/additional_smtp">
+<a href="https://github.com/texxasrulez/simple_secure_contact_form">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=default" alt="simple_secure_contact_form" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/signature_randomizer">
+<a href="https://github.com/texxasrulez/matomo_analytics">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=default" alt="signature_randomizer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.”
-— <em>Colin Powell</em>
+> “Human behavior flows from three main sources: desire, emotion, and knowledge.”
+— <em>Plato</em>
 <!--QUOTE:END-->
 
 ---
@@ -183,7 +183,6 @@ Small commits, great diffs. Atomic changes win.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 86 | 1.3.0 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 14 | 3.6.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 13 | 1.5.2 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 3 | 1.0.0 |
@@ -193,6 +192,7 @@ Small commits, great diffs. Atomic changes win.
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 1.0.1 |
 | [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
 | [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 1 | 3.6.1 |
+| [additional_smtp](https://github.com/texxasrulez/additional_smtp/releases) | 1 | 0.3.0 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ Small commits, great diffs. Atomic changes win.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-27 12:14:23 UTC
+2026-04-27 14:55:04 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
