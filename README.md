@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/additional_imap">
+<a href="https://github.com/texxasrulez/tasklist">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=default" alt="additional_imap" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
+<a href="https://github.com/texxasrulez/blue-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Desire for the fruits of work must never be your motive in working.”
-— <em>Bhagavad Gita</em>
+> “Any fool can turn a blind eye but who knows what the ostrich sees in the sand.”
+— <em>Samuel Beckett</em>
 <!--QUOTE:END-->
 
 ---
@@ -183,7 +183,16 @@ Readability scales better than cleverness.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 86 | 1.3.0 |
+| [calendar](https://github.com/texxasrulez/calendar/releases) | 14 | 3.6.1 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 13 | 1.5.2 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 3 | 1.0.0 |
+| [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 3 | 1.0.0 |
+| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 2 | 1.0.3 |
+| [keyboard_shortcuts](https://github.com/texxasrulez/keyboard_shortcuts/releases) | 2 | 1.0.0 |
+| [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 1.0.1 |
+| [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
+| [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 1 | 3.6.1 |
 <!--RELEASES:END-->
 
 ---
@@ -206,7 +215,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-27 19:18:42 UTC
+2026-04-27 20:50:08 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
