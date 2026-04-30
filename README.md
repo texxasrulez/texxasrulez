@@ -97,16 +97,7 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
-- ⬆️ Pushed updates on `main` to **texxasrulez/server-dashboard** · 2026-04-29 03:28:56 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/track-em** · 2026-04-29 03:27:50 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/YAKM** · 2026-04-29 03:27:38 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/YAKM** · 2026-04-29 03:21:52 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/server-dashboard** · 2026-04-29 03:21:34 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/track-em** · 2026-04-29 03:21:21 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/track-em** · 2026-04-29 03:18:51 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/server-dashboard** · 2026-04-29 03:18:39 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/YAKM** · 2026-04-29 03:18:28 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/track-em** · 2026-04-29 03:14:26 UTC
+_No recent public activity._
 <!--ACTIVITY:END-->
 
 ---
@@ -114,16 +105,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/autumn-larry">
+<a href="https://github.com/texxasrulez/pwstrength_meter">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/pillars-of-creation">
+<a href="https://github.com/texxasrulez/vcard_attach">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
   </picture>
 </a>
 </p>
@@ -151,8 +142,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Before you can see the Light, you have to deal with the darkness.”
-— <em>Dan Millman</em>
+> “Keep away from people who try to belittle your ambitions.”
+— <em>Mark Twain</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +165,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Prefer pure functions; side effects are where bugs hide. 🪲
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -191,8 +182,8 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 2 | 1.0.3 |
 | [keyboard_shortcuts](https://github.com/texxasrulez/keyboard_shortcuts/releases) | 2 | 1.0.0 |
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 1.0.1 |
+| [additional_smtp](https://github.com/texxasrulez/additional_smtp/releases) | 2 | 0.3.0 |
 | [libkolab](https://github.com/texxasrulez/libkolab/releases) | 1 | 3.6.1 |
-| [libcalendaring](https://github.com/texxasrulez/libcalendaring/releases) | 1 | 3.6.1 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +206,7 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-04-30 14:57:32 UTC
+2026-04-30 16:15:13 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
