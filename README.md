@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/additional_smtp">
+<a href="https://github.com/texxasrulez/persistent_login">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=persistent_login&theme=default" alt="persistent_login" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/password">
+<a href="https://github.com/texxasrulez/grub2-theme-freshwater-aquarium">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=default" alt="password" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=default" alt="grub2-theme-freshwater-aquarium" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Ask no questions, and you'll be told no lies.”
-— <em>Charles Dickens</em>
+> “Nothing is hopeless; we must hope for everything.”
+— <em>Euripides</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Name things precisely. Future-you is your angriest code reviewer.
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
@@ -183,7 +183,7 @@ Name things precisely. Future-you is your angriest code reviewer.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 86 | 1.3.0 |
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 87 | 1.3.0 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 14 | 3.6.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 14 | 1.5.2 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 3 | 1.0.0 |
@@ -215,7 +215,7 @@ Name things precisely. Future-you is your angriest code reviewer.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-04 22:45:32 UTC
+2026-05-04 23:41:44 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
