@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/pwstrength_meter">
+<a href="https://github.com/texxasrulez/cosmic-cliffs">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/nextcloud">
+<a href="https://github.com/texxasrulez/tasklist">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “We cannot always do great things in life, but we can do small things with great love.”
-— <em>Dan Millman</em>
+> “Opportunity comes when you continually push forward.”
+— <em>Sonia Ricotti</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Automate the boring stuff; boredom breeds mistakes.
+If it’s not observed, it’s not reliable. Add telemetry.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Automate the boring stuff; boredom breeds mistakes.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-06 01:46:36 UTC
+2026-05-06 05:18:34 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
