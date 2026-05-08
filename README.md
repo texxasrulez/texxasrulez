@@ -114,10 +114,10 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/matomo-open-cart-ecommerce-vq-mod-3.0">
+<a href="https://github.com/texxasrulez/vcard_attach">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=default" alt="matomo-open-cart-ecommerce-vq-mod-3.0" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
   </picture>
 </a>
 <a href="https://github.com/texxasrulez/plata-larry">
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Failure is just information and an opportunity to change your course.”
-— <em>Oprah Winfrey</em>
+> “It is literally true that you can succeed best and quickest by helping others succeed.”
+— <em>Napoleon Hill</em>
 <!--QUOTE:END-->
 
 ---
@@ -184,7 +184,7 @@ Readability scales better than cleverness.
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 87 | 1.3.0 |
-| [calendar](https://github.com/texxasrulez/calendar/releases) | 14 | 3.6.1 |
+| [calendar](https://github.com/texxasrulez/calendar/releases) | 15 | 3.6.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 14 | 1.5.2 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 4 | 1.0.0 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 3 | 1.0.0 |
@@ -215,7 +215,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-08 10:15:40 UTC
+2026-05-08 12:03:30 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
