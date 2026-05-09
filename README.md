@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/green-larry">
+<a href="https://github.com/texxasrulez/additional_smtp">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/calendar">
+<a href="https://github.com/texxasrulez/server-dashboard">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Just living is not enough... one must have sunshine, freedom, and a little flower.”
-— <em>Hans Christian Andersen</em>
+> “Learn to value yourself, which means: fight for your happiness.”
+— <em>Ayn Rand</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Plant your taters deep.
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Plant your taters deep.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-09 22:31:27 UTC
+2026-05-09 23:35:23 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
