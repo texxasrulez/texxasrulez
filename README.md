@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/black-larry">
+<a href="https://github.com/texxasrulez/calender_inboxview">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=default" alt="calender_inboxview" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/vcard_attach">
+<a href="https://github.com/texxasrulez/advanced_search">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=default" alt="advanced_search" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Life is a traveling to the edge of knowledge, then a leap taken.”
-— <em>D. H. Lawrence</em>
+> “Do not regret the past. Look to the future.”
+— <em>Soyen Shaku</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Name things precisely. Future-you is your angriest code reviewer.
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Name things precisely. Future-you is your angriest code reviewer.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-10 10:52:59 UTC
+2026-05-10 11:40:20 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
