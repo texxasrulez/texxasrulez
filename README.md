@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/advanced_search">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=default" alt="advanced_search" />
-  </picture>
-</a>
 <a href="https://github.com/texxasrulez/cosmic-cliffs">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
+  </picture>
+</a>
+<a href="https://github.com/texxasrulez/matomo_analytics">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Never to suffer would never to have been blessed.”
-— <em>Edgar Allan Poe</em>
+> “Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.”
+— <em>Morihei Ueshiba</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Name things precisely. Future-you is your angriest code reviewer.
+Plant your taters deep.
 <!--TIP:END-->
 
 ---
@@ -189,10 +189,10 @@ Name things precisely. Future-you is your angriest code reviewer.
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 4 | 1.0.0 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 3 | 1.0.0 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 3 | 1.0.3 |
+| [additional_smtp](https://github.com/texxasrulez/additional_smtp/releases) | 3 | 0.3.0 |
 | [password](https://github.com/texxasrulez/password/releases) | 2 | 1.0.1 |
 | [keyboard_shortcuts](https://github.com/texxasrulez/keyboard_shortcuts/releases) | 2 | 1.0.0 |
 | [watchtower](https://github.com/texxasrulez/watchtower/releases) | 2 | 1.0.1 |
-| [additional_smtp](https://github.com/texxasrulez/additional_smtp/releases) | 2 | 0.3.0 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ Name things precisely. Future-you is your angriest code reviewer.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-10 23:39:23 UTC
+2026-05-11 01:58:08 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
