@@ -97,6 +97,7 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- ⬆️ Pushed updates on `main` to **texxasrulez/rounddav_bookmarks** · 2026-05-11 22:56:06 UTC
 - 📌 IssueCommentEvent in **roundcube/roundcubemail** · 2026-05-11 04:17:32 UTC
 - 🏷️ Published release **5.0.0** in **texxasrulez/account_details** · 2026-05-11 03:24:06 UTC
 - ⬆️ Pushed updates on `master` to **texxasrulez/account_details** · 2026-05-11 02:22:48 UTC
@@ -106,7 +107,6 @@ Thanks for making these tools sound native everywhere.
 - ⬆️ Pushed updates on `main` to **texxasrulez/rc_shield** · 2026-05-02 01:11:12 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/libkolab** · 2026-05-02 01:11:03 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/libcalendaring** · 2026-05-02 01:10:54 UTC
-- ⬆️ Pushed updates on `main` to **texxasrulez/calendar** · 2026-05-02 01:10:45 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/calendar">
+<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/additional_imap">
+<a href="https://github.com/texxasrulez/grey-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=default" alt="additional_imap" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
   </picture>
 </a>
 </p>
@@ -151,15 +151,15 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.”
-— <em>T.S. Eliot</em>
+> “To be angry is to revenge the faults of others on ourselves.”
+— <em>Alexander Pope</em>
 <!--QUOTE:END-->
 
 ---
 
 ### 🔥 Commit Streaks
 <!--STREAKS:START-->
-Current Streak: 0 days  
+Current Streak: 2 days  
 Longest Streak: 11 days
 <!--STREAKS:END-->
 
@@ -188,8 +188,8 @@ Delete dead code. Zombies bite. 🧟
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 14 | 1.5.2 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 4 | 1.0.0 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 4 | 1.0.3 |
-| [account_details](https://github.com/texxasrulez/account_details/releases) | 3 | 5.0.0 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 3 | 1.0.0 |
+| [account_details](https://github.com/texxasrulez/account_details/releases) | 3 | 5.0.0 |
 | [additional_smtp](https://github.com/texxasrulez/additional_smtp/releases) | 3 | 0.3.0 |
 | [server-dashboard](https://github.com/texxasrulez/server-dashboard/releases) | 2 | 1.0.0 |
 | [password](https://github.com/texxasrulez/password/releases) | 2 | 1.0.1 |
@@ -215,7 +215,7 @@ Delete dead code. Zombies bite. 🧟
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-11 22:44:07 UTC
+2026-05-11 23:44:59 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
