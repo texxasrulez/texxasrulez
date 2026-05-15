@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/matomo-open-cart-ecommerce-vq-mod-3.0">
+<a href="https://github.com/texxasrulez/server-dashboard">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=default" alt="matomo-open-cart-ecommerce-vq-mod-3.0" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/green-larry">
+<a href="https://github.com/texxasrulez/nextcloud">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.”
-— <em>Margaret Mead</em>
+> “The person who never made a mistake never tried anything new.”
+— <em>Albert Einstein</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Plant your taters deep.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Plant your taters deep.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-14 23:45:48 UTC
+2026-05-15 02:00:17 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
