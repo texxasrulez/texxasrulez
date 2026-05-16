@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/calender_inboxview">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=default" alt="calender_inboxview" />
-  </picture>
-</a>
 <a href="https://github.com/texxasrulez/password">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=default" alt="password" />
+  </picture>
+</a>
+<a href="https://github.com/texxasrulez/grey-larry">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “It's not whether you get knocked down, its whether you get back up.”
-— <em>Vince Lombardi</em>
+> “Where violence reigns, reason is weak.”
+— <em>Nicolas Chamfort</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-If it’s not observed, it’s not reliable. Add telemetry.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -187,9 +187,9 @@ If it’s not observed, it’s not reliable. Add telemetry.
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 17 | 3.6.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 15 | 1.5.2 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 9 | 1.0.3 |
+| [account_details](https://github.com/texxasrulez/account_details/releases) | 4 | 5.0.0 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 4 | 1.0.0 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 3 | 1.0.0 |
-| [account_details](https://github.com/texxasrulez/account_details/releases) | 3 | 5.0.0 |
 | [additional_smtp](https://github.com/texxasrulez/additional_smtp/releases) | 3 | 0.3.0 |
 | [server-dashboard](https://github.com/texxasrulez/server-dashboard/releases) | 2 | 1.0.0 |
 | [password](https://github.com/texxasrulez/password/releases) | 2 | 1.0.1 |
@@ -215,7 +215,7 @@ If it’s not observed, it’s not reliable. Add telemetry.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-16 20:37:04 UTC
+2026-05-16 21:38:04 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
