@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “If I cannot do great things. I can do small things in a great way.”
-— <em>Martin Luther King, Jr.</em>
+> “Everything has beauty but not everyone sees it.”
+— <em>Confucius</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Fail fast, log clearly, recover gracefully.
+If it’s not observed, it’s not reliable. Add telemetry.
 <!--TIP:END-->
 
 ---
@@ -187,7 +187,7 @@ Fail fast, log clearly, recover gracefully.
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 17 | 3.6.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 15 | 1.5.2 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 9 | 1.0.3 |
-| [account_details](https://github.com/texxasrulez/account_details/releases) | 4 | 5.0.0 |
+| [account_details](https://github.com/texxasrulez/account_details/releases) | 6 | 5.0.0 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 4 | 1.0.0 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 3 | 1.0.0 |
 | [additional_smtp](https://github.com/texxasrulez/additional_smtp/releases) | 3 | 0.3.0 |
@@ -215,7 +215,7 @@ Fail fast, log clearly, recover gracefully.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-18 06:42:38 UTC
+2026-05-18 10:55:07 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
