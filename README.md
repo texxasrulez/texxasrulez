@@ -97,16 +97,16 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- 🏷️ Published release **1.1.0** in **texxasrulez/vcard_attach** · 2026-05-21 03:28:30 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/vcard_attach** · 2026-05-21 03:27:42 UTC
+- 🏷️ Published release **1.6.0** in **texxasrulez/plugin_manager** · 2026-05-21 03:16:23 UTC
+- ⬆️ Pushed updates on `main` to **texxasrulez/plugin_manager** · 2026-05-21 03:15:29 UTC
 - 🏷️ Published release **1.1.0** in **texxasrulez/server-dashboard** · 2026-05-20 23:55:45 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/server-dashboard** · 2026-05-20 23:53:54 UTC
 - 🐛 Closed issue #1 in **texxasrulez/keyboard_shortcuts** · 2026-05-20 22:18:48 UTC
 - 📌 IssueCommentEvent in **texxasrulez/keyboard_shortcuts** · 2026-05-20 22:18:46 UTC
 - 🏷️ Published release **1.6** in **texxasrulez/autumn-larry** · 2026-05-20 22:12:37 UTC
 - 🏷️ Published release **1.6** in **texxasrulez/black-larry** · 2026-05-20 22:11:46 UTC
-- 🏷️ Published release **1.6** in **texxasrulez/blue-larry** · 2026-05-20 22:10:59 UTC
-- 🏷️ Published release **1.6** in **texxasrulez/green-larry** · 2026-05-20 22:09:36 UTC
-- 🏷️ Published release **1.6** in **texxasrulez/grey-larry** · 2026-05-20 22:08:39 UTC
-- 🏷️ Published release **1.6** in **texxasrulez/pink-larry** · 2026-05-20 22:07:25 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/password">
+<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=default" alt="password" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
+<a href="https://github.com/texxasrulez/pink-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Fear of death is fear of the Unknown.”
-— <em>Adi Da Samraj</em>
+> “I pay attention to every minute of the day.”
+— <em>Steve Harvey</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Small commits, great diffs. Atomic changes win.
+Guard rails > guard clauses > guard your time.
 <!--TIP:END-->
 
 ---
@@ -184,7 +184,7 @@ Small commits, great diffs. Atomic changes win.
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 17 | 3.6.1 |
-| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 15 | 1.5.2 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 15 | 1.6.0 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 6 | 5.0.0 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 5 | 1.6 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 5 | 1.6 |
@@ -215,7 +215,7 @@ Small commits, great diffs. Atomic changes win.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-21 02:04:33 UTC
+2026-05-21 06:40:31 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
