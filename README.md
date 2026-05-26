@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/matomo_analytics">
+<a href="https://github.com/texxasrulez/pink-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/server-dashboard">
+<a href="https://github.com/texxasrulez/summer-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=default" alt="summer-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Peace of mind is that mental condition in which you have accepted the worst.”
-— <em>Lin Yutang</em>
+> “Relax. Nothing is under control.”
+— <em>Adi Da Samraj</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Prefer pure functions; side effects are where bugs hide. 🪲
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-26 10:39:07 UTC
+2026-05-26 13:44:31 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
