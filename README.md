@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/password">
+<a href="https://github.com/texxasrulez/matomo-open-cart-ecommerce-vq-mod-3.0">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=default" alt="password" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=default" alt="matomo-open-cart-ecommerce-vq-mod-3.0" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/additional_smtp">
+<a href="https://github.com/texxasrulez/pillars-of-creation">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories.”
-— <em>Ray Bradbury</em>
+> “Perfect is the enemy of shipped.”
+— <em>Pragmatic Bot</em>
 <!--QUOTE:END-->
 
 ---
@@ -190,7 +190,7 @@ Plant your taters deep.
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 5 | 1.6 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 5 | 1.6 |
 | [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 5 | 1.6 |
-| [black-larry](https://github.com/texxasrulez/black-larry/releases) | 4 | 1.6 |
+| [black-larry](https://github.com/texxasrulez/black-larry/releases) | 5 | 1.6 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 4 | 1.0.0 |
 | [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 3 | 1.6 |
 <!--RELEASES:END-->
@@ -215,7 +215,7 @@ Plant your taters deep.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-27 05:07:36 UTC
+2026-05-27 08:57:56 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
