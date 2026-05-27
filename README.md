@@ -97,6 +97,7 @@ Thanks for making these tools sound native everywhere.
 
 ### 📰 Recent Activity
 <!--ACTIVITY:START-->
+- 📌 IssueCommentEvent in **texxasrulez/scheduled_sending** · 2026-05-27 16:01:38 UTC
 - 🐛 Closed issue #1 in **texxasrulez/persistent_login** · 2026-05-26 05:52:17 UTC
 - 📌 IssueCommentEvent in **texxasrulez/persistent_login** · 2026-05-26 05:52:15 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/persistent_login** · 2026-05-26 05:51:46 UTC
@@ -106,7 +107,6 @@ Thanks for making these tools sound native everywhere.
 - 🏷️ Published release **1.2.0** in **texxasrulez/server-dashboard** · 2026-05-26 03:15:18 UTC
 - 🔀 Opened PR #84 in **pimlie/authres_status** · 2026-05-23 19:43:41 UTC
 - ⬆️ Pushed updates on `master` to **texxasrulez/authres_status** · 2026-05-23 19:41:35 UTC
-- 📌 ForkEvent in **pimlie/authres_status** · 2026-05-23 19:30:26 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/matomo-open-cart-ecommerce-vq-mod-3.0">
+<a href="https://github.com/texxasrulez/tasklist">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=default" alt="matomo-open-cart-ecommerce-vq-mod-3.0" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/pillars-of-creation">
+<a href="https://github.com/texxasrulez/black-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Perfect is the enemy of shipped.”
-— <em>Pragmatic Bot</em>
+> “Speak when you are angry - and you'll make the best speech you'll ever regret.”
+— <em>Laurence J. Peter</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Plant your taters deep.
+Automate the boring stuff; boredom breeds mistakes.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Plant your taters deep.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-27 08:57:56 UTC
+2026-05-27 16:31:10 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
