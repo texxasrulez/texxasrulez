@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/additional_imap">
+<a href="https://github.com/texxasrulez/green-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=default" alt="additional_imap" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/calendar">
+<a href="https://github.com/texxasrulez/grey-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Even though you are on the right track - you will get run over if you just sit there.”
-— <em>Will Rogers</em>
+> “It's the little things done consistently over time, straight from your heart, that have the greatest impact.”
+— <em>Unknown</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-If it’s not observed, it’s not reliable. Add telemetry.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -183,16 +183,16 @@ If it’s not observed, it’s not reliable. Add telemetry.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [calendar](https://github.com/texxasrulez/calendar/releases) | 23 | 3.6.1 |
-| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 15 | 1.6.0 |
+| [calendar](https://github.com/texxasrulez/calendar/releases) | 24 | 3.6.1 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 16 | 1.6.0 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 9 | 1.0.3 |
-| [account_details](https://github.com/texxasrulez/account_details/releases) | 6 | 5.0.0 |
-| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 5 | 1.6 |
-| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 5 | 1.6 |
-| [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 5 | 1.6 |
+| [account_details](https://github.com/texxasrulez/account_details/releases) | 7 | 5.0.0 |
+| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 6 | 1.6 |
+| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 6 | 1.6 |
+| [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 6 | 1.6 |
 | [black-larry](https://github.com/texxasrulez/black-larry/releases) | 5 | 1.6 |
-| [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 4 | 1.0.0 |
-| [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 3 | 1.6 |
+| [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 5 | 1.0.0 |
+| [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 4 | 1.6 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ If it’s not observed, it’s not reliable. Add telemetry.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-30 10:42:25 UTC
+2026-05-30 12:00:06 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
