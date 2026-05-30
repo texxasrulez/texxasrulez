@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/advanced_search">
+<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=default" alt="advanced_search" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/black-larry">
+<a href="https://github.com/texxasrulez/green-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The greatest doer must also be a great dreamer.”
-— <em>Theodore Roosevelt</em>
+> “There is nothing more truly artistic than to love people.”
+— <em>Vincent van Gogh</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Fail fast, log clearly, recover gracefully.
+Guard rails > guard clauses > guard your time.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Fail fast, log clearly, recover gracefully.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-30 21:49:07 UTC
+2026-05-30 22:44:41 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
