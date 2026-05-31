@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/plugin_manager">
+<a href="https://github.com/texxasrulez/simple_secure_contact_form">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=default" alt="plugin_manager" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=default" alt="simple_secure_contact_form" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/black-larry">
+<a href="https://github.com/texxasrulez/tasklist">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “From morning till night, we should never rely on a single thing.”
-— <em>Huang Po</em>
+> “It's not what we do once in a while that shapes our lives, but what we do consistently.”
+— <em>Tony Robbins</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Name things precisely. Future-you is your angriest code reviewer.
+Small commits, great diffs. Atomic changes win.
 <!--TIP:END-->
 
 ---
@@ -190,9 +190,9 @@ Name things precisely. Future-you is your angriest code reviewer.
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 6 | 1.6 |
 | [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 6 | 1.6 |
 | [black-larry](https://github.com/texxasrulez/black-larry/releases) | 5 | 1.6 |
+| [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 5 | 1.0.0 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 5 | 1.0.0 |
 | [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 4 | 1.6 |
-| [green-larry](https://github.com/texxasrulez/green-larry/releases) | 4 | 1.6 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ Name things precisely. Future-you is your angriest code reviewer.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-05-31 11:25:07 UTC
+2026-05-31 13:09:31 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
