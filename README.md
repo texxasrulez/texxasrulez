@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/green-larry">
+<a href="https://github.com/texxasrulez/black-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/matomo_analytics">
+<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Have a vision. Be demanding.”
-— <em>Colin Powell</em>
+> “20 percent of your activities will account for 80 percent of your results.”
+— <em>Brian Tracy</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Automate the boring stuff; boredom breeds mistakes.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -183,6 +183,7 @@ Automate the boring stuff; boredom breeds mistakes.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 87 | 1.3.0 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 17 | 1.6.0 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 9 | 1.0.3 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 8 | 5.0.0 |
@@ -192,7 +193,6 @@ Automate the boring stuff; boredom breeds mistakes.
 | [green-larry](https://github.com/texxasrulez/green-larry/releases) | 5 | 1.6 |
 | [black-larry](https://github.com/texxasrulez/black-larry/releases) | 5 | 1.6 |
 | [rounddav_bookmarks](https://github.com/texxasrulez/rounddav_bookmarks/releases) | 5 | 1.0.0 |
-| [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 5 | 1.0.0 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ Automate the boring stuff; boredom breeds mistakes.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-06-01 22:28:32 UTC
+2026-06-02 00:04:34 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
