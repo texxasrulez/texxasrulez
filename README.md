@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/additional_smtp">
+<a href="https://github.com/texxasrulez/teal-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grey-larry">
+<a href="https://github.com/texxasrulez/calender_inboxview">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=default" alt="calender_inboxview" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Public opinion is the worst of all opinions.”
-— <em>Nicolas Chamfort</em>
+> “Take away love and our earth is a tomb.”
+— <em>Robert Browning</em>
 <!--QUOTE:END-->
 
 ---
@@ -187,10 +187,10 @@ Test boundaries, not happy paths. Dragons live on edges.
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 17 | 1.6.0 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 9 | 1.0.3 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 8 | 5.0.0 |
+| [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 6 | 1.0.0 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 6 | 1.6 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 6 | 1.6 |
 | [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 6 | 1.6 |
-| [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 5 | 1.0.0 |
 | [green-larry](https://github.com/texxasrulez/green-larry/releases) | 5 | 1.6 |
 | [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 4 | 1.0.5 |
 <!--RELEASES:END-->
@@ -215,7 +215,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-06-02 23:25:20 UTC
+2026-06-03 02:38:56 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
