@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/matomo_analytics">
+<a href="https://github.com/texxasrulez/summer-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=default" alt="summer-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Curiosity is the most powerful thing you own.”
-— <em>James Cameron</em>
+> “Truth is such a rare thing, it is delighted to tell it.”
+— <em>Emily Dickinson</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Small commits, great diffs. Atomic changes win.
 <!--TIP:END-->
 
 ---
@@ -184,15 +184,15 @@ Readability scales better than cleverness.
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 87 | 1.3.0 |
-| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 17 | 1.6.0 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 18 | 1.6.0 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 9 | 5.0.0 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 9 | 1.0.3 |
+| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 7 | 1.6 |
+| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 7 | 1.6 |
+| [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 7 | 1.6 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 6 | 1.0.0 |
-| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 6 | 1.6 |
-| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 6 | 1.6 |
-| [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 6 | 1.6 |
-| [green-larry](https://github.com/texxasrulez/green-larry/releases) | 5 | 1.6 |
-| [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 4 | 1.0.5 |
+| [green-larry](https://github.com/texxasrulez/green-larry/releases) | 6 | 1.6 |
+| [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 5 | 1.6 |
 <!--RELEASES:END-->
 
 ---
@@ -215,7 +215,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-06-05 00:08:22 UTC
+2026-06-05 05:07:58 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
