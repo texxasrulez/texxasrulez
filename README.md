@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/additional_imap">
+<a href="https://github.com/texxasrulez/pink-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=default" alt="additional_imap" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/cosmic-cliffs">
+<a href="https://github.com/texxasrulez/additional_smtp">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.”
-— <em>Norman Vincent Peale</em>
+> “Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.”
+— <em>Dale Carnegie</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Plant your taters deep.
 <!--TIP:END-->
 
 ---
@@ -188,7 +188,7 @@ Readability scales better than cleverness.
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 10 | 5.0.0 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 10 | 1.0.3 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 8 | 1.6 |
-| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 7 | 1.6 |
+| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 8 | 1.6 |
 | [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 7 | 1.6 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 6 | 1.0.0 |
 | [green-larry](https://github.com/texxasrulez/green-larry/releases) | 6 | 1.6 |
@@ -215,7 +215,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-06-06 22:53:25 UTC
+2026-06-06 23:55:07 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
