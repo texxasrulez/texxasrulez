@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
+<a href="https://github.com/texxasrulez/nextcloud">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
+<a href="https://github.com/texxasrulez/calendar">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
   </picture>
 </a>
 </p>
@@ -190,8 +190,8 @@ Readability scales better than cleverness.
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 8 | 1.6 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 8 | 1.6 |
 | [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 7 | 1.6 |
+| [green-larry](https://github.com/texxasrulez/green-larry/releases) | 7 | 1.6 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 6 | 1.0.0 |
-| [green-larry](https://github.com/texxasrulez/green-larry/releases) | 6 | 1.6 |
 | [pink-larry](https://github.com/texxasrulez/pink-larry/releases) | 5 | 1.6 |
 <!--RELEASES:END-->
 
@@ -215,7 +215,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-06-08 07:21:21 UTC
+2026-06-08 12:19:41 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
