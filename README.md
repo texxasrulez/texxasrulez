@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/green-larry">
+<a href="https://github.com/texxasrulez/calendar">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/server-dashboard">
+<a href="https://github.com/texxasrulez/black-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!”
-— <em>Tony Robbins</em>
+> “There is nothing like looking if you want to find something.”
+— <em>J.R.R. Tolkien</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Test boundaries, not happy paths. Dragons live on edges.
+Small commits, great diffs. Atomic changes win.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-06-17 16:58:42 UTC
+2026-06-17 17:57:33 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
