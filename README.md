@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-freshwater-aquarium">
+<a href="https://github.com/texxasrulez/simple_secure_contact_form">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-freshwater-aquarium&theme=default" alt="grub2-theme-freshwater-aquarium" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=simple_secure_contact_form&theme=default" alt="simple_secure_contact_form" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/server-dashboard">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “A leader leads by example, not by force.”
-— <em>Sun Tzu</em>
+> “Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.”
+— <em>Winston Churchill</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Fail fast, log clearly, recover gracefully.
+Guard rails > guard clauses > guard your time.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Fail fast, log clearly, recover gracefully.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-06-19 23:19:12 UTC
+2026-06-20 00:27:15 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
