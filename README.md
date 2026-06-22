@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/account_details">
+<a href="https://github.com/texxasrulez/summer-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=default" alt="account_details" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=default" alt="summer-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/tasklist">
+<a href="https://github.com/texxasrulez/grey-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “I have no methods; all I do is accept people as they are.”
-— <em>Joan Rivers</em>
+> “Do not think you will necessarily be aware of your own enlightenment.”
+— <em>Dogen</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Plant your taters deep.
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Plant your taters deep.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-06-22 21:40:06 UTC
+2026-06-22 22:30:48 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
