@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/tasklist">
+<a href="https://github.com/texxasrulez/summer-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=default" alt="summer-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/additional_imap">
+<a href="https://github.com/texxasrulez/pink-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=default" alt="additional_imap" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Most people fail in life because they major in minor things.”
-— <em>Tony Robbins</em>
+> “Never waste a minute of your precious life thinking about people you don't like.”
+— <em>Celestine Chua</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Small commits, great diffs. Atomic changes win.
+If it’s not observed, it’s not reliable. Add telemetry.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Small commits, great diffs. Atomic changes win.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-06-24 07:04:37 UTC
+2026-06-24 09:00:31 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
