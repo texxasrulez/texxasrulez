@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
+<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
+  </picture>
+</a>
 <a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
-  </picture>
-</a>
-<a href="https://github.com/texxasrulez/blue-larry">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “All human beings can alter their lives by altering their attitudes.”
-— <em>Andrew Carnegie</em>
+> “The soul should always stand ajar, ready to welcome the ecstatic experience.”
+— <em>Emily Dickinson</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -185,8 +185,8 @@ Readability scales better than cleverness.
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 100 | 1.3.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 20 | 1.6.0 |
+| [account_details](https://github.com/texxasrulez/account_details/releases) | 12 | 5.0.0 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 11 | 1.0.3 |
-| [account_details](https://github.com/texxasrulez/account_details/releases) | 11 | 5.0.0 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 8 | 1.6 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 8 | 1.6 |
 | [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 7 | 1.6 |
@@ -215,7 +215,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-06-29 16:57:07 UTC
+2026-06-29 17:51:41 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
