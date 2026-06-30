@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
+<a href="https://github.com/texxasrulez/cosmic-cliffs">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/violet-larry">
+<a href="https://github.com/texxasrulez/grey-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Perfect is the enemy of shipped.”
-— <em>Pragmatic Bot</em>
+> “You don't earn loyalty in a day. You earn loyalty day-by-day.”
+— <em>Jeffrey Gitomer</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Delete dead code. Zombies bite. 🧟
+Guard rails > guard clauses > guard your time.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Delete dead code. Zombies bite. 🧟
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-06-30 13:32:20 UTC
+2026-06-30 14:48:06 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
