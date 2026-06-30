@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/password">
+<a href="https://github.com/texxasrulez/force_elastic">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=default" alt="password" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=force_elastic&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=force_elastic&theme=default" alt="force_elastic" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/calendar">
+<a href="https://github.com/texxasrulez/vcard_attach">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The biggest adventure you can ever take is to live the life of your dreams.”
-— <em>Oprah Winfrey</em>
+> “He will win who knows when to fight and when not to fight.”
+— <em>Sun Tzu</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Automate the boring stuff; boredom breeds mistakes.
+Guard rails > guard clauses > guard your time.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Automate the boring stuff; boredom breeds mistakes.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-06-30 10:58:35 UTC
+2026-06-30 11:54:36 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
