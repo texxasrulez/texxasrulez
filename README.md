@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/change_notification">
+<a href="https://github.com/texxasrulez/account_details">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=account_details&theme=default" alt="account_details" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-tornado-vs-fleet">
+<a href="https://github.com/texxasrulez/nextcloud">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=default" alt="grub2-theme-tornado-vs-fleet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
   </picture>
 </a>
 </p>
@@ -215,7 +215,7 @@ Fail fast, log clearly, recover gracefully.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-07-01 12:51:30 UTC
+2026-07-01 13:44:33 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
