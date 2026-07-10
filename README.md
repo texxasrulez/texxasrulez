@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
+<a href="https://github.com/texxasrulez/black-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grey-larry">
+<a href="https://github.com/texxasrulez/violet-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Patience is not the ability to wait but the ability to keep a good attitude while waiting.”
-— <em>Joyce Meyer</em>
+> “There is nothing quite so tragic as a young cynic.”
+— <em>Maya Angelou</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Name things precisely. Future-you is your angriest code reviewer.
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Name things precisely. Future-you is your angriest code reviewer.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-07-10 16:12:30 UTC
+2026-07-10 18:15:19 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
