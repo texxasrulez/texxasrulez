@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/pink-larry">
+<a href="https://github.com/texxasrulez/plugin_manager">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=default" alt="plugin_manager" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/cosmic-cliffs">
+<a href="https://github.com/texxasrulez/green-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “We lie the loudest when we lie to ourselves.”
-— <em>Eric Hoffer</em>
+> “Do not look for approval except for the consciousness of doing your best.”
+— <em>Andrew Carnegie</em>
 <!--QUOTE:END-->
 
 ---
@@ -215,7 +215,7 @@ Name things precisely. Future-you is your angriest code reviewer.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-07-13 18:25:02 UTC
+2026-07-13 20:06:03 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
