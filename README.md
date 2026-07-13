@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-tornado-vs-fleet">
+<a href="https://github.com/texxasrulez/plugin_manager">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=default" alt="grub2-theme-tornado-vs-fleet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plugin_manager&theme=default" alt="plugin_manager" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
+<a href="https://github.com/texxasrulez/tasklist">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The heart that gives, gathers.”
-— <em>Lao Tzu</em>
+> “Life is like underwear, should be changed twice a day.”
+— <em>Ray Bradbury</em>
 <!--QUOTE:END-->
 
 ---
@@ -215,7 +215,7 @@ Plant your taters deep.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-07-13 01:29:21 UTC
+2026-07-13 05:23:22 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
