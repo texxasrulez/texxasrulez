@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/violet-larry">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
+<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The more you feed your mind with positive thoughts, the more you can attract great things into your life.”
-— <em>Roy T. Bennett</em>
+> “To find yourself, think for yourself.”
+— <em>Socrates</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-07-17 04:51:41 UTC
+2026-07-17 07:08:31 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
