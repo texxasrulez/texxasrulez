@@ -120,10 +120,10 @@ Thanks for making these tools sound native everywhere.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/vcard_attach">
+<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.”
-— <em>Emily Dickinson</em>
+> “To be angry is to revenge the faults of others on ourselves.”
+— <em>Alexander Pope</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Test boundaries, not happy paths. Dragons live on edges.
+Prefer pure functions; side effects are where bugs hide. 🪲
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-07-19 15:43:53 UTC
+2026-07-19 16:42:00 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
