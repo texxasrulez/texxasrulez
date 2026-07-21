@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/pillars-of-creation">
+<a href="https://github.com/texxasrulez/black-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/advanced_search">
+<a href="https://github.com/texxasrulez/additional_imap">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=default" alt="advanced_search" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_imap&theme=default" alt="additional_imap" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The future belongs to those who learn more skills and combine them in creative ways.”
-— <em>Robert Greene</em>
+> “Look to the beauty of this day, miracles are all around you.”
+— <em>Mary Engelbreit</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Delete dead code. Zombies bite. 🧟
+Test boundaries, not happy paths. Dragons live on edges.
 <!--TIP:END-->
 
 ---
@@ -185,7 +185,7 @@ Delete dead code. Zombies bite. 🧟
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 105 | 1.3.2 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 20 | 1.6.0 |
-| [account_details](https://github.com/texxasrulez/account_details/releases) | 13 | 5.0.1 |
+| [account_details](https://github.com/texxasrulez/account_details/releases) | 14 | 5.0.1 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 13 | 1.0.3 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 9 | 1.6 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 8 | 1.6 |
@@ -215,7 +215,7 @@ Delete dead code. Zombies bite. 🧟
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-07-20 23:45:48 UTC
+2026-07-21 01:25:40 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
