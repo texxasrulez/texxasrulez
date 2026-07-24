@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
+<a href="https://github.com/texxasrulez/matomo_analytics">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo_analytics&theme=default" alt="matomo_analytics" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/violet-larry">
+<a href="https://github.com/texxasrulez/password">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=default" alt="password" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Whether you have a problem in your life or not depends upon your own attitude, your own understanding.”
-— <em>Shunryu Suzuki</em>
+> “What loneliness is more lonely than distrust?”
+— <em>George Eliot</em>
 <!--QUOTE:END-->
 
 ---
@@ -183,12 +183,12 @@ Test boundaries, not happy paths. Dragons live on edges.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 105 | 1.3.2 |
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 106 | 1.3.2 |
+| [calendar](https://github.com/texxasrulez/calendar/releases) | 35 | 3.6.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 20 | 1.6.0 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 14 | 5.0.1 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 14 | 1.0.3 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 9 | 1.6 |
-| [green-larry](https://github.com/texxasrulez/green-larry/releases) | 9 | 1.6 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 8 | 1.6 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 7 | 1.0.0 |
 | [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 7 | 1.0.5 |
@@ -215,7 +215,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-07-24 04:58:15 UTC
+2026-07-24 07:28:26 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
