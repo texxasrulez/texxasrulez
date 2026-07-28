@@ -114,16 +114,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/additional_smtp">
+<a href="https://github.com/texxasrulez/nextcloud">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=additional_smtp&theme=default" alt="additional_smtp" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/force_elastic">
+<a href="https://github.com/texxasrulez/pwstrength_meter">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=force_elastic&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=force_elastic&theme=default" alt="force_elastic" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”
-— <em>Nikola Tesla</em>
+> “It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.”
+— <em>John Lennon</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Automate the boring stuff; boredom breeds mistakes.
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -215,7 +215,7 @@ Automate the boring stuff; boredom breeds mistakes.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-07-28 17:16:28 UTC
+2026-07-28 19:03:27 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
