@@ -120,10 +120,10 @@ Thanks for making these tools sound native everywhere.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=matomo-open-cart-ecommerce-vq-mod-3.0&theme=default" alt="matomo-open-cart-ecommerce-vq-mod-3.0" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/black-larry">
+<a href="https://github.com/texxasrulez/password">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=default" alt="password" />
   </picture>
 </a>
 </p>
@@ -151,8 +151,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Do not allow your inner doubts to keep you from achieving what you can do.”
-— <em>Lolly Daskal</em>
+> “Perfect is the enemy of shipped.”
+— <em>Pragmatic Bot</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +174,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Prefer pure functions; side effects are where bugs hide. 🪲
+Readability scales better than cleverness.
 <!--TIP:END-->
 
 ---
@@ -184,7 +184,7 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 107 | 1.3.2 |
-| [calendar](https://github.com/texxasrulez/calendar/releases) | 36 | 3.6.1 |
+| [calendar](https://github.com/texxasrulez/calendar/releases) | 37 | 3.6.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 20 | 1.6.0 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 16 | 5.0.1 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 14 | 1.0.3 |
@@ -215,7 +215,7 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-08-07 12:36:31 UTC
+2026-08-07 14:03:31 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
