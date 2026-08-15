@@ -99,14 +99,6 @@ Thanks for making these tools sound native everywhere.
 <!--ACTIVITY:START-->
 - 🏷️ Published release **2.1.0** in **texxasrulez/server-dashboard** · 2026-07-30 05:04:28 UTC
 - ⬆️ Pushed updates on `main` to **texxasrulez/server-dashboard** · 2026-07-30 05:02:34 UTC
-- 🐛 Closed issue #10 in **texxasrulez/account_details** · 2026-07-15 18:48:35 UTC
-- 🐛 Closed issue #17 in **texxasrulez/scheduled_sending** · 2026-07-15 18:48:17 UTC
-- 🐛 Closed issue #14 in **texxasrulez/scheduled_sending** · 2026-07-15 18:48:10 UTC
-- 🏷️ Published release **1.3.2** in **texxasrulez/scheduled_sending** · 2026-07-15 18:36:51 UTC
-- ⬆️ Pushed updates on `master` to **texxasrulez/scheduled_sending** · 2026-07-15 18:35:37 UTC
-- ⬆️ Pushed updates on `master` to **texxasrulez/scheduled_sending** · 2026-07-15 18:33:56 UTC
-- 🏷️ Published release **5.0.1** in **texxasrulez/account_details** · 2026-07-15 18:20:05 UTC
-- ⬆️ Pushed updates on `master` to **texxasrulez/account_details** · 2026-07-15 18:18:35 UTC
 <!--ACTIVITY:END-->
 
 ---
@@ -114,16 +106,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/black-larry">
+<a href="https://github.com/texxasrulez/tasklist">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/calender_inboxview">
+<a href="https://github.com/texxasrulez/calendar">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calender_inboxview&theme=default" alt="calender_inboxview" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
   </picture>
 </a>
 </p>
@@ -151,8 +143,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “There is nothing like looking if you want to find something.”
-— <em>J.R.R. Tolkien</em>
+> “Don't wait for the right opportunity: create it.”
+— <em>George Bernard Shaw</em>
 <!--QUOTE:END-->
 
 ---
@@ -174,7 +166,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Name things precisely. Future-you is your angriest code reviewer.
+Small commits, great diffs. Atomic changes win.
 <!--TIP:END-->
 
 ---
@@ -215,7 +207,7 @@ Name things precisely. Future-you is your angriest code reviewer.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-08-15 00:34:08 UTC
+2026-08-15 02:06:38 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
