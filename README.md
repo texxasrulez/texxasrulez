@@ -106,16 +106,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/teal-larry">
+<a href="https://github.com/texxasrulez/grub2-theme-tornado-vs-fleet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=default" alt="grub2-theme-tornado-vs-fleet" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/pillars-of-creation">
+<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
   </picture>
 </a>
 </p>
@@ -143,8 +143,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.”
-— <em>Nelson Mandela</em>
+> “No amount of regretting can change the past, and no amount of worrying can change the future.”
+— <em>Roy T. Bennett</em>
 <!--QUOTE:END-->
 
 ---
@@ -166,14 +166,25 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-If it’s not observed, it’s not reliable. Add telemetry.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
 
 ### 📥 Release Download Counts
 <!--RELEASES:START-->
-_No GitHub releases found across scanned repositories. Create a release to see counts here._
+| Repo | Downloads | Latest Tag |
+|---|---:|---|
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 110 | 1.3.2 |
+| [calendar](https://github.com/texxasrulez/calendar/releases) | 40 | 3.6.1 |
+| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 20 | 1.6.0 |
+| [account_details](https://github.com/texxasrulez/account_details/releases) | 17 | 5.0.1 |
+| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 14 | 1.0.3 |
+| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 9 | 1.6 |
+| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 9 | 1.6 |
+| [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 8 | 1.0.5 |
+| [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 7 | 1.0.0 |
+| [grey-larry](https://github.com/texxasrulez/grey-larry/releases) | 7 | 1.6 |
 <!--RELEASES:END-->
 
 ---
@@ -196,7 +207,7 @@ _No GitHub releases found across scanned repositories. Create a release to see c
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-08-17 16:13:06 UTC
+2026-08-17 17:15:30 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
