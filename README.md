@@ -106,16 +106,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/server-dashboard">
+<a href="https://github.com/texxasrulez/black-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=black-larry&theme=default" alt="black-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/pillars-of-creation">
+<a href="https://github.com/texxasrulez/summer-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=summer-larry&theme=default" alt="summer-larry" />
   </picture>
 </a>
 </p>
@@ -143,8 +143,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Blessed is he who expects nothing, for he shall never be disappointed.”
-— <em>Alexander Pope</em>
+> “No matter what happens, always be yourself.”
+— <em>Dale Carnegie</em>
 <!--QUOTE:END-->
 
 ---
@@ -166,25 +166,14 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Fail fast, log clearly, recover gracefully.
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
 
 ### 📥 Release Download Counts
 <!--RELEASES:START-->
-| Repo | Downloads | Latest Tag |
-|---|---:|---|
-| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 110 | 1.3.2 |
-| [calendar](https://github.com/texxasrulez/calendar/releases) | 40 | 3.6.1 |
-| [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 20 | 1.6.0 |
-| [account_details](https://github.com/texxasrulez/account_details/releases) | 17 | 5.0.1 |
-| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 14 | 1.0.3 |
-| [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 8 | 1.0.5 |
-| [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 7 | 1.0.0 |
-| [additional_imap](https://github.com/texxasrulez/additional_imap/releases) | 5 | 0.3.2 |
-| [calender_inboxview](https://github.com/texxasrulez/calender_inboxview/releases) | 2 | 1.0.2 |
-| [ai_roundcube_assistant](https://github.com/texxasrulez/ai_roundcube_assistant/releases) | 2 | 0.0.1 |
+_No GitHub releases found across scanned repositories. Create a release to see counts here._
 <!--RELEASES:END-->
 
 ---
@@ -207,7 +196,7 @@ Fail fast, log clearly, recover gracefully.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-08-17 13:30:50 UTC
+2026-08-17 14:15:52 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
