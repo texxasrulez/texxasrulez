@@ -106,16 +106,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/password">
+<a href="https://github.com/texxasrulez/autumn-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=default" alt="password" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/grey-larry">
+<a href="https://github.com/texxasrulez/teal-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
   </picture>
 </a>
 </p>
@@ -143,8 +143,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Focus on the moment, not the monsters that may or may not be up ahead.”
-— <em>Ryan Holiday</em>
+> “It's not about what it is, it's about what it can become.”
+— <em>Dr. Seuss</em>
 <!--QUOTE:END-->
 
 ---
@@ -166,7 +166,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Automate the boring stuff; boredom breeds mistakes.
+Small commits, great diffs. Atomic changes win.
 <!--TIP:END-->
 
 ---
@@ -181,8 +181,8 @@ Automate the boring stuff; boredom breeds mistakes.
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 17 | 5.0.1 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 14 | 1.0.3 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 10 | 1.6 |
+| [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 9 | 1.0.5 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 9 | 1.6 |
-| [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 8 | 1.0.5 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 7 | 1.0.0 |
 | [additional_imap](https://github.com/texxasrulez/additional_imap/releases) | 5 | 0.3.2 |
 <!--RELEASES:END-->
@@ -207,7 +207,7 @@ Automate the boring stuff; boredom breeds mistakes.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-08-21 12:21:31 UTC
+2026-08-21 13:35:57 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
