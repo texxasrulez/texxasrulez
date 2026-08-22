@@ -106,16 +106,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grub2-theme-tornado-vs-fleet">
+<a href="https://github.com/texxasrulez/advanced_search">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-tornado-vs-fleet&theme=default" alt="grub2-theme-tornado-vs-fleet" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=advanced_search&theme=default" alt="advanced_search" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/pink-larry">
+<a href="https://github.com/texxasrulez/scheduled_sending">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=default" alt="scheduled_sending" />
   </picture>
 </a>
 </p>
@@ -143,8 +143,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Men go to far greater lengths to avoid what they fear than to obtain what they desire.”
-— <em>Dan Brown</em>
+> “I don't walk away from things that I think are unfinished.”
+— <em>Arnold Schwarzenegger</em>
 <!--QUOTE:END-->
 
 ---
@@ -166,7 +166,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Delete dead code. Zombies bite. 🧟
+Small commits, great diffs. Atomic changes win.
 <!--TIP:END-->
 
 ---
@@ -207,7 +207,7 @@ Delete dead code. Zombies bite. 🧟
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-08-22 18:12:36 UTC
+2026-08-22 19:13:59 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
