@@ -106,16 +106,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/pwstrength_meter">
+<a href="https://github.com/texxasrulez/scheduled_sending">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=scheduled_sending&theme=default" alt="scheduled_sending" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/tasklist">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=tasklist&theme=default" alt="tasklist" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
 </p>
@@ -143,8 +143,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “One of the keys to happiness is a bad memory.”
-— <em>Rita Mae Brown</em>
+> “Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.”
+— <em>Lao Tzu</em>
 <!--QUOTE:END-->
 
 ---
@@ -166,7 +166,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Readability scales better than cleverness.
+Delete dead code. Zombies bite. 🧟
 <!--TIP:END-->
 
 ---
@@ -176,7 +176,7 @@ Readability scales better than cleverness.
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 110 | 1.3.2 |
-| [calendar](https://github.com/texxasrulez/calendar/releases) | 41 | 3.6.1 |
+| [calendar](https://github.com/texxasrulez/calendar/releases) | 42 | 3.6.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 20 | 1.6.0 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 17 | 5.0.1 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 14 | 1.0.3 |
@@ -207,7 +207,7 @@ Readability scales better than cleverness.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-08-23 16:11:06 UTC
+2026-08-23 17:10:45 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
