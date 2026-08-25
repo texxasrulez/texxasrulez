@@ -106,16 +106,16 @@ Thanks for making these tools sound native everywhere.
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/vcard_attach">
+<a href="https://github.com/texxasrulez/green-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=green-larry&theme=default" alt="green-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/violet-larry">
+<a href="https://github.com/texxasrulez/Stock_Tracking_Spreadsheet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=Stock_Tracking_Spreadsheet&theme=default" alt="Stock_Tracking_Spreadsheet" />
   </picture>
 </a>
 </p>
@@ -143,8 +143,8 @@ Thanks for making these tools sound native everywhere.
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “There are few reasons for telling the truth, but for lying the number is infinite.”
-— <em>Carlos Ruiz Zafon</em>
+> “Treat everyone with politeness and kindness, not because they are nice, but because you are.”
+— <em>Roy T. Bennett</em>
 <!--QUOTE:END-->
 
 ---
@@ -166,7 +166,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Guard rails > guard clauses > guard your time.
+Small commits, great diffs. Atomic changes win.
 <!--TIP:END-->
 
 ---
@@ -178,7 +178,7 @@ Guard rails > guard clauses > guard your time.
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 110 | 1.3.2 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 43 | 3.6.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 20 | 1.6.0 |
-| [account_details](https://github.com/texxasrulez/account_details/releases) | 18 | 5.0.1 |
+| [account_details](https://github.com/texxasrulez/account_details/releases) | 19 | 5.0.1 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 14 | 1.0.3 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 10 | 1.6 |
 | [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 9 | 1.0.5 |
@@ -207,7 +207,7 @@ Guard rails > guard clauses > guard your time.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-08-25 14:32:45 UTC
+2026-08-25 15:31:49 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
