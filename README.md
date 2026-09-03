@@ -105,16 +105,16 @@ _No recent public activity._
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/calendar">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/teal-larry">
+<a href="https://github.com/texxasrulez/autumn-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=teal-larry&theme=default" alt="teal-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=autumn-larry&theme=default" alt="autumn-larry" />
   </picture>
 </a>
 </p>
@@ -142,8 +142,8 @@ _No recent public activity._
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “All leaders are readers.”
-— <em>Jim Rohn</em>
+> “We know nothing of tomorrow, our business is to be good and happy today.”
+— <em>Sydney Smith</em>
 <!--QUOTE:END-->
 
 ---
@@ -165,7 +165,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Name things precisely. Future-you is your angriest code reviewer.
+Plant your taters deep.
 <!--TIP:END-->
 
 ---
@@ -178,10 +178,10 @@ Name things precisely. Future-you is your angriest code reviewer.
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 45 | 3.6.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 21 | 1.6.0 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 19 | 5.0.1 |
-| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 14 | 1.0.3 |
+| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 15 | 1.0.3 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 11 | 1.6 |
+| [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 10 | 1.0.5 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 10 | 1.6 |
-| [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 9 | 1.0.5 |
 | [additional_imap](https://github.com/texxasrulez/additional_imap/releases) | 7 | 0.3.2 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 7 | 1.0.0 |
 <!--RELEASES:END-->
@@ -206,7 +206,7 @@ Name things precisely. Future-you is your angriest code reviewer.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-09-03 18:10:57 UTC
+2026-09-03 21:28:23 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
