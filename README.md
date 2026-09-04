@@ -105,16 +105,16 @@ _No recent public activity._
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/grey-larry">
+<a href="https://github.com/texxasrulez/pillars-of-creation">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grey-larry&theme=default" alt="grey-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/force_elastic">
+<a href="https://github.com/texxasrulez/nextcloud">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=force_elastic&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=force_elastic&theme=default" alt="force_elastic" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
   </picture>
 </a>
 </p>
@@ -142,8 +142,8 @@ _No recent public activity._
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Coming together is a beginning, staying together is progress, and working together is success.”
-— <em>Henry Ford</em>
+> “Success usually comes to those who are too busy to be looking for it.”
+— <em>Colin R. Davis</em>
 <!--QUOTE:END-->
 
 ---
@@ -165,7 +165,7 @@ Longest Streak: 11 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Automate the boring stuff; boredom breeds mistakes.
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -206,7 +206,7 @@ Automate the boring stuff; boredom breeds mistakes.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-09-04 06:40:21 UTC
+2026-09-04 11:50:44 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
