@@ -105,16 +105,16 @@ _No recent public activity._
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
+<a href="https://github.com/texxasrulez/signature_randomizer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=signature_randomizer&theme=default" alt="signature_randomizer" />
+  </picture>
+</a>
 <a href="https://github.com/texxasrulez/plata-larry">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
-  </picture>
-</a>
-<a href="https://github.com/texxasrulez/calendar">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
   </picture>
 </a>
 </p>
@@ -142,8 +142,8 @@ _No recent public activity._
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.”
-— <em>William Faulkner</em>
+> “The less you try to impress, the more peaceful you can be.”
+— <em>Maxime Lagace</em>
 <!--QUOTE:END-->
 
 ---
@@ -165,7 +165,7 @@ Longest Streak: 8 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Prefer pure functions; side effects are where bugs hide. 🪲
+Fail fast, log clearly, recover gracefully.
 <!--TIP:END-->
 
 ---
@@ -206,7 +206,7 @@ Prefer pure functions; side effects are where bugs hide. 🪲
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-09-06 00:20:28 UTC
+2026-09-06 05:15:19 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
