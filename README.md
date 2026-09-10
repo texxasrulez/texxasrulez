@@ -105,16 +105,16 @@ _No recent public activity._
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/blue-larry">
+<a href="https://github.com/texxasrulez/grub2-theme-bikini-atoll">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=blue-larry&theme=default" alt="blue-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-bikini-atoll&theme=default" alt="grub2-theme-bikini-atoll" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/change_notification">
+<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=change_notification&theme=default" alt="change_notification" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
   </picture>
 </a>
 </p>
@@ -142,8 +142,8 @@ _No recent public activity._
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Work is always an antidote to depression.”
-— <em>Eleanor Roosevelt</em>
+> “Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.”
+— <em>Ralph Marston</em>
 <!--QUOTE:END-->
 
 ---
@@ -165,7 +165,7 @@ Longest Streak: 8 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Automate the boring stuff; boredom breeds mistakes.
+Plant your taters deep.
 <!--TIP:END-->
 
 ---
@@ -206,7 +206,7 @@ Automate the boring stuff; boredom breeds mistakes.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-09-10 21:16:43 UTC
+2026-09-10 23:31:01 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
