@@ -105,16 +105,16 @@ _No recent public activity._
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/pink-larry">
+<a href="https://github.com/texxasrulez/pillars-of-creation">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pink-larry&theme=default" alt="pink-larry" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pillars-of-creation&theme=default" alt="pillars-of-creation" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/vcard_attach">
+<a href="https://github.com/texxasrulez/calendar">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
   </picture>
 </a>
 </p>
@@ -142,8 +142,8 @@ _No recent public activity._
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Only the hand that erases can write the true thing.”
-— <em>Meister Eckhart</em>
+> “Start each day with a positive thought and a grateful heart.”
+— <em>Roy T. Bennett</em>
 <!--QUOTE:END-->
 
 ---
@@ -179,9 +179,9 @@ Test boundaries, not happy paths. Dragons live on edges.
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 22 | 1.6.0 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 19 | 5.0.1 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 16 | 1.0.3 |
-| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 11 | 1.6 |
+| [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 12 | 1.6 |
+| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 11 | 1.6 |
 | [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 10 | 1.0.5 |
-| [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 10 | 1.6 |
 | [additional_imap](https://github.com/texxasrulez/additional_imap/releases) | 7 | 0.3.2 |
 | [inline_previewer](https://github.com/texxasrulez/inline_previewer/releases) | 7 | 1.0.0 |
 <!--RELEASES:END-->
@@ -206,7 +206,7 @@ Test boundaries, not happy paths. Dragons live on edges.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-09-11 06:46:21 UTC
+2026-09-11 11:55:02 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
