@@ -142,8 +142,8 @@ _No recent public activity._
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “The future is not a gift. It is an achievement.”
-— <em>Robert F. Kennedy</em>
+> “Do not regret the past. Look to the future.”
+— <em>Soyen Shaku</em>
 <!--QUOTE:END-->
 
 ---
@@ -165,7 +165,7 @@ Longest Streak: 8 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Delete dead code. Zombies bite. 🧟
+Name things precisely. Future-you is your angriest code reviewer.
 <!--TIP:END-->
 
 ---
@@ -206,7 +206,7 @@ Delete dead code. Zombies bite. 🧟
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-09-16 13:11:26 UTC
+2026-09-16 17:48:32 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
