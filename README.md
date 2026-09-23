@@ -105,16 +105,16 @@ _No recent public activity._
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/calendar">
+<a href="https://github.com/texxasrulez/cosmic-cliffs">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=calendar&theme=default" alt="calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=cosmic-cliffs&theme=default" alt="cosmic-cliffs" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/password">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=password&theme=default" alt="password" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
 </p>
@@ -142,8 +142,8 @@ _No recent public activity._
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Insanity is relative. It depends on who has who locked in what cage.”
-— <em>Ray Bradbury</em>
+> “Mistake is a mistake only if you make it twice.”
+— <em>Robin Sharma</em>
 <!--QUOTE:END-->
 
 ---
@@ -165,7 +165,7 @@ Longest Streak: 8 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Delete dead code. Zombies bite. 🧟
+Guard rails > guard clauses > guard your time.
 <!--TIP:END-->
 
 ---
@@ -175,7 +175,7 @@ Delete dead code. Zombies bite. 🧟
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
 | [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 116 | 1.3.2 |
-| [calendar](https://github.com/texxasrulez/calendar/releases) | 48 | 3.6.1 |
+| [calendar](https://github.com/texxasrulez/calendar/releases) | 49 | 3.6.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 23 | 1.6.0 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 19 | 5.0.1 |
 | [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 16 | 1.0.3 |
@@ -206,7 +206,7 @@ Delete dead code. Zombies bite. 🧟
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-09-23 01:00:31 UTC
+2026-09-23 06:53:07 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
