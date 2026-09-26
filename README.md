@@ -105,16 +105,16 @@ _No recent public activity._
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/server-dashboard">
+<a href="https://github.com/texxasrulez/violet-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=server-dashboard&theme=default" alt="server-dashboard" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=violet-larry&theme=default" alt="violet-larry" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/pwstrength_meter">
+<a href="https://github.com/texxasrulez/plata-larry">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=pwstrength_meter&theme=default" alt="pwstrength_meter" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=plata-larry&theme=default" alt="plata-larry" />
   </picture>
 </a>
 </p>
@@ -142,8 +142,8 @@ _No recent public activity._
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “Our life isn't how much we can take out, but how much we can put in.”
-— <em>Estee Lauder</em>
+> “Always keep your eyes open. Keep watching. Because whatever you see can inspire you.”
+— <em>Grace Coddington</em>
 <!--QUOTE:END-->
 
 ---
@@ -165,7 +165,7 @@ Longest Streak: 8 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Small commits, great diffs. Atomic changes win.
+Plant your taters deep.
 <!--TIP:END-->
 
 ---
@@ -174,11 +174,11 @@ Small commits, great diffs. Atomic changes win.
 <!--RELEASES:START-->
 | Repo | Downloads | Latest Tag |
 |---|---:|---|
-| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 116 | 1.3.2 |
+| [scheduled_sending](https://github.com/texxasrulez/scheduled_sending/releases) | 117 | 1.3.2 |
 | [calendar](https://github.com/texxasrulez/calendar/releases) | 49 | 3.6.1 |
 | [plugin_manager](https://github.com/texxasrulez/plugin_manager/releases) | 25 | 1.6.0 |
 | [account_details](https://github.com/texxasrulez/account_details/releases) | 19 | 5.0.1 |
-| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 18 | 1.0.3 |
+| [persistent_login](https://github.com/texxasrulez/persistent_login/releases) | 19 | 1.0.3 |
 | [summer-larry](https://github.com/texxasrulez/summer-larry/releases) | 12 | 1.6 |
 | [plata-larry](https://github.com/texxasrulez/plata-larry/releases) | 11 | 1.6 |
 | [message_highlight](https://github.com/texxasrulez/message_highlight/releases) | 10 | 1.0.5 |
@@ -206,7 +206,7 @@ Small commits, great diffs. Atomic changes win.
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-09-26 11:54:43 UTC
+2026-09-26 15:17:25 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
