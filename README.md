@@ -105,16 +105,16 @@ _No recent public activity._
 ### 📦 Featured Projects
 <!--FEATURED:START-->
 <p align="center">
-<a href="https://github.com/texxasrulez/vcard_attach">
+<a href="https://github.com/texxasrulez/grub2-theme-grub-cave">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=vcard_attach&theme=default" alt="vcard_attach" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-grub-cave&theme=default" alt="grub2-theme-grub-cave" />
   </picture>
 </a>
-<a href="https://github.com/texxasrulez/nextcloud">
+<a href="https://github.com/texxasrulez/grub2-theme-blue-linux-mint">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=nextcloud&theme=default" alt="nextcloud" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=texxasrulez&repo=grub2-theme-blue-linux-mint&theme=default" alt="grub2-theme-blue-linux-mint" />
   </picture>
 </a>
 </p>
@@ -142,8 +142,8 @@ _No recent public activity._
 
 ### 💬 Quote of the Day
 <!--QUOTE:START-->
-> “What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.”
-— <em>T.S. Eliot</em>
+> “The foolish reject what they see, not what they think; the wise reject what they think, not what they see.”
+— <em>Huang Po</em>
 <!--QUOTE:END-->
 
 ---
@@ -165,7 +165,7 @@ Longest Streak: 8 days
 
 ### 🛠️ Tip of the Day
 <!--TIP:START-->
-Delete dead code. Zombies bite. 🧟
+Prefer pure functions; side effects are where bugs hide. 🪲
 <!--TIP:END-->
 
 ---
@@ -206,7 +206,7 @@ Delete dead code. Zombies bite. 🧟
 
 #### 🕰️ Last Updated
 <!--DATE:START-->
-2026-10-02 09:13:25 UTC
+2026-10-02 16:00:11 UTC
 <!--DATE:END-->
 
 > _This README auto-updates via GitHub Actions._
